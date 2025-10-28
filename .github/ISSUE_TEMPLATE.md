@@ -2,7 +2,7 @@
 title: Latest 15 Papers - October 28, 2025
 labels: documentation
 ---
-**Please check the [Github](https://github.com/pstAmbition/DailyArXiv) page for a better reading experience and more papers.**
+**Please check the [Github](https://github.com/Xumengcen/DailyArXiv) page for a better reading experience and more papers.**
 
 ## Multimodal Learning
 | **Title** | **Date** | **Comment** |
@@ -26,21 +26,11 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Causal Climate Emulation with Bayesian Filtering](http://arxiv.org/abs/2506.09891v2)** | 2025-10-24 | 37 pages, 26 figures |
-| **[Foundation Models in Dermatopathology: Skin Tissue Classification](http://arxiv.org/abs/2510.21664v1)** | 2025-10-24 |  |
-| **[FORLA: Federated Object-centric Representation Learning with Slot Attention](http://arxiv.org/abs/2506.02964v2)** | 2025-10-24 | <details><summary>Accep...</summary><p>Accepted by Neurips2025</p></details> |
-| **[Efficient Fairness-Performance Pareto Front Computation](http://arxiv.org/abs/2409.17643v3)** | 2025-10-24 | <details><summary>10 pa...</summary><p>10 pages, contain link to package. Neurips 2025</p></details> |
-| **[Causality Meets Locality: Provably Generalizable and Scalable Policy Learning for Networked Systems](http://arxiv.org/abs/2510.21427v1)** | 2025-10-24 | <details><summary>NeurI...</summary><p>NeurIPS 2025 (Spotlight)</p></details> |
-| **[Disentangled Representation Learning via Modular Compositional Bias](http://arxiv.org/abs/2510.21402v1)** | 2025-10-24 |  |
-| **[Dataset Condensation with Color Compensation](http://arxiv.org/abs/2508.01139v3)** | 2025-10-24 | Accepted in TMLR |
-| **[Large Language Models Meet Text-Attributed Graphs: A Survey of Integration Frameworks and Applications](http://arxiv.org/abs/2510.21131v1)** | 2025-10-24 | <details><summary>Surve...</summary><p>Surveys and overviews; Natural language processing; Knowledge representation and reasoning; Graph algorithms</p></details> |
-| **[Leveraging semantic similarity for experimentation with AI-generated treatments](http://arxiv.org/abs/2510.21119v1)** | 2025-10-24 | 31 pages, 5 figures |
-| **[Fair Representation Learning with Controllable High Confidence Guarantees via Adversarial Inference](http://arxiv.org/abs/2510.21017v1)** | 2025-10-23 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
-| **[Neural Thermodynamics: Entropic Forces in Deep and Universal Representation Learning](http://arxiv.org/abs/2505.12387v2)** | 2025-10-23 | <details><summary>Publi...</summary><p>Published at NeurIPS 2025</p></details> |
-| **[L^2M^3OF: A Large Language Multimodal Model for Metal-Organic Frameworks](http://arxiv.org/abs/2510.20976v1)** | 2025-10-23 | 18 pages, 7 figures |
-| **[Irish-BLiMP: A Linguistic Benchmark for Evaluating Human and Language Model Performance in a Low-Resource Setting](http://arxiv.org/abs/2510.20957v1)** | 2025-10-23 | 8 pages |
-| **[ROPES: Robotic Pose Estimation via Score-Based Causal Representation Learning](http://arxiv.org/abs/2510.20884v1)** | 2025-10-23 | <details><summary>A pre...</summary><p>A preliminary version of this paper appeared at NeurIPS 2025 Workshop on Embodied World Models for Decision Making</p></details> |
-| **[Integrating Structural and Semantic Signals in Text-Attributed Graphs with BiGTex](http://arxiv.org/abs/2504.12474v3)** | 2025-10-23 | 26 pages, 4 figures |
+| **[Bid2X: Revealing Dynamics of Bidding Environment in Online Advertising from A Foundation Model Lens](http://arxiv.org/abs/2510.23410v1)** | 2025-10-27 | 12 pages, KDD 2025 |
+| **[Self-supervised Representation Learning with Local Aggregation for Image-based Profiling](http://arxiv.org/abs/2506.14265v2)** | 2025-10-27 | <details><summary>CVPR ...</summary><p>CVPR 2025 Computer Vision for Drug Discovery</p></details> |
+| **[HOPSE: Scalable Higher-Order Positional and Structural Encoder for Combinatorial Representations](http://arxiv.org/abs/2505.15405v2)** | 2025-10-27 |  |
+| **[ZeroFlood: A Geospatial Foundation Model for Data-Efficient Flood Susceptibility Mapping](http://arxiv.org/abs/2510.23364v1)** | 2025-10-27 | <details><summary>Prepr...</summary><p>Preprint submitted to EUSAR 2026 (under review)</p></details> |
+| **[A Novel Framework for Multi-Modal Protein Representation Learning](http://arxiv.org/abs/2510.23273v1)** | 2025-10-27 | <details><summary>35 pa...</summary><p>35 pages, 5 figures, 4 tables</p></details> |
 
 ## Causal Inference
 | **Title** | **Date** | **Comment** |
@@ -55,11 +45,6 @@ labels: documentation
 | **[ProDAG: Projected Variational Inference for Directed Acyclic Graphs](http://arxiv.org/abs/2405.15167v6)** | 2025-10-26 | <details><summary>To ap...</summary><p>To appear in Advances in Neural Information Processing Systems</p></details> |
 | **[MECD+: Unlocking Event-Level Causal Graph Discovery for Video Reasoning](http://arxiv.org/abs/2501.07227v4)** | 2025-10-26 | <details><summary>Accep...</summary><p>Accepted by IEEE TPAMI (IEEE Transactions on Pattern Analysis and Machine Intelligence)</p></details> |
 | **[Path-specific effects for pulse-oximetry guided decisions in critical care](http://arxiv.org/abs/2506.12371v2)** | 2025-10-25 |  |
-| **[SteerX: Disentangled Steering for LLM Personalization](http://arxiv.org/abs/2510.22256v1)** | 2025-10-25 |  |
-| **[Optimal Nuisance Function Tuning for Estimating a Doubly Robust Functional under Proportional Asymptotics](http://arxiv.org/abs/2509.25536v2)** | 2025-10-24 |  |
-| **[Empirically assessing the plausibility of unconfoundedness in observational studies](http://arxiv.org/abs/2402.10156v3)** | 2025-10-24 |  |
-| **[Resilient Radio Access Networks: AI and the Unknown Unknowns](http://arxiv.org/abs/2510.21587v1)** | 2025-10-24 | <details><summary>Accep...</summary><p>Accepted for presentation at 2025 IEEE Globecom Workshop on Resilience in Next-Generation Wireless Communication Networks</p></details> |
-| **[Doubly Robust Estimation of Causal Effects in Strategic Equilibrium Systems](http://arxiv.org/abs/2510.15555v3)** | 2025-10-24 |  |
 
 ## Misinformation Detection
 | **Title** | **Date** | **Comment** |
@@ -112,4 +97,9 @@ labels: documentation
 | **[Are Agents Just Automata? On the Formal Equivalence Between Agentic AI and the Chomsky Hierarchy](http://arxiv.org/abs/2510.23487v1)** | 2025-10-27 |  |
 | **[BrowseConf: Confidence-Guided Test-Time Scaling for Web Agents](http://arxiv.org/abs/2510.23458v1)** | 2025-10-27 | 25 pages |
 | **[Model Proficiency in Centralized Multi-Agent Systems: A Performance Study](http://arxiv.org/abs/2510.23447v1)** | 2025-10-27 |  |
+| **[ARCS: Agentic Retrieval-Augmented Code Synthesis with Iterative Refinement](http://arxiv.org/abs/2504.20434v2)** | 2025-10-27 |  |
+| **[A Principle of Targeted Intervention for Multi-Agent Reinforcement Learning](http://arxiv.org/abs/2510.17697v3)** | 2025-10-27 | <details><summary>Publi...</summary><p>Published in NeurIPS 2025</p></details> |
+| **[The Complexity Trap: Simple Observation Masking Is as Efficient as LLM Summarization for Agent Context Management](http://arxiv.org/abs/2508.21433v3)** | 2025-10-27 | <details><summary>v3: D...</summary><p>v3: DL4C camera-ready version to be presented at the 4th DL4C workshop co-located with NeurIPS '25; added OpenHands generality probe, added hybrid context management strategy</p></details> |
+| **[TrajAgent: An LLM-Agent Framework for Trajectory Modeling via Large-and-Small Model Collaboration](http://arxiv.org/abs/2410.20445v4)** | 2025-10-27 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025, https://github.com/tsinghua-fib-lab/TrajAgent</p></details> |
+| **[Code Aesthetics with Agentic Reward Feedback](http://arxiv.org/abs/2510.23272v1)** | 2025-10-27 | 30 pages, 7 figures |
 
