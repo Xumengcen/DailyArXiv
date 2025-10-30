@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 29, 2025
+title: Latest 15 Papers - October 30, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Xumengcen/DailyArXiv) page for a better reading experience and more papers.**
@@ -35,7 +35,7 @@ labels: documentation
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Why Foundation Models in Pathology Are Failing](http://arxiv.org/abs/2510.23807v1)** | 2025-10-27 |  |
+| **[Why Foundation Models in Pathology Are Failing](http://arxiv.org/abs/2510.23807v2)** | 2025-10-29 |  |
 | **[Windsock is Dancing: Adaptive Multimodal Retrieval-Augmented Generation](http://arxiv.org/abs/2510.22694v1)** | 2025-10-26 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025 UniReps Workshop</p></details> |
 | **[Open Multimodal Retrieval-Augmented Factual Image Generation](http://arxiv.org/abs/2510.22521v1)** | 2025-10-26 | Preprint |
 | **[Retrv-R1: A Reasoning-Driven MLLM Framework for Universal and Efficient Multimodal Retrieval](http://arxiv.org/abs/2510.02745v2)** | 2025-10-25 | NeurIPS 2025 |
