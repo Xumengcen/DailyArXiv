@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 30, 2025
+title: Latest 15 Papers - October 31, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Xumengcen/DailyArXiv) page for a better reading experience and more papers.**
@@ -16,6 +16,7 @@ labels: documentation
 ## Composed Image Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Instance-Level Composed Image Retrieval](http://arxiv.org/abs/2510.25387v1)** | 2025-10-29 | NeurIPS 2025 |
 | **[Automatic Synthesis of High-Quality Triplet Data for Composed Image Retrieval](http://arxiv.org/abs/2507.05970v3)** | 2025-10-13 | <details><summary>This ...</summary><p>This paper was originally submitted to ACM MM 2025 on April 12, 2025</p></details> |
 | **[CIR-CoT: Towards Interpretable Composed Image Retrieval via End-to-End Chain-of-Thought Reasoning](http://arxiv.org/abs/2510.08003v1)** | 2025-10-09 |  |
 | **[SQUARE: Semantic Query-Augmented Fusion and Efficient Batch Reranking for Training-free Zero-Shot Composed Image Retrieval](http://arxiv.org/abs/2509.26330v1)** | 2025-09-30 | 20 pages, 9 figures |
@@ -30,12 +31,12 @@ labels: documentation
 | **[FAR-Net: Multi-Stage Fusion Network with Enhanced Semantic Alignment and Adaptive Reconciliation for Composed Image Retrieval](http://arxiv.org/abs/2507.12823v1)** | 2025-07-17 | <details><summary>6 pag...</summary><p>6 pages, 3 figures, 3 tables</p></details> |
 | **[MCoT-RE: Multi-Faceted Chain-of-Thought and Re-Ranking for Training-Free Zero-Shot Composed Image Retrieval](http://arxiv.org/abs/2507.12819v1)** | 2025-07-17 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, 2025 IEEE International Conference on Systems, Man, and Cybernetics</p></details> |
 | **[QuRe: Query-Relevant Retrieval through Hard Negative Sampling in Composed Image Retrieval](http://arxiv.org/abs/2507.12416v1)** | 2025-07-16 | <details><summary>Accep...</summary><p>Accepted to ICML 2025</p></details> |
-| **[FACap: A Large-scale Fashion Dataset for Fine-grained Composed Image Retrieval](http://arxiv.org/abs/2507.07135v1)** | 2025-07-08 |  |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[Why Foundation Models in Pathology Are Failing](http://arxiv.org/abs/2510.23807v2)** | 2025-10-29 |  |
+| **[Seeing Through the MiRAGE: Evaluating Multimodal Retrieval Augmented Generation](http://arxiv.org/abs/2510.24870v1)** | 2025-10-28 | <details><summary>https...</summary><p>https://github.com/alexmartin1722/mirage</p></details> |
 | **[Windsock is Dancing: Adaptive Multimodal Retrieval-Augmented Generation](http://arxiv.org/abs/2510.22694v1)** | 2025-10-26 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025 UniReps Workshop</p></details> |
 | **[Open Multimodal Retrieval-Augmented Factual Image Generation](http://arxiv.org/abs/2510.22521v1)** | 2025-10-26 | Preprint |
 | **[Retrv-R1: A Reasoning-Driven MLLM Framework for Universal and Efficient Multimodal Retrieval](http://arxiv.org/abs/2510.02745v2)** | 2025-10-25 | NeurIPS 2025 |
@@ -49,5 +50,4 @@ labels: documentation
 | **[PRISM: Enhancing Protein Inverse Folding through Fine-Grained Retrieval on Structure-Sequence Multimodal Representations](http://arxiv.org/abs/2510.11750v1)** | 2025-10-12 |  |
 | **[Lightweight Joint Optimization of General-Purpose Vision-Language Models and Retrievers for RAG-Based Medical Diagnosis](http://arxiv.org/abs/2508.17394v3)** | 2025-10-11 |  |
 | **[MRMR: A Realistic and Expert-Level Multidisciplinary Benchmark for Reasoning-Intensive Multimodal Retrieval](http://arxiv.org/abs/2510.09510v1)** | 2025-10-10 |  |
-| **[Robustness in Both Domains: CLIP Needs a Robust Text Encoder](http://arxiv.org/abs/2506.03355v2)** | 2025-10-10 | <details><summary>Accep...</summary><p>Accepted in NeurIPS 2025</p></details> |
 
