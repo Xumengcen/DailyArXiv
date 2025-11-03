@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 02, 2025
+title: Latest 15 Papers - November 03, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Xumengcen/DailyArXiv) page for a better reading experience and more papers.**
@@ -45,4 +45,9 @@ labels: documentation
 | **[Scaling Beyond Context: A Survey of Multimodal Retrieval-Augmented Generation for Document Understanding](http://arxiv.org/abs/2510.15253v1)** | 2025-10-17 |  |
 | **[Supervised Fine-Tuning or Contrastive Learning? Towards Better Multimodal LLM Reranking](http://arxiv.org/abs/2510.14824v1)** | 2025-10-16 |  |
 | **[Multimodal RAG for Unstructured Data:Leveraging Modality-Aware Knowledge Graphs with Hybrid Retrieval](http://arxiv.org/abs/2510.14592v1)** | 2025-10-16 | <details><summary>12 pa...</summary><p>12 pages, 6 figures, submitted for review</p></details> |
+| **[Highlighting What Matters: Promptable Embeddings for Attribute-Focused Image Retrieval](http://arxiv.org/abs/2505.15877v2)** | 2025-10-14 | <details><summary>NeurI...</summary><p>NeurIPS 2025; 27 pages, 6 figures</p></details> |
+| **[Multimodal Retrieval-Augmented Generation with Large Language Models for Medical VQA](http://arxiv.org/abs/2510.13856v1)** | 2025-10-12 |  |
+| **[PRISM: Enhancing Protein Inverse Folding through Fine-Grained Retrieval on Structure-Sequence Multimodal Representations](http://arxiv.org/abs/2510.11750v1)** | 2025-10-12 |  |
+| **[Lightweight Joint Optimization of General-Purpose Vision-Language Models and Retrievers for RAG-Based Medical Diagnosis](http://arxiv.org/abs/2508.17394v3)** | 2025-10-11 |  |
+| **[MRMR: A Realistic and Expert-Level Multidisciplinary Benchmark for Reasoning-Intensive Multimodal Retrieval](http://arxiv.org/abs/2510.09510v1)** | 2025-10-10 |  |
 
