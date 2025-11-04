@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 03, 2025
+title: Latest 15 Papers - November 04, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Xumengcen/DailyArXiv) page for a better reading experience and more papers.**
@@ -35,6 +35,9 @@ labels: documentation
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RzenEmbed: Towards Comprehensive Multimodal Retrieval](http://arxiv.org/abs/2510.27350v1)** | 2025-10-31 |  |
+| **[CogPlanner: Unveiling the Potential of Agentic Multimodal Retrieval Augmented Generation with Planning](http://arxiv.org/abs/2501.15470v2)** | 2025-10-31 | <details><summary>Accep...</summary><p>Accepted by SIGIR-AP 2025</p></details> |
+| **[Evaluating Perspectival Biases in Cross-Modal Retrieval](http://arxiv.org/abs/2510.26861v2)** | 2025-11-03 |  |
 | **[Why Foundation Models in Pathology Are Failing](http://arxiv.org/abs/2510.23807v2)** | 2025-10-29 |  |
 | **[Seeing Through the MiRAGE: Evaluating Multimodal Retrieval Augmented Generation](http://arxiv.org/abs/2510.24870v1)** | 2025-10-28 | <details><summary>https...</summary><p>https://github.com/alexmartin1722/mirage</p></details> |
 | **[Windsock is Dancing: Adaptive Multimodal Retrieval-Augmented Generation](http://arxiv.org/abs/2510.22694v1)** | 2025-10-26 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025 UniReps Workshop</p></details> |
@@ -42,12 +45,4 @@ labels: documentation
 | **[Retrv-R1: A Reasoning-Driven MLLM Framework for Universal and Efficient Multimodal Retrieval](http://arxiv.org/abs/2510.02745v2)** | 2025-10-25 | NeurIPS 2025 |
 | **[TRACE: Grounding Time Series in Context for Multimodal Embedding and Retrieval](http://arxiv.org/abs/2506.09114v2)** | 2025-10-24 |  |
 | **[MCA: Modality Composition Awareness for Robust Composed Multimodal Retrieval](http://arxiv.org/abs/2510.15543v1)** | 2025-10-17 |  |
-| **[Scaling Beyond Context: A Survey of Multimodal Retrieval-Augmented Generation for Document Understanding](http://arxiv.org/abs/2510.15253v1)** | 2025-10-17 |  |
-| **[Supervised Fine-Tuning or Contrastive Learning? Towards Better Multimodal LLM Reranking](http://arxiv.org/abs/2510.14824v1)** | 2025-10-16 |  |
-| **[Multimodal RAG for Unstructured Data:Leveraging Modality-Aware Knowledge Graphs with Hybrid Retrieval](http://arxiv.org/abs/2510.14592v1)** | 2025-10-16 | <details><summary>12 pa...</summary><p>12 pages, 6 figures, submitted for review</p></details> |
-| **[Highlighting What Matters: Promptable Embeddings for Attribute-Focused Image Retrieval](http://arxiv.org/abs/2505.15877v2)** | 2025-10-14 | <details><summary>NeurI...</summary><p>NeurIPS 2025; 27 pages, 6 figures</p></details> |
-| **[Multimodal Retrieval-Augmented Generation with Large Language Models for Medical VQA](http://arxiv.org/abs/2510.13856v1)** | 2025-10-12 |  |
-| **[PRISM: Enhancing Protein Inverse Folding through Fine-Grained Retrieval on Structure-Sequence Multimodal Representations](http://arxiv.org/abs/2510.11750v1)** | 2025-10-12 |  |
-| **[Lightweight Joint Optimization of General-Purpose Vision-Language Models and Retrievers for RAG-Based Medical Diagnosis](http://arxiv.org/abs/2508.17394v3)** | 2025-10-11 |  |
-| **[MRMR: A Realistic and Expert-Level Multidisciplinary Benchmark for Reasoning-Intensive Multimodal Retrieval](http://arxiv.org/abs/2510.09510v1)** | 2025-10-10 |  |
 
