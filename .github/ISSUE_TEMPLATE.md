@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 13, 2025
+title: Latest 15 Papers - November 14, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Xumengcen/DailyArXiv) page for a better reading experience and more papers.**
@@ -36,9 +36,9 @@ labels: documentation
 | **[Composing Text and Image for Image Retrieval - An Empirical Odyssey](https://arxiv.org/pdf/1812.07119v1)** | 2018-12-19 |  |
 | **[Training-free Zero-shot Composed Image Retrieval with Local Concept Reranking](https://arxiv.org/pdf/2312.08924v2)** | 2024-03-26 | Under Review |
 | **[Composed Image Retrieval for Training-Free Domain Conversion](https://arxiv.org/pdf/2412.03297v1)** | 2024-12-05 | WACV 2025 |
-| **[A Comprehensive Survey on Composed Image Retrieval](https://arxiv.org/pdf/2502.18495v2)** | 2025-03-05 |  |
 | **[Sentence-level Prompts Benefit Composed Image Retrieval](https://arxiv.org/pdf/2310.05473v1)** | 2023-10-10 |  |
 | **[Decompose Semantic Shifts for Composed Image Retrieval](https://arxiv.org/pdf/2309.09531v1)** | 2023-09-19 |  |
+| **[A Comprehensive Survey on Composed Image Retrieval](https://arxiv.org/pdf/2502.18495v2)** | 2025-03-05 |  |
 | **[Instance-Level Composed Image Retrieval](https://arxiv.org/pdf/2510.25387v1)** | 2025-10-30 | NeurIPS 2025 |
 | **[NEUCORE: Neural Concept Reasoning for Composed Image Retrieval](https://arxiv.org/pdf/2310.01358v1)** | 2023-10-03 |  |
 
