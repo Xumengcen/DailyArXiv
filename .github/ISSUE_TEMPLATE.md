@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 16, 2025
+title: Latest 15 Papers - November 17, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Xumengcen/DailyArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,11 @@ labels: documentation
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MOON Embedding: Multimodal Representation Learning for E-commerce Search Advertising](https://arxiv.org/abs/2511.11305v1)** | 2025-11-14 | 31 pages, 12 figures |
+| **[Positional Bias in Multimodal Embedding Models: Do They Favor the Beginning, the Middle, or the End?](https://arxiv.org/abs/2511.11216v1)** | 2025-11-14 | <details><summary>accep...</summary><p>accepted to AAAI 2026 main track</p></details> |
+| **[Hindsight Distillation Reasoning with Knowledge Encouragement Preference for Knowledge-based Visual Question Answering](https://arxiv.org/abs/2511.11132v1)** | 2025-11-14 |  |
+| **[Multimodal Peer Review Simulation with Actionable To-Do Recommendations for Community-Aware Manuscript Revisions](https://arxiv.org/abs/2511.10902v1)** | 2025-11-14 |  |
+| **[Q2E: Query-to-Event Decomposition for Zero-Shot Multilingual Text-to-Video Retrieval](https://arxiv.org/abs/2506.10202v2)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted in IJCNLP-AACL 2025 (also presented in MAGMAR 2025 at ACL 2025)</p></details> |
 | **[URaG: Unified Retrieval and Generation in Multimodal LLMs for Efficient Long Document Understanding](https://arxiv.org/abs/2511.10552v1)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026 (Oral)</p></details> |
 | **[Drifting Away from Truth: GenAI-Driven News Diversity Challenges LVLM-Based Misinformation Detection](https://arxiv.org/abs/2508.12711v2)** | 2025-11-13 |  |
 | **[MonkeyOCR v1.5 Technical Report: Unlocking Robust Document Parsing for Complex Patterns](https://arxiv.org/abs/2511.10390v1)** | 2025-11-13 |  |
@@ -55,9 +60,4 @@ labels: documentation
 | **[A Multimodal Recaptioning Framework to Account for Perceptual Diversity Across Languages in Vision-Language Modeling](https://arxiv.org/abs/2504.14359v2)** | 2025-11-11 | <details><summary>Accep...</summary><p>Accepted at IJCNLP-AACL 2025 (Main)</p></details> |
 | **[Compression then Matching: An Efficient Pre-training Paradigm for Multimodal Embedding](https://arxiv.org/abs/2511.08480v1)** | 2025-11-11 | Multimodal Embedding |
 | **[MARC: Multimodal and Multi-Task Agentic Retrieval-Augmented Generation for Cold-Start Recommender System](https://arxiv.org/abs/2511.08181v1)** | 2025-11-11 | <details><summary>13 pa...</summary><p>13 pages, 2 figures, Accepted at RDGENAI at CIKM 2025 workshop</p></details> |
-| **[UMind: A Unified Multitask Network for Zero-Shot M/EEG Visual Decoding](https://arxiv.org/abs/2509.14772v2)** | 2025-11-11 |  |
-| **[Surgical Agent Orchestration Platform for Voice-directed Patient Data Interaction](https://arxiv.org/abs/2511.07392v2)** | 2025-11-11 | <details><summary>22 pa...</summary><p>22 pages, 12 figures, 1 table, Supplementary Information</p></details> |
-| **[Quality Over Quantity? LLM-Based Curation for a Data-Efficient Audio-Video Foundation Model](https://arxiv.org/abs/2503.09205v4)** | 2025-11-10 | <details><summary>Accep...</summary><p>Accepted at EUSIPCO 2025 - 5 pages, 5 figures, 2 tables</p></details> |
-| **[A Hybrid Multimodal Deep Learning Framework for Intelligent Fashion Recommendation](https://arxiv.org/abs/2511.07573v1)** | 2025-11-10 | 8 pages, 1 figure |
-| **[CoSense-LLM: Semantics at the Edge with Cost- and Uncertainty-Aware Cloud-Edge Cooperation](https://arxiv.org/abs/2510.19670v2)** | 2025-11-10 | 19 pages,8 figures |
 
