@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 18, 2025
+title: Latest 15 Papers - November 19, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Xumengcen/DailyArXiv) page for a better reading experience and more papers.**
@@ -45,19 +45,19 @@ labels: documentation
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Explaining Similarity in Vision-Language Encoders with Weighted Banzhaf Interactions](https://arxiv.org/abs/2508.05430v2)** | 2025-11-18 | <details><summary>NeurI...</summary><p>NeurIPS 2025. Code: https://github.com/hbaniecki/fixlip</p></details> |
+| **[Towards Authentic Movie Dubbing with Retrieve-Augmented Director-Actor Interaction Learning](https://arxiv.org/abs/2511.14249v1)** | 2025-11-18 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
+| **[EBind: a practical approach to space binding](https://arxiv.org/abs/2511.14229v1)** | 2025-11-18 |  |
+| **[GAIS: Frame-Level Gated Audio-Visual Integration with Semantic Variance-Scaled Perturbation for Text-Video Retrieval](https://arxiv.org/abs/2508.01711v2)** | 2025-11-18 | 13 pages |
+| **[CoSense-LLM: Semantics at the Edge with Cost- and Uncertainty-Aware Cloud-Edge Cooperation](https://arxiv.org/abs/2510.19670v3)** | 2025-11-18 | 19 pages,8 figures |
+| **[SMART: Shot-Aware Multimodal Video Moment Retrieval with Audio-Enhanced MLLM](https://arxiv.org/abs/2511.14143v1)** | 2025-11-18 |  |
+| **[HiEAG: Evidence-Augmented Generation for Out-of-Context Misinformation Detection](https://arxiv.org/abs/2511.14027v1)** | 2025-11-18 |  |
+| **[Attention Grounded Enhancement for Visual Document Retrieval](https://arxiv.org/abs/2511.13415v1)** | 2025-11-17 |  |
+| **[MM-Telco: Benchmarks and Multimodal Large Language Models for Telecom Applications](https://arxiv.org/abs/2511.13131v1)** | 2025-11-17 |  |
+| **[uCLIP: Parameter-Efficient Multilingual Extension of Vision-Language Models with Unpaired Data](https://arxiv.org/abs/2511.13036v1)** | 2025-11-17 | <details><summary>Our p...</summary><p>Our project page can be found at https://dinyudin203.github.io/uCLIP-project/</p></details> |
+| **[WebCoach: Self-Evolving Web Agents with Cross-Session Memory Guidance](https://arxiv.org/abs/2511.12997v1)** | 2025-11-17 | <details><summary>18 pa...</summary><p>18 pages; work in progress</p></details> |
+| **[On the Fundamental Limits of LLMs at Scale](https://arxiv.org/abs/2511.12869v1)** | 2025-11-17 | <details><summary>Submi...</summary><p>Submitted to TMLR 2025</p></details> |
+| **[MonkeyOCR v1.5 Technical Report: Unlocking Robust Document Parsing for Complex Patterns](https://arxiv.org/abs/2511.10390v2)** | 2025-11-16 |  |
+| **[History Rhymes: Macro-Contextual Retrieval for Robust Financial Forecasting](https://arxiv.org/abs/2511.09754v2)** | 2025-11-16 | <details><summary>Accep...</summary><p>Accepted in IEEE BigData 2025</p></details> |
 | **[Multimodal DeepResearcher: Generating Text-Chart Interleaved Reports From Scratch with Agentic Framework](https://arxiv.org/abs/2506.02454v2)** | 2025-11-16 | AAAI 2026 Oral |
-| **[MAVIS: A Benchmark for Multimodal Source Attribution in Long-form Visual Question Answering](https://arxiv.org/abs/2511.12142v1)** | 2025-11-15 | <details><summary>Accep...</summary><p>Accepted for publication in the Association for the Advancement of Artificial Intelligence (AAAI), 2026</p></details> |
-| **[MARC: Multimodal and Multi-Task Agentic Retrieval-Augmented Generation for Cold-Start Recommender System](https://arxiv.org/abs/2511.08181v2)** | 2025-11-15 | <details><summary>13 pa...</summary><p>13 pages, 2 figures, Accepted at RDGENAI at CIKM 2025 workshop</p></details> |
-| **[Implicit-Knowledge Visual Question Answering with Structured Reasoning Traces](https://arxiv.org/abs/2510.06638v2)** | 2025-11-15 |  |
-| **[RAC3: Retrieval-Augmented Corner Case Comprehension for Autonomous Driving with Vision-Language Models](https://arxiv.org/abs/2412.11050v4)** | 2025-11-15 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Multimedia</p></details> |
-| **[APVR: Hour-Level Long Video Understanding with Adaptive Pivot Visual Information Retrieval](https://arxiv.org/abs/2506.04953v3)** | 2025-11-15 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
-| **[Hierarchical Knowledge Graphs for Story Understanding in Visual Narratives](https://arxiv.org/abs/2506.10008v2)** | 2025-11-15 | <details><summary>Updat...</summary><p>Updated with the ICIDS 2025 camera-ready version. This revision includes the final title, updated abstract, improved explanations of the narrative coherence framework, and minor editorial changes. Figures and examples have been refined for clarity. No new experiments were added</p></details> |
-| **[VITRIX-CLIPIN: Enhancing Fine-Grained Visual Understanding in CLIP via Instruction Editing Data and Long Captions](https://arxiv.org/abs/2508.02329v5)** | 2025-11-15 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025</p></details> |
-| **[GCAgent: Long-Video Understanding via Schematic and Narrative Episodic Memory](https://arxiv.org/abs/2511.12027v1)** | 2025-11-15 |  |
-| **[Look As You Think: Unifying Reasoning and Visual Evidence Attribution for Verifiable Document RAG via Reinforcement Learning](https://arxiv.org/abs/2511.12003v1)** | 2025-11-15 | Poster of AAAI'2026 |
-| **[A Multimodal Manufacturing Safety Chatbot: Knowledge Base Design, Benchmark Development, and Evaluation of Multiple RAG Approaches](https://arxiv.org/abs/2511.11847v1)** | 2025-11-14 | 25 pages, 5 figures |
-| **[MOON Embedding: Multimodal Representation Learning for E-commerce Search Advertising](https://arxiv.org/abs/2511.11305v1)** | 2025-11-14 | 31 pages, 12 figures |
-| **[Positional Bias in Multimodal Embedding Models: Do They Favor the Beginning, the Middle, or the End?](https://arxiv.org/abs/2511.11216v1)** | 2025-11-14 | <details><summary>accep...</summary><p>accepted to AAAI 2026 main track</p></details> |
-| **[Hindsight Distillation Reasoning with Knowledge Encouragement Preference for Knowledge-based Visual Question Answering](https://arxiv.org/abs/2511.11132v1)** | 2025-11-14 |  |
-| **[Multimodal Peer Review Simulation with Actionable To-Do Recommendations for Community-Aware Manuscript Revisions](https://arxiv.org/abs/2511.10902v1)** | 2025-11-14 |  |
 
