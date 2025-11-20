@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 19, 2025
+title: Latest 15 Papers - November 20, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Xumengcen/DailyArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,13 @@ labels: documentation
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[HV-Attack: Hierarchical Visual Attack for Multimodal Retrieval Augmented Generation](https://arxiv.org/abs/2511.15435v1)** | 2025-11-19 |  |
+| **[Drifting Away from Truth: GenAI-Driven News Diversity Challenges LVLM-Based Misinformation Detection](https://arxiv.org/abs/2508.12711v3)** | 2025-11-19 |  |
+| **[The Empowerment of Science of Science by Large Language Models: New Tools and Methods](https://arxiv.org/abs/2511.15370v1)** | 2025-11-19 | <details><summary>The m...</summary><p>The manuscript is currently ongoing the underreview process of the journal of information science</p></details> |
+| **[UniME-V2: MLLM-as-a-Judge for Universal Multimodal Embedding Learning](https://arxiv.org/abs/2510.13515v2)** | 2025-11-19 | <details><summary>AAAI2...</summary><p>AAAI2026 Oral, Webpage:https://garygutc.github.io/UniME-v2/</p></details> |
+| **[MOON: Generative MLLM-based Multimodal Representation Learning for E-commerce Product Understanding](https://arxiv.org/abs/2508.11999v3)** | 2025-11-19 | <details><summary>Accep...</summary><p>Accepted by WSDM 2026. 11 pages, 9 figures</p></details> |
+| **[A Hybrid Multimodal Deep Learning Framework for Intelligent Fashion Recommendation](https://arxiv.org/abs/2511.07573v2)** | 2025-11-18 | 8 pages, 1 figure |
+| **[MOON Embedding: Multimodal Representation Learning for E-commerce Search Advertising](https://arxiv.org/abs/2511.11305v2)** | 2025-11-18 | 31 pages, 12 figures |
 | **[Explaining Similarity in Vision-Language Encoders with Weighted Banzhaf Interactions](https://arxiv.org/abs/2508.05430v2)** | 2025-11-18 | <details><summary>NeurI...</summary><p>NeurIPS 2025. Code: https://github.com/hbaniecki/fixlip</p></details> |
 | **[Towards Authentic Movie Dubbing with Retrieve-Augmented Director-Actor Interaction Learning](https://arxiv.org/abs/2511.14249v1)** | 2025-11-18 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
 | **[EBind: a practical approach to space binding](https://arxiv.org/abs/2511.14229v1)** | 2025-11-18 |  |
@@ -53,11 +60,4 @@ labels: documentation
 | **[SMART: Shot-Aware Multimodal Video Moment Retrieval with Audio-Enhanced MLLM](https://arxiv.org/abs/2511.14143v1)** | 2025-11-18 |  |
 | **[HiEAG: Evidence-Augmented Generation for Out-of-Context Misinformation Detection](https://arxiv.org/abs/2511.14027v1)** | 2025-11-18 |  |
 | **[Attention Grounded Enhancement for Visual Document Retrieval](https://arxiv.org/abs/2511.13415v1)** | 2025-11-17 |  |
-| **[MM-Telco: Benchmarks and Multimodal Large Language Models for Telecom Applications](https://arxiv.org/abs/2511.13131v1)** | 2025-11-17 |  |
-| **[uCLIP: Parameter-Efficient Multilingual Extension of Vision-Language Models with Unpaired Data](https://arxiv.org/abs/2511.13036v1)** | 2025-11-17 | <details><summary>Our p...</summary><p>Our project page can be found at https://dinyudin203.github.io/uCLIP-project/</p></details> |
-| **[WebCoach: Self-Evolving Web Agents with Cross-Session Memory Guidance](https://arxiv.org/abs/2511.12997v1)** | 2025-11-17 | <details><summary>18 pa...</summary><p>18 pages; work in progress</p></details> |
-| **[On the Fundamental Limits of LLMs at Scale](https://arxiv.org/abs/2511.12869v1)** | 2025-11-17 | <details><summary>Submi...</summary><p>Submitted to TMLR 2025</p></details> |
-| **[MonkeyOCR v1.5 Technical Report: Unlocking Robust Document Parsing for Complex Patterns](https://arxiv.org/abs/2511.10390v2)** | 2025-11-16 |  |
-| **[History Rhymes: Macro-Contextual Retrieval for Robust Financial Forecasting](https://arxiv.org/abs/2511.09754v2)** | 2025-11-16 | <details><summary>Accep...</summary><p>Accepted in IEEE BigData 2025</p></details> |
-| **[Multimodal DeepResearcher: Generating Text-Chart Interleaved Reports From Scratch with Agentic Framework](https://arxiv.org/abs/2506.02454v2)** | 2025-11-16 | AAAI 2026 Oral |
 
