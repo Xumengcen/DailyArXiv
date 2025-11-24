@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 23, 2025
+title: Latest 15 Papers - November 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Xumengcen/DailyArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Composed Image Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Composed Object Retrieval: Object-level Retrieval via Composed Expressions](https://arxiv.org/abs/2508.04424v2)** | 2025-11-21 |  |
 | **[From Play to Replay: Composed Video Retrieval for Temporally Fine-Grained Videos](https://arxiv.org/abs/2506.05274v2)** | 2025-11-20 |  |
 | **[DAFM: Dynamic Adaptive Fusion for Multi-Model Collaboration in Composed Image Retrieval](https://arxiv.org/abs/2511.05020v1)** | 2025-11-07 | 10 pages,4 figures |
 | **[MLLM-Driven Semantic Identifier Generation for Generative Cross-Modal Retrieval](https://arxiv.org/abs/2509.17359v2)** | 2025-11-03 | <details><summary>We pl...</summary><p>We plan to revise the methodology and update the experimental analysis before resubmission</p></details> |
@@ -40,11 +41,17 @@ labels: documentation
 | **[TemMed-Bench: Evaluating Temporal Medical Image Reasoning in Vision-Language Models](https://arxiv.org/abs/2509.25143v1)** | 2025-09-29 |  |
 | **[Johnson-Lindenstrauss Lemma Guided Network for Efficient 3D Medical Segmentation](https://arxiv.org/abs/2509.22307v1)** | 2025-09-26 |  |
 | **[PDV: Prompt Directional Vectors for Zero-shot Composed Image Retrieval](https://arxiv.org/abs/2502.07215v3)** | 2025-09-26 |  |
-| **[Chain-of-Thought Re-ranking for Image Retrieval Tasks](https://arxiv.org/abs/2509.14746v1)** | 2025-09-18 |  |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Video-R4: Reinforcing Text-Rich Video Reasoning with Visual Rumination](https://arxiv.org/abs/2511.17490v1)** | 2025-11-21 |  |
+| **[REMSA: An LLM Agent for Foundation Model Selection in Remote Sensing](https://arxiv.org/abs/2511.17442v1)** | 2025-11-21 | <details><summary>Code ...</summary><p>Code and data available at https://github.com/be-chen/REMSA</p></details> |
+| **[Breaking the Curse of Knowledge: Towards Effective Multimodal Recommendation using Knowledge Soft Integration](https://arxiv.org/abs/2305.07419v2)** | 2025-11-21 | <details><summary>Accep...</summary><p>Accepted to IEEE Transactions on Multimedia (TMM)</p></details> |
+| **[Platonic Representations for Poverty Mapping: Unified Vision-Language Codes or Agent-Induced Novelty?](https://arxiv.org/abs/2508.01109v2)** | 2025-11-21 | 7 figures |
+| **[A Little More Like This: Text-to-Image Retrieval with Vision-Language Models Using Relevance Feedback](https://arxiv.org/abs/2511.17255v1)** | 2025-11-21 | Accepted to WACV'26 |
+| **[VSI: Visual Subtitle Integration for Keyframe Selection to enhance Long Video Understanding](https://arxiv.org/abs/2508.06869v3)** | 2025-11-21 | 9 pages,3 figures |
+| **[DReX: Pure Vision Fusion of Self-Supervised and Convolutional Representations for Image Complexity Prediction](https://arxiv.org/abs/2511.16991v1)** | 2025-11-21 | 8 pages |
 | **[Comparison of Text-Based and Image-Based Retrieval in Multimodal Retrieval Augmented Generation Large Language Model Systems](https://arxiv.org/abs/2511.16654v1)** | 2025-11-20 |  |
 | **[SurvAgent: Hierarchical CoT-Enhanced Case Banking and Dichotomy-Based Multi-Agent System for Multimodal Survival Prediction](https://arxiv.org/abs/2511.16635v1)** | 2025-11-20 | 20 pages |
 | **[Conan: Progressive Learning to Reason Like a Detective over Multi-Scale Visual Evidence](https://arxiv.org/abs/2510.20470v2)** | 2025-11-20 |  |
@@ -53,11 +60,4 @@ labels: documentation
 | **[Sensorium Arc: AI Agent System for Oceanic Data Exploration and Interactive Eco-Art](https://arxiv.org/abs/2511.15997v1)** | 2025-11-20 | <details><summary>(to a...</summary><p>(to appear) NeurIPS 2025 Creative AI Track</p></details> |
 | **[FATHOMS-RAG: A Framework for the Assessment of Thinking and Observation in Multimodal Systems that use Retrieval Augmented Generation](https://arxiv.org/abs/2510.08945v2)** | 2025-11-19 | <details><summary>Submi...</summary><p>Submitted to 2026 International Conference on Language Resources and Evaluation (LREC2026)</p></details> |
 | **[GeoVista: Web-Augmented Agentic Visual Reasoning for Geolocalization](https://arxiv.org/abs/2511.15705v1)** | 2025-11-19 |  |
-| **[HV-Attack: Hierarchical Visual Attack for Multimodal Retrieval Augmented Generation](https://arxiv.org/abs/2511.15435v1)** | 2025-11-19 |  |
-| **[Drifting Away from Truth: GenAI-Driven News Diversity Challenges LVLM-Based Misinformation Detection](https://arxiv.org/abs/2508.12711v3)** | 2025-11-19 |  |
-| **[The Empowerment of Science of Science by Large Language Models: New Tools and Methods](https://arxiv.org/abs/2511.15370v1)** | 2025-11-19 | <details><summary>The m...</summary><p>The manuscript is currently ongoing the underreview process of the journal of information science</p></details> |
-| **[UniME-V2: MLLM-as-a-Judge for Universal Multimodal Embedding Learning](https://arxiv.org/abs/2510.13515v2)** | 2025-11-19 | <details><summary>AAAI2...</summary><p>AAAI2026 Oral, Webpage:https://garygutc.github.io/UniME-v2/</p></details> |
-| **[MOON: Generative MLLM-based Multimodal Representation Learning for E-commerce Product Understanding](https://arxiv.org/abs/2508.11999v3)** | 2025-11-19 | <details><summary>Accep...</summary><p>Accepted by WSDM 2026. 11 pages, 9 figures</p></details> |
-| **[A Hybrid Multimodal Deep Learning Framework for Intelligent Fashion Recommendation](https://arxiv.org/abs/2511.07573v2)** | 2025-11-18 | 8 pages, 1 figure |
-| **[MOON Embedding: Multimodal Representation Learning for E-commerce Search Advertising](https://arxiv.org/abs/2511.11305v2)** | 2025-11-18 | 31 pages, 12 figures |
 
