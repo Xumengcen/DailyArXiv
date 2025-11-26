@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 25, 2025
+title: Latest 15 Papers - November 26, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Xumengcen/DailyArXiv) page for a better reading experience and more papers.**
@@ -14,7 +14,6 @@ labels: documentation
 | **[Composed Multi-modal Retrieval: A Survey of Approaches and Applications](https://arxiv.org/abs/2503.01334v2)** | 2025-07-19 |  |
 | **[VideoChat-A1: Thinking with Long Videos by Chain-of-Shot Reasoning](https://arxiv.org/abs/2506.06097v1)** | 2025-06-06 |  |
 | **[One-Shot Imitation under Mismatched Execution](https://arxiv.org/abs/2409.06615v6)** | 2025-03-28 |  |
-| **[Stitch-a-Recipe: Video Demonstration from Multistep Descriptions](https://arxiv.org/abs/2503.13821v1)** | 2025-03-18 |  |
 | **[Logic-RAG: Augmenting Large Multimodal Models with Visual-Spatial Knowledge for Road Scene Understanding](https://arxiv.org/abs/2503.12663v1)** | 2025-03-16 |  |
 | **[CRM: Retrieval Model with Controllable Condition](https://arxiv.org/abs/2412.13844v1)** | 2024-12-18 |  |
 | **[Agent-based Video Trimming](https://arxiv.org/abs/2412.09513v1)** | 2024-12-12 |  |
@@ -22,6 +21,7 @@ labels: documentation
 | **[EgoCVR: An Egocentric Benchmark for Fine-Grained Composed Video Retrieval](https://arxiv.org/abs/2407.16658v1)** | 2024-07-23 | ECCV 2024 |
 | **[SketchQL Demonstration: Zero-shot Video Moment Querying with Sketches](https://arxiv.org/abs/2405.18334v3)** | 2024-07-01 |  |
 | **[Composed Video Retrieval via Enriched Context and Discriminative Embeddings](https://arxiv.org/abs/2403.16997v1)** | 2024-03-25 | CVPR-2024 |
+| **[SoccerNet 2023 Challenges Results](https://arxiv.org/abs/2309.06006v1)** | 2023-09-12 |  |
 
 ## Composed Image Retrieval
 | **Title** | **Date** | **Comment** |
@@ -45,19 +45,19 @@ labels: documentation
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Multimodal Conversational Agent for Tabular Data Analysis](https://arxiv.org/abs/2511.18405v1)** | 2025-11-23 | <details><summary>\c{op...</summary><p>\c{opyright} 2025 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses</p></details> |
-| **[ViMix-14M: A Curated Multi-Source Video-Text Dataset with Long-Form, High-Quality Captions and Crawl-Free Access](https://arxiv.org/abs/2511.18382v1)** | 2025-11-23 |  |
-| **[Cross-Disciplinary Knowledge Retrieval and Synthesis: A Compound AI Architecture for Scientific Discovery](https://arxiv.org/abs/2511.18298v1)** | 2025-11-23 |  |
-| **[Comparison of Text-Based and Image-Based Retrieval in Multimodal Retrieval Augmented Generation Large Language Model Systems](https://arxiv.org/abs/2511.16654v2)** | 2025-11-23 |  |
-| **[Bias Is a Subspace, Not a Coordinate: A Geometric Rethinking of Post-hoc Debiasing in Vision-Language Models](https://arxiv.org/abs/2511.18123v1)** | 2025-11-22 |  |
-| **[EchoVLA: Robotic Vision-Language-Action Model with Synergistic Declarative Memory for Mobile Manipulation](https://arxiv.org/abs/2511.18112v1)** | 2025-11-22 |  |
-| **[When Better Teachers Don't Make Better Students: Revisiting Knowledge Distillation for CLIP Models in VQA](https://arxiv.org/abs/2511.17886v1)** | 2025-11-22 |  |
-| **[Video-R4: Reinforcing Text-Rich Video Reasoning with Visual Rumination](https://arxiv.org/abs/2511.17490v1)** | 2025-11-21 |  |
-| **[REMSA: An LLM Agent for Foundation Model Selection in Remote Sensing](https://arxiv.org/abs/2511.17442v1)** | 2025-11-21 | <details><summary>Code ...</summary><p>Code and data available at https://github.com/be-chen/REMSA</p></details> |
-| **[Breaking the Curse of Knowledge: Towards Effective Multimodal Recommendation using Knowledge Soft Integration](https://arxiv.org/abs/2305.07419v2)** | 2025-11-21 | <details><summary>Accep...</summary><p>Accepted to IEEE Transactions on Multimedia (TMM)</p></details> |
-| **[Platonic Representations for Poverty Mapping: Unified Vision-Language Codes or Agent-Induced Novelty?](https://arxiv.org/abs/2508.01109v2)** | 2025-11-21 | 7 figures |
-| **[A Little More Like This: Text-to-Image Retrieval with Vision-Language Models Using Relevance Feedback](https://arxiv.org/abs/2511.17255v1)** | 2025-11-21 | Accepted to WACV'26 |
-| **[VSI: Visual Subtitle Integration for Keyframe Selection to enhance Long Video Understanding](https://arxiv.org/abs/2508.06869v3)** | 2025-11-21 | 9 pages,3 figures |
-| **[DReX: Pure Vision Fusion of Self-Supervised and Convolutional Representations for Image Complexity Prediction](https://arxiv.org/abs/2511.16991v1)** | 2025-11-21 | 8 pages |
-| **[SurvAgent: Hierarchical CoT-Enhanced Case Banking and Dichotomy-Based Multi-Agent System for Multimodal Survival Prediction](https://arxiv.org/abs/2511.16635v1)** | 2025-11-20 | 20 pages |
+| **[CLIP-IT: CLIP-based Pairing for Histology Images Classification](https://arxiv.org/abs/2504.16181v5)** | 2025-11-25 |  |
+| **[HKRAG: Holistic Knowledge Retrieval-Augmented Generation Over Visually-Rich Documents](https://arxiv.org/abs/2511.20227v1)** | 2025-11-25 |  |
+| **[Large Language Models in Argument Mining: A Survey](https://arxiv.org/abs/2506.16383v6)** | 2025-11-25 | Work draft |
+| **[Video-R4: Reinforcing Text-Rich Video Reasoning with Visual Rumination](https://arxiv.org/abs/2511.17490v2)** | 2025-11-25 |  |
+| **[RadAgents: Multimodal Agentic Reasoning for Chest X-ray Interpretation with Radiologist-like Workflows](https://arxiv.org/abs/2509.20490v2)** | 2025-11-25 | <details><summary>ML4H'...</summary><p>ML4H'25; Work in progress</p></details> |
+| **[Large Language Model Aided Birt-Hogg-Dube Syndrome Diagnosis with Multimodal Retrieval-Augmented Generation](https://arxiv.org/abs/2511.19834v1)** | 2025-11-25 |  |
+| **[SAFE: Harnessing LLM for Scenario-Driven ADS Testing from Multimodal Crash Data](https://arxiv.org/abs/2502.02025v2)** | 2025-11-24 | <details><summary>The p...</summary><p>The paper has been accepted for publication in the proceedings of the IEEE/ACM 48th International Conference on Software Engineering to be held 12-18 April 2026 (ICSE2026)</p></details> |
+| **[UISearch: Graph-Based Embeddings for Multimodal Enterprise UI Screenshots Retrieval](https://arxiv.org/abs/2511.19380v1)** | 2025-11-24 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, 3 algorithms, 4 tables</p></details> |
+| **[FOCUS: Efficient Keyframe Selection for Long Video Understanding](https://arxiv.org/abs/2510.27280v2)** | 2025-11-24 |  |
+| **[ReMatch: Boosting Representation through Matching for Multimodal Retrieval](https://arxiv.org/abs/2511.19278v1)** | 2025-11-24 |  |
+| **[VideoLights: Feature Refinement and Cross-Task Alignment Transformer for Joint Video Highlight Detection and Moment Retrieval](https://arxiv.org/abs/2412.01558v2)** | 2025-11-24 |  |
+| **[Medusa: Cross-Modal Transferable Adversarial Attacks on Multimodal Medical Retrieval-Augmented Generation](https://arxiv.org/abs/2511.19257v1)** | 2025-11-24 | <details><summary>Accep...</summary><p>Accepted at KDD 2026 First Cycle (full version). Authors marked with * contributed equally. Yi Liu is the lead author</p></details> |
+| **[Vidi2: Large Multimodal Models for Video Understanding and Creation](https://arxiv.org/abs/2511.19529v1)** | 2025-11-24 |  |
+| **[HuggingR$^{4}$: A Progressive Reasoning Framework for Discovering Optimal Model Companions](https://arxiv.org/abs/2511.18715v1)** | 2025-11-24 | 19 pages, 4 figures |
+| **[AdaVideoRAG: Omni-Contextual Adaptive Retrieval-Augmented Efficient Long Video Understanding](https://arxiv.org/abs/2506.13589v3)** | 2025-11-23 | NeurIPS 2025 |
 
