@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 30, 2025
+title: Latest 15 Papers - December 01, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Xumengcen/DailyArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Composed Image Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[UNION: A Lightweight Target Representation for Efficient Zero-Shot Image-Guided Retrieval with Optional Textual Queries](https://arxiv.org/abs/2511.22253v1)** | 2025-11-27 | <details><summary>Accep...</summary><p>Accepted at ICDM - MMSR Workshop 2025</p></details> |
+| **[FIGROTD: A Friendly-to-Handle Dataset for Image Guided Retrieval with Optional Text](https://arxiv.org/abs/2511.22247v1)** | 2025-11-27 | Accepted at MMM 2026 |
 | **[Composed Object Retrieval: Object-level Retrieval via Composed Expressions](https://arxiv.org/abs/2508.04424v2)** | 2025-11-21 |  |
 | **[From Play to Replay: Composed Video Retrieval for Temporally Fine-Grained Videos](https://arxiv.org/abs/2506.05274v2)** | 2025-11-20 |  |
 | **[DAFM: Dynamic Adaptive Fusion for Multi-Model Collaboration in Composed Image Retrieval](https://arxiv.org/abs/2511.05020v1)** | 2025-11-07 | 10 pages,4 figures |
@@ -39,25 +41,23 @@ labels: documentation
 | **[SETR: A Two-Stage Semantic-Enhanced Framework for Zero-Shot Composed Image Retrieval](https://arxiv.org/abs/2509.26012v1)** | 2025-09-30 |  |
 | **[Generalized Contrastive Learning for Universal Multimodal Retrieval](https://arxiv.org/abs/2509.25638v1)** | 2025-09-30 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025</p></details> |
 | **[TemMed-Bench: Evaluating Temporal Medical Image Reasoning in Vision-Language Models](https://arxiv.org/abs/2509.25143v1)** | 2025-09-29 |  |
-| **[Johnson-Lindenstrauss Lemma Guided Network for Efficient 3D Medical Segmentation](https://arxiv.org/abs/2509.22307v1)** | 2025-09-26 |  |
-| **[PDV: Prompt Directional Vectors for Zero-shot Composed Image Retrieval](https://arxiv.org/abs/2502.07215v3)** | 2025-09-26 |  |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Qwen3-VL Technical Report](https://arxiv.org/abs/2511.21631v1)** | 2025-11-26 | 42 pages |
+| **[LFM2 Technical Report](https://arxiv.org/abs/2511.23404v1)** | 2025-11-28 |  |
+| **[See, Rank, and Filter: Important Word-Aware Clip Filtering via Scene Understanding for Moment Retrieval and Highlight Detection](https://arxiv.org/abs/2511.22906v1)** | 2025-11-28 |  |
+| **[Resolving Evidence Sparsity: Agentic Context Engineering for Long-Document Understanding](https://arxiv.org/abs/2511.22850v1)** | 2025-11-28 |  |
+| **[Breaking the Visual Shortcuts in Multimodal Knowledge-Based Visual Question Answering](https://arxiv.org/abs/2511.22843v1)** | 2025-11-28 |  |
+| **[ReAG: Reasoning-Augmented Generation for Knowledge-based Visual Question Answering](https://arxiv.org/abs/2511.22715v1)** | 2025-11-27 |  |
+| **[One Patient, Many Contexts: Scaling Medical AI with Contextual Intelligence](https://arxiv.org/abs/2506.10157v3)** | 2025-11-27 |  |
+| **[Qwen3-VL Technical Report](https://arxiv.org/abs/2511.21631v2)** | 2025-11-27 | 42 pages |
+| **[UNION: A Lightweight Target Representation for Efficient Zero-Shot Image-Guided Retrieval with Optional Textual Queries](https://arxiv.org/abs/2511.22253v1)** | 2025-11-27 | <details><summary>Accep...</summary><p>Accepted at ICDM - MMSR Workshop 2025</p></details> |
+| **[Evaluating Strategies for Synthesizing Clinical Notes for Medical Multimodal AI](https://arxiv.org/abs/2511.21827v1)** | 2025-11-26 |  |
 | **[The More, the Merrier: Contrastive Fusion for Higher-Order Multimodal Alignment](https://arxiv.org/abs/2511.21331v1)** | 2025-11-26 |  |
 | **[SARVLM: A Vision Language Foundation Model for Semantic Understanding and Target Recognition in SAR Imagery](https://arxiv.org/abs/2510.22665v2)** | 2025-11-26 | 11 pages, 9 figures |
 | **[Beyond Patch Aggregation: 3-Pass Pyramid Indexing for Vision-Enhanced Document Retrieval](https://arxiv.org/abs/2511.21121v1)** | 2025-11-26 |  |
 | **[Video-R4: Reinforcing Text-Rich Video Reasoning with Visual Rumination](https://arxiv.org/abs/2511.17490v3)** | 2025-11-26 |  |
 | **[CaptionQA: Is Your Caption as Useful as the Image Itself?](https://arxiv.org/abs/2511.21025v1)** | 2025-11-26 |  |
 | **[ReMatch: Boosting Representation through Matching for Multimodal Retrieval](https://arxiv.org/abs/2511.19278v2)** | 2025-11-26 |  |
-| **[Knowledge Completes the Vision: A Multimodal Entity-aware Retrieval-Augmented Generation Framework for News Image Captioning](https://arxiv.org/abs/2511.21002v1)** | 2025-11-26 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026</p></details> |
-| **[FANoise: Singular Value-Adaptive Noise Modulation for Robust Multimodal Representation Learning](https://arxiv.org/abs/2511.20997v1)** | 2025-11-26 | <details><summary>13 pa...</summary><p>13 pages, 5 figures, accept to AAAI2026</p></details> |
-| **[On The Role of Pretrained Language Models in General-Purpose Text Embeddings: A Survey](https://arxiv.org/abs/2507.20783v2)** | 2025-11-26 | <details><summary>45 pa...</summary><p>45 pages, 4 figures, 9 tables</p></details> |
-| **[Unsupervised Memorability Modeling from Tip-of-the-Tongue Retrieval Queries](https://arxiv.org/abs/2511.20854v1)** | 2025-11-25 | <details><summary>Accep...</summary><p>Accepted at WACV 2026</p></details> |
-| **[LongVT: Incentivizing "Thinking with Long Videos" via Native Tool Calling](https://arxiv.org/abs/2511.20785v1)** | 2025-11-25 |  |
-| **[Does Understanding Inform Generation in Unified Multimodal Models? From Analysis to Path Forward](https://arxiv.org/abs/2511.20561v1)** | 2025-11-25 |  |
-| **[New York Smells: A Large Multimodal Dataset for Olfaction](https://arxiv.org/abs/2511.20544v1)** | 2025-11-25 | <details><summary>Proje...</summary><p>Project website at https://smell.cs.columbia.edu</p></details> |
-| **[CLIP-IT: CLIP-based Pairing for Histology Images Classification](https://arxiv.org/abs/2504.16181v5)** | 2025-11-25 |  |
 
