@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 03, 2025
+title: Latest 15 Papers - December 05, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Xumengcen/DailyArXiv) page for a better reading experience and more papers.**
@@ -45,19 +45,19 @@ labels: documentation
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MRD: Multi-resolution Retrieval-Detection Fusion for High-Resolution Image Understanding](https://arxiv.org/abs/2512.02906v1)** | 2025-12-02 |  |
+| **[ARM-Thinker: Reinforcing Multimodal Generative Reward Models with Agentic Tool Use and Visual Reasoning](https://arxiv.org/abs/2512.05111v1)** | 2025-12-04 |  |
+| **[Human Mobility Datasets Enriched With Contextual and Social Dimensions](https://arxiv.org/abs/2510.02333v2)** | 2025-12-04 | <details><summary>5 pag...</summary><p>5 pages, 3 figures, 1 table</p></details> |
+| **[LongVT: Incentivizing "Thinking with Long Videos" via Native Tool Calling](https://arxiv.org/abs/2511.20785v2)** | 2025-12-04 |  |
+| **[OmniDexVLG: Learning Dexterous Grasp Generation from Vision Language Model-Guided Grasp Semantics, Taxonomy and Functional Affordance](https://arxiv.org/abs/2512.03874v1)** | 2025-12-03 | <details><summary>Proje...</summary><p>Project Website: https://sites.google.com/view/omnidexvlg, 16 pages</p></details> |
+| **[MemVerse: Multimodal Memory for Lifelong Learning Agents](https://arxiv.org/abs/2512.03627v1)** | 2025-12-03 | <details><summary>11 pa...</summary><p>11 pages, 2 figures, 2 tables</p></details> |
+| **[M3DR: Towards Universal Multilingual Multimodal Document Retrieval](https://arxiv.org/abs/2512.03514v1)** | 2025-12-03 |  |
+| **[Think Before You Drive: World Model-Inspired Multimodal Grounding for Autonomous Vehicles](https://arxiv.org/abs/2512.03454v1)** | 2025-12-03 |  |
+| **[MRD: Multi-resolution Retrieval-Detection Fusion for High-Resolution Image Understanding](https://arxiv.org/abs/2512.02906v2)** | 2025-12-03 |  |
+| **[Too Late to Recall: Explaining the Two-Hop Problem in Multimodal Knowledge Retrieval](https://arxiv.org/abs/2512.03276v1)** | 2025-12-02 |  |
+| **[Multilingual Training-Free Remote Sensing Image Captioning](https://arxiv.org/abs/2512.00887v2)** | 2025-12-02 |  |
 | **[RoboWheel: A Data Engine from Real-World Human Demonstrations for Cross-Embodiment Robotic Learning](https://arxiv.org/abs/2512.02729v1)** | 2025-12-02 | 27 Pages, 21 figures |
 | **[Boosting Medical Vision-Language Pretraining via Momentum Self-Distillation under Limited Computing Resources](https://arxiv.org/abs/2512.02438v1)** | 2025-12-02 | WACV 2026 |
 | **[WorldMM: Dynamic Multimodal Memory Agent for Long Video Reasoning](https://arxiv.org/abs/2512.02425v1)** | 2025-12-02 | <details><summary>Proje...</summary><p>Project page : https://worldmm.github.io</p></details> |
 | **[Skywork-R1V4: Toward Agentic Multimodal Intelligence through Interleaved Thinking with Images and DeepResearch](https://arxiv.org/abs/2512.02395v1)** | 2025-12-02 | 21 pages, 7 figures |
 | **[Generative Editing in the Joint Vision-Language Space for Zero-Shot Composed Image Retrieval](https://arxiv.org/abs/2512.01636v1)** | 2025-12-01 |  |
-| **[Augmenting Intra-Modal Understanding in MLLMs for Robust Multimodal Keyphrase Generation](https://arxiv.org/abs/2512.00928v1)** | 2025-11-30 |  |
-| **[CART: A Generative Cross-Modal Retrieval Framework with Coarse-To-Fine Semantic Modeling](https://arxiv.org/abs/2406.17507v3)** | 2025-11-30 | <details><summary>Updat...</summary><p>Updated a few baseline metrics based on original publications. Conclusions unchanged</p></details> |
-| **[Multilingual Training-Free Remote Sensing Image Captioning](https://arxiv.org/abs/2512.00887v1)** | 2025-11-30 |  |
-| **[Hybrid-DMKG: A Hybrid Reasoning Framework over Dynamic Multimodal Knowledge Graphs for Multimodal Multihop QA with Knowledge Editing](https://arxiv.org/abs/2512.00881v1)** | 2025-11-30 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
-| **[MOON: Generative MLLM-based Multimodal Representation Learning for E-commerce Product Understanding](https://arxiv.org/abs/2508.11999v4)** | 2025-11-29 | <details><summary>Accep...</summary><p>Accepted by WSDM 2026. 11 pages, 9 figures</p></details> |
-| **[Does Understanding Inform Generation in Unified Multimodal Models? From Analysis to Path Forward](https://arxiv.org/abs/2511.20561v2)** | 2025-11-29 |  |
-| **[CACARA: Cross-Modal Alignment Leveraging a Text-Centric Approach for Cost-Effective Multimodal and Multilingual Learning](https://arxiv.org/abs/2512.00496v1)** | 2025-11-29 | <details><summary>25 pa...</summary><p>25 pages, 12 tables, 5 figures</p></details> |
-| **[Look as You Think: Unifying Reasoning and Visual Evidence Attribution for Verifiable Document RAG via Reinforcement Learning](https://arxiv.org/abs/2511.12003v2)** | 2025-11-29 | Poster of AAAI'2026 |
-| **[Words into World: A Task-Adaptive Agent for Language-Guided Spatial Retrieval in AR](https://arxiv.org/abs/2512.00294v1)** | 2025-11-29 |  |
 
