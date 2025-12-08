@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 07, 2025
+title: Latest 15 Papers - December 08, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Xumengcen/DailyArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,8 @@ labels: documentation
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[M4-RAG: A Massive-Scale Multilingual Multi-Cultural Multimodal RAG](https://arxiv.org/abs/2512.05959v1)** | 2025-12-05 | Preprint |
+| **[ArtistMus: A Globally Diverse, Artist-Centric Benchmark for Retrieval-Augmented Music Question Answering](https://arxiv.org/abs/2512.05430v1)** | 2025-12-05 | <details><summary>Submi...</summary><p>Submitted to LREC 2026. This work is an evolution of our earlier preprint arXiv:2507.23334</p></details> |
 | **[ARM-Thinker: Reinforcing Multimodal Generative Reward Models with Agentic Tool Use and Visual Reasoning](https://arxiv.org/abs/2512.05111v1)** | 2025-12-04 |  |
 | **[Human Mobility Datasets Enriched With Contextual and Social Dimensions](https://arxiv.org/abs/2510.02333v2)** | 2025-12-04 | <details><summary>5 pag...</summary><p>5 pages, 3 figures, 1 table</p></details> |
 | **[LongVT: Incentivizing "Thinking with Long Videos" via Native Tool Calling](https://arxiv.org/abs/2511.20785v2)** | 2025-12-04 |  |
@@ -58,6 +60,4 @@ labels: documentation
 | **[RoboWheel: A Data Engine from Real-World Human Demonstrations for Cross-Embodiment Robotic Learning](https://arxiv.org/abs/2512.02729v1)** | 2025-12-02 | 27 Pages, 21 figures |
 | **[Boosting Medical Vision-Language Pretraining via Momentum Self-Distillation under Limited Computing Resources](https://arxiv.org/abs/2512.02438v1)** | 2025-12-02 | WACV 2026 |
 | **[WorldMM: Dynamic Multimodal Memory Agent for Long Video Reasoning](https://arxiv.org/abs/2512.02425v1)** | 2025-12-02 | <details><summary>Proje...</summary><p>Project page : https://worldmm.github.io</p></details> |
-| **[Skywork-R1V4: Toward Agentic Multimodal Intelligence through Interleaved Thinking with Images and DeepResearch](https://arxiv.org/abs/2512.02395v1)** | 2025-12-02 | 21 pages, 7 figures |
-| **[Generative Editing in the Joint Vision-Language Space for Zero-Shot Composed Image Retrieval](https://arxiv.org/abs/2512.01636v1)** | 2025-12-01 |  |
 
