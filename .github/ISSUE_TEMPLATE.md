@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 24, 2025
+title: Latest 15 Papers - December 25, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Xumengcen/DailyArXiv) page for a better reading experience and more papers.**
@@ -17,6 +17,7 @@ labels: documentation
 ## Composed Image Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Soft Filtering: Guiding Zero-shot Composed Image Retrieval with Prescriptive and Proscriptive Constraints](https://arxiv.org/abs/2512.20781v1)** | 2025-12-23 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026 Workshop on New Frontiers in Information Retrieval</p></details> |
 | **[DAFM: Dynamic Adaptive Fusion for Multi-Model Collaboration in Composed Image Retrieval](https://arxiv.org/abs/2511.05020v2)** | 2025-12-18 | <details><summary>We di...</summary><p>We discovered an error that affects the main conclusions, so we decided to withdraw the paper</p></details> |
 | **[Instance-Level Composed Image Retrieval](https://arxiv.org/abs/2510.25387v2)** | 2025-12-15 | NeurIPS 2025 |
 | **[HUD: Hierarchical Uncertainty-Aware Disambiguation Network for Composed Video Retrieval](https://arxiv.org/abs/2512.02792v2)** | 2025-12-14 | <details><summary>Accep...</summary><p>Accepted by ACM MM 2025</p></details> |
@@ -31,7 +32,6 @@ labels: documentation
 | **[PDV: Prompt Directional Vectors for Zero-shot Composed Image Retrieval](https://arxiv.org/abs/2502.07215v3)** | 2025-09-26 |  |
 | **[Chain-of-Thought Re-ranking for Image Retrieval Tasks](https://arxiv.org/abs/2509.14746v1)** | 2025-09-18 |  |
 | **[Modality and Task Adaptation for Enhanced Zero-shot Composed Image Retrieval](https://arxiv.org/abs/2410.23736v2)** | 2025-08-06 |  |
-| **[iSEARLE: Improving Textual Inversion for Zero-Shot Composed Image Retrieval](https://arxiv.org/abs/2405.02951v2)** | 2025-07-26 | <details><summary>Accep...</summary><p>Accepted at TPAMI, extended version of the ICCV2023 paper arXiv:2303.15247</p></details> |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
