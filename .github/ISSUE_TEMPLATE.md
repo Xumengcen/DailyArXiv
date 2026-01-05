@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 04, 2026
+title: Latest 15 Papers - January 05, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Xumengcen/DailyArXiv) page for a better reading experience and more papers.**
@@ -36,11 +36,11 @@ labels: documentation
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Spatially-Grounded Document Retrieval via Patch-to-Region Relevance Propagation](https://arxiv.org/abs/2512.02660v3)** | 2026-01-01 | <details><summary>21 pa...</summary><p>21 pages, 6 figures, 8 tables. Includes ancillary files with full benchmark results and ablation studies. Code available at https://github.com/athrael-soju/Snappy</p></details> |
 | **[RadAgents: Multimodal Agentic Reasoning for Chest X-ray Interpretation with Radiologist-like Workflows](https://arxiv.org/abs/2509.20490v3)** | 2025-12-22 | <details><summary>ML4H'...</summary><p>ML4H'25; Work in progress</p></details> |
 | **[Generative Giants, Retrieval Weaklings: Why do Multimodal Large Language Models Fail at Multimodal Retrieval?](https://arxiv.org/abs/2512.19115v1)** | 2025-12-22 |  |
 | **[Affordance RAG: Hierarchical Multimodal Retrieval with Affordance-Aware Embodied Memory for Mobile Manipulation](https://arxiv.org/abs/2512.18987v1)** | 2025-12-22 | <details><summary>Accep...</summary><p>Accepted to IEEE RA-L, with presentation at ICRA 2026</p></details> |
 | **[MRAG-Suite: A Diagnostic Evaluation Platform for Visual Retrieval-Augmented Generation](https://arxiv.org/abs/2509.24253v2)** | 2025-12-15 |  |
-| **[Spatially-Grounded Document Retrieval via Patch-to-Region Relevance Propagation](https://arxiv.org/abs/2512.02660v2)** | 2025-12-14 | <details><summary>21 pa...</summary><p>21 pages, 6 figures, 8 tables. Includes ancillary files with full benchmark results and ablation studies. Code available at https://github.com/athrael-soju/Snappy</p></details> |
 | **[Guided Query Refinement: Multimodal Hybrid Retrieval with Test-Time Optimization](https://arxiv.org/abs/2510.05038v2)** | 2025-12-05 |  |
 | **[Hybrid-DMKG: A Hybrid Reasoning Framework over Dynamic Multimodal Knowledge Graphs for Multimodal Multihop QA with Knowledge Editing](https://arxiv.org/abs/2512.00881v1)** | 2025-11-30 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
 | **[Breaking the Visual Shortcuts in Multimodal Knowledge-Based Visual Question Answering](https://arxiv.org/abs/2511.22843v1)** | 2025-11-28 |  |
