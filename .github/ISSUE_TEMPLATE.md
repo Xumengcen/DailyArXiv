@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 06, 2026
+title: Latest 15 Papers - January 07, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Xumengcen/DailyArXiv) page for a better reading experience and more papers.**
@@ -36,6 +36,8 @@ labels: documentation
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LVLM-Aware Multimodal Retrieval for RAG-Based Medical Diagnosis with General-Purpose Models](https://arxiv.org/abs/2508.17394v4)** | 2026-01-06 |  |
+| **[Beyond Patch Aggregation: 3-Pass Pyramid Indexing for Vision-Enhanced Document Retrieval](https://arxiv.org/abs/2511.21121v2)** | 2026-01-06 |  |
 | **[UNIDOC-BENCH: A Unified Benchmark for Document-Centric Multimodal RAG](https://arxiv.org/abs/2510.03663v3)** | 2026-01-05 |  |
 | **[Spatially-Grounded Document Retrieval via Patch-to-Region Relevance Propagation](https://arxiv.org/abs/2512.02660v3)** | 2026-01-01 | <details><summary>21 pa...</summary><p>21 pages, 6 figures, 8 tables. Includes ancillary files with full benchmark results and ablation studies. Code available at https://github.com/athrael-soju/Snappy</p></details> |
 | **[RadAgents: Multimodal Agentic Reasoning for Chest X-ray Interpretation with Radiologist-like Workflows](https://arxiv.org/abs/2509.20490v3)** | 2025-12-22 | <details><summary>ML4H'...</summary><p>ML4H'25; Work in progress</p></details> |
@@ -45,10 +47,8 @@ labels: documentation
 | **[Guided Query Refinement: Multimodal Hybrid Retrieval with Test-Time Optimization](https://arxiv.org/abs/2510.05038v2)** | 2025-12-05 |  |
 | **[Hybrid-DMKG: A Hybrid Reasoning Framework over Dynamic Multimodal Knowledge Graphs for Multimodal Multihop QA with Knowledge Editing](https://arxiv.org/abs/2512.00881v1)** | 2025-11-30 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
 | **[Breaking the Visual Shortcuts in Multimodal Knowledge-Based Visual Question Answering](https://arxiv.org/abs/2511.22843v1)** | 2025-11-28 |  |
-| **[Beyond Patch Aggregation: 3-Pass Pyramid Indexing for Vision-Enhanced Document Retrieval](https://arxiv.org/abs/2511.21121v1)** | 2025-11-26 |  |
 | **[ReMatch: Boosting Representation through Matching for Multimodal Retrieval](https://arxiv.org/abs/2511.19278v2)** | 2025-11-26 |  |
 | **[HKRAG: Holistic Knowledge Retrieval-Augmented Generation Over Visually-Rich Documents](https://arxiv.org/abs/2511.20227v1)** | 2025-11-25 |  |
 | **[Large Language Model Aided Birt-Hogg-Dube Syndrome Diagnosis with Multimodal Retrieval-Augmented Generation](https://arxiv.org/abs/2511.19834v1)** | 2025-11-25 |  |
 | **[ViMix-14M: A Curated Multi-Source Video-Text Dataset with Long-Form, High-Quality Captions and Crawl-Free Access](https://arxiv.org/abs/2511.18382v1)** | 2025-11-23 |  |
-| **[Cross-Disciplinary Knowledge Retrieval and Synthesis: A Compound AI Architecture for Scientific Discovery](https://arxiv.org/abs/2511.18298v1)** | 2025-11-23 |  |
 
