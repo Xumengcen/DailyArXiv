@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 07, 2026
+title: Latest 15 Papers - January 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Xumengcen/DailyArXiv) page for a better reading experience and more papers.**
@@ -17,6 +17,7 @@ labels: documentation
 ## Composed Image Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CSMCIR: CoT-Enhanced Symmetric Alignment with Memory Bank for Composed Image Retrieval](https://arxiv.org/abs/2601.03728v1)** | 2026-01-07 |  |
 | **[Soft Filtering: Guiding Zero-shot Composed Image Retrieval with Prescriptive and Proscriptive Constraints](https://arxiv.org/abs/2512.20781v1)** | 2025-12-23 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026 Workshop on New Frontiers in Information Retrieval</p></details> |
 | **[DAFM: Dynamic Adaptive Fusion for Multi-Model Collaboration in Composed Image Retrieval](https://arxiv.org/abs/2511.05020v2)** | 2025-12-18 | <details><summary>We di...</summary><p>We discovered an error that affects the main conclusions, so we decided to withdraw the paper</p></details> |
 | **[Instance-Level Composed Image Retrieval](https://arxiv.org/abs/2510.25387v2)** | 2025-12-15 | NeurIPS 2025 |
@@ -31,11 +32,12 @@ labels: documentation
 | **[SETR: A Two-Stage Semantic-Enhanced Framework for Zero-Shot Composed Image Retrieval](https://arxiv.org/abs/2509.26012v1)** | 2025-09-30 |  |
 | **[PDV: Prompt Directional Vectors for Zero-shot Composed Image Retrieval](https://arxiv.org/abs/2502.07215v3)** | 2025-09-26 |  |
 | **[Chain-of-Thought Re-ranking for Image Retrieval Tasks](https://arxiv.org/abs/2509.14746v1)** | 2025-09-18 |  |
-| **[Modality and Task Adaptation for Enhanced Zero-shot Composed Image Retrieval](https://arxiv.org/abs/2410.23736v2)** | 2025-08-06 |  |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Qwen3-VL-Embedding and Qwen3-VL-Reranker: A Unified Framework for State-of-the-Art Multimodal Retrieval and Ranking](https://arxiv.org/abs/2601.04720v1)** | 2026-01-08 |  |
+| **[Enhancing Multimodal Retrieval via Complementary Information Extraction and Alignment](https://arxiv.org/abs/2601.04571v1)** | 2026-01-08 | Accepted by ACL'2025 |
 | **[LVLM-Aware Multimodal Retrieval for RAG-Based Medical Diagnosis with General-Purpose Models](https://arxiv.org/abs/2508.17394v4)** | 2026-01-06 |  |
 | **[Beyond Patch Aggregation: 3-Pass Pyramid Indexing for Vision-Enhanced Document Retrieval](https://arxiv.org/abs/2511.21121v2)** | 2026-01-06 |  |
 | **[UNIDOC-BENCH: A Unified Benchmark for Document-Centric Multimodal RAG](https://arxiv.org/abs/2510.03663v3)** | 2026-01-05 |  |
@@ -49,6 +51,4 @@ labels: documentation
 | **[Breaking the Visual Shortcuts in Multimodal Knowledge-Based Visual Question Answering](https://arxiv.org/abs/2511.22843v1)** | 2025-11-28 |  |
 | **[ReMatch: Boosting Representation through Matching for Multimodal Retrieval](https://arxiv.org/abs/2511.19278v2)** | 2025-11-26 |  |
 | **[HKRAG: Holistic Knowledge Retrieval-Augmented Generation Over Visually-Rich Documents](https://arxiv.org/abs/2511.20227v1)** | 2025-11-25 |  |
-| **[Large Language Model Aided Birt-Hogg-Dube Syndrome Diagnosis with Multimodal Retrieval-Augmented Generation](https://arxiv.org/abs/2511.19834v1)** | 2025-11-25 |  |
-| **[ViMix-14M: A Curated Multi-Source Video-Text Dataset with Long-Form, High-Quality Captions and Crawl-Free Access](https://arxiv.org/abs/2511.18382v1)** | 2025-11-23 |  |
 
