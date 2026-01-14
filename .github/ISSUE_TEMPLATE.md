@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 13, 2026
+title: Latest 15 Papers - January 14, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Xumengcen/DailyArXiv) page for a better reading experience and more papers.**
@@ -36,6 +36,10 @@ labels: documentation
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[From Rows to Reasoning: A Retrieval-Augmented Multimodal Framework for Spreadsheet Understanding](https://arxiv.org/abs/2601.08741v1)** | 2026-01-13 |  |
+| **[MRAG-Suite: A Diagnostic Evaluation Platform for Visual Retrieval-Augmented Generation](https://arxiv.org/abs/2509.24253v3)** | 2026-01-13 |  |
+| **[CLIP-GS: Unifying Vision-Language Representation with 3D Gaussian Splatting](https://arxiv.org/abs/2412.19142v2)** | 2026-01-12 |  |
+| **[BayesRAG: Probabilistic Mutual Evidence Corroboration for Multimodal Retrieval-Augmented Generation](https://arxiv.org/abs/2601.07329v1)** | 2026-01-12 | 17 pages, 8 figures |
 | **[Scaling Beyond Context: A Survey of Multimodal Retrieval-Augmented Generation for Document Understanding](https://arxiv.org/abs/2510.15253v2)** | 2026-01-09 |  |
 | **[Qwen3-VL-Embedding and Qwen3-VL-Reranker: A Unified Framework for State-of-the-Art Multimodal Retrieval and Ranking](https://arxiv.org/abs/2601.04720v1)** | 2026-01-08 |  |
 | **[Enhancing Multimodal Retrieval via Complementary Information Extraction and Alignment](https://arxiv.org/abs/2601.04571v1)** | 2026-01-08 | Accepted by ACL'2025 |
@@ -46,9 +50,5 @@ labels: documentation
 | **[RadAgents: Multimodal Agentic Reasoning for Chest X-ray Interpretation with Radiologist-like Workflows](https://arxiv.org/abs/2509.20490v3)** | 2025-12-22 | <details><summary>ML4H'...</summary><p>ML4H'25; Work in progress</p></details> |
 | **[Generative Giants, Retrieval Weaklings: Why do Multimodal Large Language Models Fail at Multimodal Retrieval?](https://arxiv.org/abs/2512.19115v1)** | 2025-12-22 |  |
 | **[Affordance RAG: Hierarchical Multimodal Retrieval with Affordance-Aware Embodied Memory for Mobile Manipulation](https://arxiv.org/abs/2512.18987v1)** | 2025-12-22 | <details><summary>Accep...</summary><p>Accepted to IEEE RA-L, with presentation at ICRA 2026</p></details> |
-| **[MRAG-Suite: A Diagnostic Evaluation Platform for Visual Retrieval-Augmented Generation](https://arxiv.org/abs/2509.24253v2)** | 2025-12-15 |  |
 | **[Guided Query Refinement: Multimodal Hybrid Retrieval with Test-Time Optimization](https://arxiv.org/abs/2510.05038v2)** | 2025-12-05 |  |
-| **[Hybrid-DMKG: A Hybrid Reasoning Framework over Dynamic Multimodal Knowledge Graphs for Multimodal Multihop QA with Knowledge Editing](https://arxiv.org/abs/2512.00881v1)** | 2025-11-30 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
-| **[Breaking the Visual Shortcuts in Multimodal Knowledge-Based Visual Question Answering](https://arxiv.org/abs/2511.22843v1)** | 2025-11-28 |  |
-| **[ReMatch: Boosting Representation through Matching for Multimodal Retrieval](https://arxiv.org/abs/2511.19278v2)** | 2025-11-26 |  |
 
