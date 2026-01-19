@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 18, 2026
+title: Latest 15 Papers - January 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Xumengcen/DailyArXiv) page for a better reading experience and more papers.**
@@ -17,6 +17,7 @@ labels: documentation
 ## Composed Image Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Heterogeneous Uncertainty-Guided Composed Image Retrieval with Fine-Grained Probabilistic Learning](https://arxiv.org/abs/2601.11393v1)** | 2026-01-16 | <details><summary>Accep...</summary><p>Accepted for publication and oral presentation at AAAI 2026</p></details> |
 | **[CSMCIR: CoT-Enhanced Symmetric Alignment with Memory Bank for Composed Image Retrieval](https://arxiv.org/abs/2601.03728v1)** | 2026-01-07 |  |
 | **[Soft Filtering: Guiding Zero-shot Composed Image Retrieval with Prescriptive and Proscriptive Constraints](https://arxiv.org/abs/2512.20781v1)** | 2025-12-23 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026 Workshop on New Frontiers in Information Retrieval</p></details> |
 | **[DAFM: Dynamic Adaptive Fusion for Multi-Model Collaboration in Composed Image Retrieval](https://arxiv.org/abs/2511.05020v2)** | 2025-12-18 | <details><summary>We di...</summary><p>We discovered an error that affects the main conclusions, so we decided to withdraw the paper</p></details> |
@@ -31,7 +32,6 @@ labels: documentation
 | **[SQUARE: Semantic Query-Augmented Fusion and Efficient Batch Reranking for Training-free Zero-Shot Composed Image Retrieval](https://arxiv.org/abs/2509.26330v1)** | 2025-09-30 | 20 pages, 9 figures |
 | **[SETR: A Two-Stage Semantic-Enhanced Framework for Zero-Shot Composed Image Retrieval](https://arxiv.org/abs/2509.26012v1)** | 2025-09-30 |  |
 | **[PDV: Prompt Directional Vectors for Zero-shot Composed Image Retrieval](https://arxiv.org/abs/2502.07215v3)** | 2025-09-26 |  |
-| **[Chain-of-Thought Re-ranking for Image Retrieval Tasks](https://arxiv.org/abs/2509.14746v1)** | 2025-09-18 |  |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
