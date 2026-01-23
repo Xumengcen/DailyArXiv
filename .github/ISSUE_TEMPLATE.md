@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 22, 2026
+title: Latest 15 Papers - January 23, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Xumengcen/DailyArXiv) page for a better reading experience and more papers.**
@@ -19,9 +19,10 @@ labels: documentation
 ## Composed Image Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Rethinking Composed Image Retrieval Evaluation: A Fine-Grained Benchmark from Image Editing](https://arxiv.org/abs/2601.16125v1)** | 2026-01-22 | Under review |
+| **[Heterogeneous Uncertainty-Guided Composed Image Retrieval with Fine-Grained Probabilistic Learning](https://arxiv.org/abs/2601.11393v2)** | 2026-01-22 | <details><summary>Accep...</summary><p>Accepted for publication and oral presentation at AAAI 2026</p></details> |
 | **[XR: Cross-Modal Agents for Composed Image Retrieval](https://arxiv.org/abs/2601.14245v1)** | 2026-01-20 | <details><summary>Accep...</summary><p>Accepted by WWW 2026. Project: https://01yzzyu.github.io/xr.github.io/</p></details> |
 | **[Fine-Grained Zero-Shot Composed Image Retrieval with Complementary Visual-Semantic Integration](https://arxiv.org/abs/2601.14060v1)** | 2026-01-20 |  |
-| **[Heterogeneous Uncertainty-Guided Composed Image Retrieval with Fine-Grained Probabilistic Learning](https://arxiv.org/abs/2601.11393v1)** | 2026-01-16 | <details><summary>Accep...</summary><p>Accepted for publication and oral presentation at AAAI 2026</p></details> |
 | **[CSMCIR: CoT-Enhanced Symmetric Alignment with Memory Bank for Composed Image Retrieval](https://arxiv.org/abs/2601.03728v1)** | 2026-01-07 |  |
 | **[Soft Filtering: Guiding Zero-shot Composed Image Retrieval with Prescriptive and Proscriptive Constraints](https://arxiv.org/abs/2512.20781v1)** | 2025-12-23 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026 Workshop on New Frontiers in Information Retrieval</p></details> |
 | **[DAFM: Dynamic Adaptive Fusion for Multi-Model Collaboration in Composed Image Retrieval](https://arxiv.org/abs/2511.05020v2)** | 2025-12-18 | <details><summary>We di...</summary><p>We discovered an error that affects the main conclusions, so we decided to withdraw the paper</p></details> |
@@ -33,7 +34,6 @@ labels: documentation
 | **[Composed Object Retrieval: Object-level Retrieval via Composed Expressions](https://arxiv.org/abs/2508.04424v2)** | 2025-11-21 |  |
 | **[Automatic Synthesis of High-Quality Triplet Data for Composed Image Retrieval](https://arxiv.org/abs/2507.05970v3)** | 2025-10-13 | <details><summary>This ...</summary><p>This paper was originally submitted to ACM MM 2025 on April 12, 2025</p></details> |
 | **[CIR-CoT: Towards Interpretable Composed Image Retrieval via End-to-End Chain-of-Thought Reasoning](https://arxiv.org/abs/2510.08003v1)** | 2025-10-09 |  |
-| **[SQUARE: Semantic Query-Augmented Fusion and Efficient Batch Reranking for Training-free Zero-Shot Composed Image Retrieval](https://arxiv.org/abs/2509.26330v1)** | 2025-09-30 | 20 pages, 9 figures |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
