@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 02, 2026
+title: Latest 15 Papers - February 03, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Xumengcen/DailyArXiv) page for a better reading experience and more papers.**
@@ -21,6 +21,8 @@ labels: documentation
 ## Composed Image Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ReCALL: Recalibrating Capability Degradation for MLLM-based Composed Image Retrieval](https://arxiv.org/abs/2602.01639v1)** | 2026-02-02 |  |
+| **[Generating a Paracosm for Training-Free Zero-Shot Composed Image Retrieval](https://arxiv.org/abs/2602.00813v1)** | 2026-01-31 |  |
 | **[X-Aligner: Composed Visual Retrieval without the Bells and Whistles](https://arxiv.org/abs/2601.16582v1)** | 2026-01-23 | 8 pages |
 | **[Rethinking Composed Image Retrieval Evaluation: A Fine-Grained Benchmark from Image Editing](https://arxiv.org/abs/2601.16125v1)** | 2026-01-22 | Under review |
 | **[Heterogeneous Uncertainty-Guided Composed Image Retrieval with Fine-Grained Probabilistic Learning](https://arxiv.org/abs/2601.11393v2)** | 2026-01-22 | <details><summary>Accep...</summary><p>Accepted for publication and oral presentation at AAAI 2026</p></details> |
@@ -34,12 +36,11 @@ labels: documentation
 | **[Enhancing Supervised Composed Image Retrieval via Reasoning-Augmented Representation Engineering](https://arxiv.org/abs/2508.11272v2)** | 2025-12-12 |  |
 | **[Generative Editing in the Joint Vision-Language Space for Zero-Shot Composed Image Retrieval](https://arxiv.org/abs/2512.01636v1)** | 2025-12-01 |  |
 | **[UNION: A Lightweight Target Representation for Efficient Zero-Shot Image-Guided Retrieval with Optional Textual Queries](https://arxiv.org/abs/2511.22253v1)** | 2025-11-27 | <details><summary>Accep...</summary><p>Accepted at ICDM - MMSR Workshop 2025</p></details> |
-| **[Composed Object Retrieval: Object-level Retrieval via Composed Expressions](https://arxiv.org/abs/2508.04424v2)** | 2025-11-21 |  |
-| **[Automatic Synthesis of High-Quality Triplet Data for Composed Image Retrieval](https://arxiv.org/abs/2507.05970v3)** | 2025-10-13 | <details><summary>This ...</summary><p>This paper was originally submitted to ACM MM 2025 on April 12, 2025</p></details> |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TRACE: Grounding Time Series in Context for Multimodal Embedding and Retrieval](https://arxiv.org/abs/2506.09114v3)** | 2026-01-31 |  |
 | **[Efficient Multimodal Planning Agent for Visual Question-Answering](https://arxiv.org/abs/2601.20676v1)** | 2026-01-28 |  |
 | **[UI Remix: Supporting UI Design Through Interactive Example Retrieval and Remixing](https://arxiv.org/abs/2601.18759v2)** | 2026-01-28 | <details><summary>Accep...</summary><p>Accepted at the 31st International Conference on Intelligent User Interfaces (IUI 2026)</p></details> |
 | **[A Systemic Evaluation of Multimodal RAG Privacy](https://arxiv.org/abs/2601.17644v2)** | 2026-01-27 |  |
@@ -49,10 +50,9 @@ labels: documentation
 | **[UniFGVC: Universal Training-Free Few-Shot Fine-Grained Vision Classification via Attribute-Aware Multimodal Retrieval](https://arxiv.org/abs/2508.04136v2)** | 2026-01-23 |  |
 | **[Unified Multimodal and Multilingual Retrieval via Multi-Task Learning with NLU Integration](https://arxiv.org/abs/2601.14714v1)** | 2026-01-21 | <details><summary>4 pag...</summary><p>4 pages, 2 figures, submitted to IEEE ICASSP 2026</p></details> |
 | **[Qwen3-VL-Embedding and Qwen3-VL-Reranker: A Unified Framework for State-of-the-Art Multimodal Retrieval and Ranking](https://arxiv.org/abs/2601.04720v2)** | 2026-01-19 |  |
+| **[RAPTOR-AI for Disaster OODA Loop: Hierarchical Multimodal RAG with Experience-Driven Agentic Decision-Making](https://arxiv.org/abs/2602.00030v1)** | 2026-01-18 | 4 figures, 3 tables |
 | **[LLM2CLIP: Powerful Language Model Unlocks Richer Visual Representation](https://arxiv.org/abs/2411.04997v5)** | 2026-01-17 |  |
 | **[MM-BRIGHT: A Multi-Task Multimodal Benchmark for Reasoning-Intensive Retrieval](https://arxiv.org/abs/2601.09562v2)** | 2026-01-15 |  |
 | **[LVLM-Aware Multimodal Retrieval for RAG-Based Medical Diagnosis with General-Purpose Models](https://arxiv.org/abs/2508.17394v5)** | 2026-01-14 |  |
 | **[From Rows to Reasoning: A Retrieval-Augmented Multimodal Framework for Spreadsheet Understanding](https://arxiv.org/abs/2601.08741v1)** | 2026-01-13 |  |
-| **[MRAG-Suite: A Diagnostic Evaluation Platform for Visual Retrieval-Augmented Generation](https://arxiv.org/abs/2509.24253v3)** | 2026-01-13 |  |
-| **[CLIP-GS: Unifying Vision-Language Representation with 3D Gaussian Splatting](https://arxiv.org/abs/2412.19142v2)** | 2026-01-12 |  |
 
