@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 04, 2026
+title: Latest 15 Papers - February 05, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Xumengcen/DailyArXiv) page for a better reading experience and more papers.**
@@ -21,6 +21,7 @@ labels: documentation
 ## Composed Image Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SDR-CIR: Semantic Debias Retrieval Framework for Training-Free Zero-Shot Composed Image Retrieval](https://arxiv.org/abs/2602.04451v1)** | 2026-02-04 |  |
 | **[Generating a Paracosm for Training-Free Zero-Shot Composed Image Retrieval](https://arxiv.org/abs/2602.00813v2)** | 2026-02-03 |  |
 | **[ReCALL: Recalibrating Capability Degradation for MLLM-based Composed Image Retrieval](https://arxiv.org/abs/2602.01639v1)** | 2026-02-02 |  |
 | **[X-Aligner: Composed Visual Retrieval without the Bells and Whistles](https://arxiv.org/abs/2601.16582v1)** | 2026-01-23 | 8 pages |
@@ -35,11 +36,11 @@ labels: documentation
 | **[HUD: Hierarchical Uncertainty-Aware Disambiguation Network for Composed Video Retrieval](https://arxiv.org/abs/2512.02792v2)** | 2025-12-14 | <details><summary>Accep...</summary><p>Accepted by ACM MM 2025</p></details> |
 | **[Enhancing Supervised Composed Image Retrieval via Reasoning-Augmented Representation Engineering](https://arxiv.org/abs/2508.11272v2)** | 2025-12-12 |  |
 | **[Generative Editing in the Joint Vision-Language Space for Zero-Shot Composed Image Retrieval](https://arxiv.org/abs/2512.01636v1)** | 2025-12-01 |  |
-| **[UNION: A Lightweight Target Representation for Efficient Zero-Shot Image-Guided Retrieval with Optional Textual Queries](https://arxiv.org/abs/2511.22253v1)** | 2025-11-27 | <details><summary>Accep...</summary><p>Accepted at ICDM - MMSR Workshop 2025</p></details> |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LILaC: Late Interacting in Layered Component Graph for Open-domain Multimodal Multihop Retrieval](https://arxiv.org/abs/2602.04263v1)** | 2026-02-04 | <details><summary>Proje...</summary><p>Project page: https://lilac-emnlp2025.github.io/</p></details> |
 | **[UniFGVC: Universal Training-Free Few-Shot Fine-Grained Vision Classification via Attribute-Aware Multimodal Retrieval](https://arxiv.org/abs/2508.04136v3)** | 2026-02-03 |  |
 | **[TRACE: Grounding Time Series in Context for Multimodal Embedding and Retrieval](https://arxiv.org/abs/2506.09114v3)** | 2026-01-31 |  |
 | **[Efficient Multimodal Planning Agent for Visual Question-Answering](https://arxiv.org/abs/2601.20676v1)** | 2026-01-28 |  |
@@ -54,5 +55,4 @@ labels: documentation
 | **[LLM2CLIP: Powerful Language Model Unlocks Richer Visual Representation](https://arxiv.org/abs/2411.04997v5)** | 2026-01-17 |  |
 | **[MM-BRIGHT: A Multi-Task Multimodal Benchmark for Reasoning-Intensive Retrieval](https://arxiv.org/abs/2601.09562v2)** | 2026-01-15 |  |
 | **[LVLM-Aware Multimodal Retrieval for RAG-Based Medical Diagnosis with General-Purpose Models](https://arxiv.org/abs/2508.17394v5)** | 2026-01-14 |  |
-| **[From Rows to Reasoning: A Retrieval-Augmented Multimodal Framework for Spreadsheet Understanding](https://arxiv.org/abs/2601.08741v1)** | 2026-01-13 |  |
 
