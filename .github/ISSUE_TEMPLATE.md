@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 08, 2026
+title: Latest 15 Papers - February 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Xumengcen/DailyArXiv) page for a better reading experience and more papers.**
@@ -40,6 +40,8 @@ labels: documentation
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Multimodal Generative Retrieval Model with Staged Pretraining for Food Delivery on Meituan](https://arxiv.org/abs/2602.06654v1)** | 2026-02-06 |  |
+| **[Multimodal Iterative RAG for Knowledge-Intensive Visual Question Answering](https://arxiv.org/abs/2509.00798v5)** | 2026-02-06 |  |
 | **[V-Retrver: Evidence-Driven Agentic Reasoning for Universal Multimodal Retrieval](https://arxiv.org/abs/2602.06034v1)** | 2026-02-05 |  |
 | **[Magic-MM-Embedding: Towards Visual-Token-Efficient Universal Multimodal Embedding with MLLMs](https://arxiv.org/abs/2602.05275v1)** | 2026-02-05 |  |
 | **[LILaC: Late Interacting in Layered Component Graph for Open-domain Multimodal Multihop Retrieval](https://arxiv.org/abs/2602.04263v1)** | 2026-02-04 | <details><summary>Proje...</summary><p>Project page: https://lilac-emnlp2025.github.io/</p></details> |
@@ -53,6 +55,4 @@ labels: documentation
 | **[Evaluating Perspectival Biases in Cross-Modal Retrieval](https://arxiv.org/abs/2510.26861v3)** | 2026-01-24 |  |
 | **[Unified Multimodal and Multilingual Retrieval via Multi-Task Learning with NLU Integration](https://arxiv.org/abs/2601.14714v1)** | 2026-01-21 | <details><summary>4 pag...</summary><p>4 pages, 2 figures, submitted to IEEE ICASSP 2026</p></details> |
 | **[Qwen3-VL-Embedding and Qwen3-VL-Reranker: A Unified Framework for State-of-the-Art Multimodal Retrieval and Ranking](https://arxiv.org/abs/2601.04720v2)** | 2026-01-19 |  |
-| **[RAPTOR-AI for Disaster OODA Loop: Hierarchical Multimodal RAG with Experience-Driven Agentic Decision-Making](https://arxiv.org/abs/2602.00030v1)** | 2026-01-18 | 4 figures, 3 tables |
-| **[LLM2CLIP: Powerful Language Model Unlocks Richer Visual Representation](https://arxiv.org/abs/2411.04997v5)** | 2026-01-17 |  |
 
