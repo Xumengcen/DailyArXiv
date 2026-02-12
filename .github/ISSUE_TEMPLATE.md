@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 11, 2026
+title: Latest 15 Papers - February 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Xumengcen/DailyArXiv) page for a better reading experience and more papers.**
@@ -40,6 +40,8 @@ labels: documentation
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DeepImageSearch: Benchmarking Multimodal Agents for Context-Aware Image Retrieval in Visual Histories](https://arxiv.org/abs/2602.10809v1)** | 2026-02-11 | 17 pages, 5 figures |
+| **[A Vision-Language Foundation Model for Zero-shot Clinical Collaboration and Automated Concept Discovery in Dermatology](https://arxiv.org/abs/2602.10624v1)** | 2026-02-11 | reports |
 | **[ARK: A Dual-Axis Multimodal Retrieval Benchmark along Reasoning and Knowledge](https://arxiv.org/abs/2602.09839v1)** | 2026-02-10 |  |
 | **[From Rows to Reasoning: A Retrieval-Augmented Multimodal Framework for Spreadsheet Understanding](https://arxiv.org/abs/2601.08741v2)** | 2026-02-09 |  |
 | **[A Sketch+Text Composed Image Retrieval Dataset for Thangka](https://arxiv.org/abs/2602.08411v1)** | 2026-02-09 | 9 pages |
@@ -53,6 +55,4 @@ labels: documentation
 | **[UniFGVC: Universal Training-Free Few-Shot Fine-Grained Vision Classification via Attribute-Aware Multimodal Retrieval](https://arxiv.org/abs/2508.04136v3)** | 2026-02-03 |  |
 | **[TRACE: Grounding Time Series in Context for Multimodal Embedding and Retrieval](https://arxiv.org/abs/2506.09114v3)** | 2026-01-31 |  |
 | **[Efficient Multimodal Planning Agent for Visual Question-Answering](https://arxiv.org/abs/2601.20676v1)** | 2026-01-28 |  |
-| **[UI Remix: Supporting UI Design Through Interactive Example Retrieval and Remixing](https://arxiv.org/abs/2601.18759v2)** | 2026-01-28 | <details><summary>Accep...</summary><p>Accepted at the 31st International Conference on Intelligent User Interfaces (IUI 2026)</p></details> |
-| **[A Systemic Evaluation of Multimodal RAG Privacy](https://arxiv.org/abs/2601.17644v2)** | 2026-01-27 |  |
 
