@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 25, 2026
+title: Latest 15 Papers - February 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Xumengcen/DailyArXiv) page for a better reading experience and more papers.**
@@ -40,6 +40,7 @@ labels: documentation
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[V-Retrver: Evidence-Driven Agentic Reasoning for Universal Multimodal Retrieval](https://arxiv.org/abs/2602.06034v2)** | 2026-02-25 | <details><summary>Proje...</summary><p>Project page: https://github.com/chendy25/V-Retrver</p></details> |
 | **[Sculpting the Vector Space: Towards Efficient Multi-Vector Visual Document Retrieval via Prune-then-Merge Framework](https://arxiv.org/abs/2602.19549v1)** | 2026-02-23 | Under review |
 | **[Efficient Discriminative Joint Encoders for Large Scale Vision-Language Reranking](https://arxiv.org/abs/2510.06820v2)** | 2026-02-22 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
 | **[CREM: Compression-Driven Representation Enhancement for Multimodal Retrieval and Comprehension](https://arxiv.org/abs/2602.19091v1)** | 2026-02-22 |  |
@@ -54,5 +55,4 @@ labels: documentation
 | **[BLUEPRINT Rebuilding a Legacy: Multimodal Retrieval for Complex Engineering Drawings and Documents](https://arxiv.org/abs/2602.13345v1)** | 2026-02-12 | <details><summary>20 pa...</summary><p>20 pages 8 main + 12 appendix + references</p></details> |
 | **[DeepImageSearch: Benchmarking Multimodal Agents for Context-Aware Image Retrieval in Visual Histories](https://arxiv.org/abs/2602.10809v1)** | 2026-02-11 | 17 pages, 5 figures |
 | **[A Vision-Language Foundation Model for Zero-shot Clinical Collaboration and Automated Concept Discovery in Dermatology](https://arxiv.org/abs/2602.10624v1)** | 2026-02-11 | reports |
-| **[ARK: A Dual-Axis Multimodal Retrieval Benchmark along Reasoning and Knowledge](https://arxiv.org/abs/2602.09839v1)** | 2026-02-10 |  |
 
