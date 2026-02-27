@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 26, 2026
+title: Latest 15 Papers - February 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Xumengcen/DailyArXiv) page for a better reading experience and more papers.**
@@ -21,6 +21,8 @@ labels: documentation
 ## Composed Image Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[WISER: Wider Search, Deeper Thinking, and Adaptive Fusion for Training-Free Zero-Shot Composed Image Retrieval](https://arxiv.org/abs/2602.23029v1)** | 2026-02-26 |  |
+| **[Pix2Key: Controllable Open-Vocabulary Retrieval with Semantic Decomposition and Self-Supervised Visual Dictionary Learning](https://arxiv.org/abs/2602.22510v1)** | 2026-02-26 |  |
 | **[U-MARVEL: Unveiling Key Factors for Universal Multimodal Retrieval via Embedding Learning with MLLMs](https://arxiv.org/abs/2507.14902v2)** | 2026-02-15 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026</p></details> |
 | **[InfoCIR: Multimedia Analysis for Composed Image Retrieval](https://arxiv.org/abs/2602.13402v1)** | 2026-02-13 | <details><summary>9+2 p...</summary><p>9+2 pages, 8 figures. Accepted for publication in IEEE PacificVis 2026 (Conference Track). Interactive composed image retrieval (CIR) and ranking explanation</p></details> |
 | **[OSCAR: Optimization-Steered Agentic Planning for Composed Image Retrieval](https://arxiv.org/abs/2602.08603v1)** | 2026-02-09 |  |
@@ -34,12 +36,13 @@ labels: documentation
 | **[XR: Cross-Modal Agents for Composed Image Retrieval](https://arxiv.org/abs/2601.14245v1)** | 2026-01-20 | <details><summary>Accep...</summary><p>Accepted by WWW 2026. Project: https://01yzzyu.github.io/xr.github.io/</p></details> |
 | **[Fine-Grained Zero-Shot Composed Image Retrieval with Complementary Visual-Semantic Integration](https://arxiv.org/abs/2601.14060v1)** | 2026-01-20 |  |
 | **[CSMCIR: CoT-Enhanced Symmetric Alignment with Memory Bank for Composed Image Retrieval](https://arxiv.org/abs/2601.03728v1)** | 2026-01-07 |  |
-| **[Soft Filtering: Guiding Zero-shot Composed Image Retrieval with Prescriptive and Proscriptive Constraints](https://arxiv.org/abs/2512.20781v1)** | 2025-12-23 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026 Workshop on New Frontiers in Information Retrieval</p></details> |
-| **[DAFM: Dynamic Adaptive Fusion for Multi-Model Collaboration in Composed Image Retrieval](https://arxiv.org/abs/2511.05020v2)** | 2025-12-18 | <details><summary>We di...</summary><p>We discovered an error that affects the main conclusions, so we decided to withdraw the paper</p></details> |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Understanding protein function with a multimodal retrieval-augmented foundation model](https://arxiv.org/abs/2508.04724v2)** | 2026-02-26 |  |
+| **[MammoWise: Multi-Model Local RAG Pipeline for Mammography Report Generation](https://arxiv.org/abs/2602.22462v1)** | 2026-02-25 | <details><summary>arXiv...</summary><p>arXiv preprint (submitted 25 Feb 2026). Local multi-model pipeline for mammography report generation + classification using prompting, multimodal RAG (ChromaDB), and QLoRA fine-tuning; evaluates MedGemma, LLaVA-Med, Qwen2.5-VL on VinDr-Mammo and DMID; reports BERTScore/ROUGE-L and classification metrics</p></details> |
+| **[Breaking the Visual Shortcuts in Multimodal Knowledge-Based Visual Question Answering](https://arxiv.org/abs/2511.22843v2)** | 2026-02-25 |  |
 | **[V-Retrver: Evidence-Driven Agentic Reasoning for Universal Multimodal Retrieval](https://arxiv.org/abs/2602.06034v2)** | 2026-02-25 | <details><summary>Proje...</summary><p>Project page: https://github.com/chendy25/V-Retrver</p></details> |
 | **[Sculpting the Vector Space: Towards Efficient Multi-Vector Visual Document Retrieval via Prune-then-Merge Framework](https://arxiv.org/abs/2602.19549v1)** | 2026-02-23 | Under review |
 | **[Efficient Discriminative Joint Encoders for Large Scale Vision-Language Reranking](https://arxiv.org/abs/2510.06820v2)** | 2026-02-22 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
@@ -52,7 +55,4 @@ labels: documentation
 | **[JARVIS: An Evidence-Grounded Retrieval System for Interpretable Deceptive Reviews Adjudication](https://arxiv.org/abs/2602.12941v1)** | 2026-02-13 |  |
 | **[WISE: A Multimodal Search Engine for Visual Scenes, Audio, Objects, Faces, Speech, and Metadata](https://arxiv.org/abs/2602.12819v1)** | 2026-02-13 | <details><summary>Softw...</summary><p>Software: https://www.robots.ox.ac.uk/~vgg/software/wise/ , Online demos: https://www.robots.ox.ac.uk/~vgg/software/wise/demo/ , Example Queries: https://www.robots.ox.ac.uk/~vgg/software/wise/examples/</p></details> |
 | **[VimRAG: Navigating Massive Visual Context in Retrieval-Augmented Generation via Multimodal Memory Graph](https://arxiv.org/abs/2602.12735v1)** | 2026-02-13 |  |
-| **[BLUEPRINT Rebuilding a Legacy: Multimodal Retrieval for Complex Engineering Drawings and Documents](https://arxiv.org/abs/2602.13345v1)** | 2026-02-12 | <details><summary>20 pa...</summary><p>20 pages 8 main + 12 appendix + references</p></details> |
-| **[DeepImageSearch: Benchmarking Multimodal Agents for Context-Aware Image Retrieval in Visual Histories](https://arxiv.org/abs/2602.10809v1)** | 2026-02-11 | 17 pages, 5 figures |
-| **[A Vision-Language Foundation Model for Zero-shot Clinical Collaboration and Automated Concept Discovery in Dermatology](https://arxiv.org/abs/2602.10624v1)** | 2026-02-11 | reports |
 
