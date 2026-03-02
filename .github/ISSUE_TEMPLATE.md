@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 01, 2026
+title: Latest 15 Papers - March 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Xumengcen/DailyArXiv) page for a better reading experience and more papers.**
@@ -21,6 +21,7 @@ labels: documentation
 ## Composed Image Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[XR: Cross-Modal Agents for Composed Image Retrieval](https://arxiv.org/abs/2601.14245v2)** | 2026-02-27 | <details><summary>Accep...</summary><p>Accepted by WWW 2026. Project: https://01yzzyu.github.io/xr.github.io/</p></details> |
 | **[WISER: Wider Search, Deeper Thinking, and Adaptive Fusion for Training-Free Zero-Shot Composed Image Retrieval](https://arxiv.org/abs/2602.23029v1)** | 2026-02-26 |  |
 | **[Pix2Key: Controllable Open-Vocabulary Retrieval with Semantic Decomposition and Self-Supervised Visual Dictionary Learning](https://arxiv.org/abs/2602.22510v1)** | 2026-02-26 |  |
 | **[U-MARVEL: Unveiling Key Factors for Universal Multimodal Retrieval via Embedding Learning with MLLMs](https://arxiv.org/abs/2507.14902v2)** | 2026-02-15 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026</p></details> |
@@ -33,7 +34,6 @@ labels: documentation
 | **[X-Aligner: Composed Visual Retrieval without the Bells and Whistles](https://arxiv.org/abs/2601.16582v1)** | 2026-01-23 | 8 pages |
 | **[Rethinking Composed Image Retrieval Evaluation: A Fine-Grained Benchmark from Image Editing](https://arxiv.org/abs/2601.16125v1)** | 2026-01-22 | Under review |
 | **[Heterogeneous Uncertainty-Guided Composed Image Retrieval with Fine-Grained Probabilistic Learning](https://arxiv.org/abs/2601.11393v2)** | 2026-01-22 | <details><summary>Accep...</summary><p>Accepted for publication and oral presentation at AAAI 2026</p></details> |
-| **[XR: Cross-Modal Agents for Composed Image Retrieval](https://arxiv.org/abs/2601.14245v1)** | 2026-01-20 | <details><summary>Accep...</summary><p>Accepted by WWW 2026. Project: https://01yzzyu.github.io/xr.github.io/</p></details> |
 | **[Fine-Grained Zero-Shot Composed Image Retrieval with Complementary Visual-Semantic Integration](https://arxiv.org/abs/2601.14060v1)** | 2026-01-20 |  |
 | **[CSMCIR: CoT-Enhanced Symmetric Alignment with Memory Bank for Composed Image Retrieval](https://arxiv.org/abs/2601.03728v1)** | 2026-01-07 |  |
 
