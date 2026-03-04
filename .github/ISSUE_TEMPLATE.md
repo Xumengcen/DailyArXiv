@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 03, 2026
+title: Latest 15 Papers - March 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Xumengcen/DailyArXiv) page for a better reading experience and more papers.**
@@ -40,6 +40,9 @@ labels: documentation
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TRACE: Task-Adaptive Reasoning and Representation Learning for Universal Multimodal Retrieval](https://arxiv.org/abs/2603.02929v1)** | 2026-03-03 |  |
+| **[LLandMark: A Multi-Agent Framework for Landmark-Aware Multimodal Interactive Video Retrieval](https://arxiv.org/abs/2603.02888v1)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026 Workshop on New Frontiers in Information Retrieval</p></details> |
+| **[OmniRet: Efficient and High-Fidelity Omni Modality Retrieval](https://arxiv.org/abs/2603.02098v1)** | 2026-03-02 | <details><summary>CVPR ...</summary><p>CVPR 2026. Project link: https://github.com/hmchuong/omniret</p></details> |
 | **[PhotoBench: Beyond Visual Matching Towards Personalized Intent-Driven Photo Retrieval](https://arxiv.org/abs/2603.01493v1)** | 2026-03-02 | Under review |
 | **[Beyond Global Similarity: Towards Fine-Grained, Multi-Condition Multimodal Retrieval](https://arxiv.org/abs/2603.01082v1)** | 2026-03-01 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
 | **[MC-Search: Evaluating and Enhancing Multimodal Agentic Search with Structured Long Reasoning Chains](https://arxiv.org/abs/2603.00873v1)** | 2026-03-01 | ICLR 2026 |
@@ -52,7 +55,4 @@ labels: documentation
 | **[Sculpting the Vector Space: Towards Efficient Multi-Vector Visual Document Retrieval via Prune-then-Merge Framework](https://arxiv.org/abs/2602.19549v1)** | 2026-02-23 | Under review |
 | **[Efficient Discriminative Joint Encoders for Large Scale Vision-Language Reranking](https://arxiv.org/abs/2510.06820v2)** | 2026-02-22 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
 | **[CREM: Compression-Driven Representation Enhancement for Multimodal Retrieval and Comprehension](https://arxiv.org/abs/2602.19091v1)** | 2026-02-22 |  |
-| **[On the Adversarial Robustness of Discrete Image Tokenizers](https://arxiv.org/abs/2602.18252v1)** | 2026-02-20 |  |
-| **[U-MARVEL: Unveiling Key Factors for Universal Multimodal Retrieval via Embedding Learning with MLLMs](https://arxiv.org/abs/2507.14902v2)** | 2026-02-15 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026</p></details> |
-| **[RAVENEA: A Benchmark for Multimodal Retrieval-Augmented Visual Culture Understanding](https://arxiv.org/abs/2505.14462v2)** | 2026-02-14 | <details><summary>ICLR ...</summary><p>ICLR 2026; Project page: https://jiaangli.github.io/ravenea/</p></details> |
 
