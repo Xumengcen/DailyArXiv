@@ -9,22 +9,46 @@ from utils import get_daily_papers_by_keyword_with_retries, generate_table, back
 
 beijing_timezone = pytz.timezone('Asia/Shanghai')
 
-# NOTE: arXiv API seems to sometimes return an unexpected empty list.
+# get current beijing time date
+current_date_str = datetime.now(beijing_timezone).strftime("%Y-%m-%d")
+current_date_obj = datetime.now(beijing_timezone).date() # 转换为 date 对象以便计算
 
-# get current beijing time date in the format of "2021-08-01"
-current_date = datetime.now(beijing_timezone).strftime("%Y-%m-%d")
 # get last update date from README.md
-with open("README.md", "r") as f:
-    while True:
-        line = f.readline()
-        if "Last update:" in line: break
-    last_update_date = line.split(": ")[1].strip()
-    # if last_update_date == current_date:
-        # sys.exit("Already updated today!")
+last_update_date_str = None
+try:
+    with open("README.md", "r") as f:
+        while True:
+            line = f.readline()
+            if not line: break # 防止文件读完还没找到
+            if "Last update:" in line:
+                last_update_date_str = line.split(": ")[1].strip()
+                break
+except FileNotFoundError:
+    # 如果是第一次运行，README可能不存在，视为需要更新
+    last_update_date_str = None
+
+if last_update_date_str:
+    try:
+        # 解析上次更新的日期字符串
+        last_update_date_obj = datetime.strptime(last_update_date_str, "%Y-%m-%d").date()
+        
+        # 计算相差天数
+        days_diff = (current_date_obj - last_update_date_obj).days
+        
+        # 【核心修改】如果相差天数小于 3 天，则跳过本次执行
+        if days_diff < 3:
+            print(f"Last update was on {last_update_date_str}. Only {days_diff} days passed. Skipping update (runs every 3 days).")
+            # 注意：此时还没有调用 back_up_files()，所以不需要 restore_files()
+            # 但为了保险起见，如果前面有临时文件操作，可以在这里处理。
+            # 在当前逻辑流中，直接退出即可，因为备份是在后面才做的。
+            sys.exit(0) 
+    except ValueError:
+        print("Error parsing last update date. Proceeding with update just in case.")
+        # 如果日期格式解析失败，为了安全起见，继续执行更新
 
 keywords = ["Composed Video Retrieval", "Composed Image Retrieval", "Multimodal Retrieval"] # TODO add more keywords
 
-max_result = 100 # maximum query results from arXiv API for each keyword
+max_result = 50 # maximum query results from arXiv API for each keyword
 issues_result = 15 # maximum papers to be included in the issue
 
 # all columns: Title, Authors, Abstract, Link, Tags, Comment, Date
