@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 10, 2026
+title: Latest 15 Papers - March 11, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Xumengcen/DailyArXiv) page for a better reading experience and more papers.**
@@ -40,6 +40,8 @@ labels: documentation
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DEO: Training-Free Direct Embedding Optimization for Negation-Aware Retrieval](https://arxiv.org/abs/2603.09185v1)** | 2026-03-10 |  |
+| **[Beyond Relevance: On the Relationship Between Retrieval and RAG Information Coverage](https://arxiv.org/abs/2603.08819v1)** | 2026-03-09 | 11 pages |
 | **[BRIDGE: Benchmark for multi-hop Reasoning In long multimodal Documents with Grounded Evidence](https://arxiv.org/abs/2603.07931v1)** | 2026-03-09 |  |
 | **[Beyond Rows to Reasoning: Agentic Retrieval for Multimodal Spreadsheet Understanding and Editing](https://arxiv.org/abs/2603.06503v1)** | 2026-03-06 |  |
 | **[MultiHaystack: Benchmarking Multimodal Retrieval and Reasoning over 40K Images, Videos, and Documents](https://arxiv.org/abs/2603.05697v1)** | 2026-03-05 |  |
@@ -53,6 +55,4 @@ labels: documentation
 | **[Beyond Global Similarity: Towards Fine-Grained, Multi-Condition Multimodal Retrieval](https://arxiv.org/abs/2603.01082v1)** | 2026-03-01 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
 | **[MC-Search: Evaluating and Enhancing Multimodal Agentic Search with Structured Long Reasoning Chains](https://arxiv.org/abs/2603.00873v1)** | 2026-03-01 | ICLR 2026 |
 | **[Zero-Shot Robotic Manipulation via 3D Gaussian Splatting-Enhanced Multimodal Retrieval-Augmented Generation](https://arxiv.org/abs/2603.00500v1)** | 2026-02-28 | 9 pages, 5 figures |
-| **[Understanding protein function with a multimodal retrieval-augmented foundation model](https://arxiv.org/abs/2508.04724v2)** | 2026-02-26 |  |
-| **[Hidden in the Metadata: Stealth Poisoning Attacks on Multimodal Retrieval-Augmented Generation](https://arxiv.org/abs/2603.00172v1)** | 2026-02-26 |  |
 
