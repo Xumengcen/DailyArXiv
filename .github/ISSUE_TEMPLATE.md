@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 26, 2026
+title: Latest 15 Papers - March 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Xumengcen/DailyArXiv) page for a better reading experience and more papers.**
@@ -22,6 +22,7 @@ labels: documentation
 ## Composed Image Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[OFFSET: Segmentation-based Focus Shift Revision for Composed Image Retrieval](https://arxiv.org/abs/2507.05631v2)** | 2026-03-26 |  |
 | **[WISER: Wider Search, Deeper Thinking, and Adaptive Fusion for Training-Free Zero-Shot Composed Image Retrieval](https://arxiv.org/abs/2602.23029v4)** | 2026-03-24 | Accept to CVPR 2026 |
 | **[MCoT-MVS: Multi-level Vision Selection by Multi-modal Chain-of-Thought Reasoning for Composed Image Retrieval](https://arxiv.org/abs/2603.17360v1)** | 2026-03-18 | <details><summary>Accep...</summary><p>Accepted by The Web Conference 2026 (WWW2026)</p></details> |
 | **[Retrieving Counterfactuals Improves Visual In-Context Learning](https://arxiv.org/abs/2603.16737v1)** | 2026-03-17 | CVPR 2026 |
@@ -36,11 +37,11 @@ labels: documentation
 | **[OSCAR: Optimization-Steered Agentic Planning for Composed Image Retrieval](https://arxiv.org/abs/2602.08603v1)** | 2026-02-09 |  |
 | **[A Sketch+Text Composed Image Retrieval Dataset for Thangka](https://arxiv.org/abs/2602.08411v1)** | 2026-02-09 | 9 pages |
 | **[SDR-CIR: Semantic Debias Retrieval Framework for Training-Free Zero-Shot Composed Image Retrieval](https://arxiv.org/abs/2602.04451v2)** | 2026-02-05 | Accepted by WWW 2026 |
-| **[ReCALL: Recalibrating Capability Degradation for MLLM-based Composed Image Retrieval](https://arxiv.org/abs/2602.01639v1)** | 2026-02-02 |  |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AutoSAM: an Agentic Framework for Automating Input File Generation for the SAM Code with Multi-Modal Retrieval-Augmented Generation](https://arxiv.org/abs/2603.24736v1)** | 2026-03-25 | 34 Pages, 14 Figures |
 | **[Efficient and High-Fidelity Omni Modality Retrieval](https://arxiv.org/abs/2603.02098v2)** | 2026-03-24 | <details><summary>CVPR ...</summary><p>CVPR 2026. Project page: https://hmchuong.github.io/omniret</p></details> |
 | **[Grounded Multimodal Retrieval-Augmented Drafting of Radiology Impressions Using Case-Based Similarity Search](https://arxiv.org/abs/2603.17765v1)** | 2026-03-18 | <details><summary>15 pa...</summary><p>15 pages, 4 figures, 3 tables</p></details> |
 | **[Caption Injection for Optimization in Generative Search Engine](https://arxiv.org/abs/2511.04080v2)** | 2026-03-18 |  |
@@ -55,5 +56,4 @@ labels: documentation
 | **[Beyond Text: Aligning Vision and Language for Multimodal E-Commerce Retrieval](https://arxiv.org/abs/2603.04836v1)** | 2026-03-05 |  |
 | **[Retrieval or Representation? Reassessing Benchmark Gaps in Multilingual and Visually Rich RAG](https://arxiv.org/abs/2603.04238v1)** | 2026-03-04 | <details><summary>ICLR ...</summary><p>ICLR 2026 Workshop I Can't Believe It's Not Better: Where Large Language Models Need to Improve</p></details> |
 | **[TRACE: Task-Adaptive Reasoning and Representation Learning for Universal Multimodal Retrieval](https://arxiv.org/abs/2603.02929v2)** | 2026-03-04 |  |
-| **[LLandMark: A Multi-Agent Framework for Landmark-Aware Multimodal Interactive Video Retrieval](https://arxiv.org/abs/2603.02888v1)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026 Workshop on New Frontiers in Information Retrieval</p></details> |
 
