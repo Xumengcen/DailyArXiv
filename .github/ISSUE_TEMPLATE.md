@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 31, 2026
+title: Latest 15 Papers - April 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Xumengcen/DailyArXiv) page for a better reading experience and more papers.**
@@ -22,6 +22,8 @@ labels: documentation
 ## Composed Image Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ReCALL: Recalibrating Capability Degradation for MLLM-based Composed Image Retrieval](https://arxiv.org/abs/2602.01639v2)** | 2026-03-31 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
+| **[MELT: Improve Composed Image Retrieval via the Modification Frequentation-Rarity Balance Network](https://arxiv.org/abs/2603.29291v1)** | 2026-03-31 | <details><summary>Accep...</summary><p>Accepted by ICASSP 2026</p></details> |
 | **[HINT: Composed Image Retrieval with Dual-path Compositional Contextualized Network](https://arxiv.org/abs/2603.26341v1)** | 2026-03-27 | <details><summary>Accep...</summary><p>Accepted by ICASSP 2026</p></details> |
 | **[OFFSET: Segmentation-based Focus Shift Revision for Composed Image Retrieval](https://arxiv.org/abs/2507.05631v2)** | 2026-03-26 |  |
 | **[WISER: Wider Search, Deeper Thinking, and Adaptive Fusion for Training-Free Zero-Shot Composed Image Retrieval](https://arxiv.org/abs/2602.23029v4)** | 2026-03-24 | Accept to CVPR 2026 |
@@ -35,8 +37,6 @@ labels: documentation
 | **[Pix2Key: Controllable Open-Vocabulary Retrieval with Semantic Decomposition and Self-Supervised Visual Dictionary Learning](https://arxiv.org/abs/2602.22510v1)** | 2026-02-26 |  |
 | **[U-MARVEL: Unveiling Key Factors for Universal Multimodal Retrieval via Embedding Learning with MLLMs](https://arxiv.org/abs/2507.14902v2)** | 2026-02-15 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026</p></details> |
 | **[InfoCIR: Multimedia Analysis for Composed Image Retrieval](https://arxiv.org/abs/2602.13402v1)** | 2026-02-13 | <details><summary>9+2 p...</summary><p>9+2 pages, 8 figures. Accepted for publication in IEEE PacificVis 2026 (Conference Track). Interactive composed image retrieval (CIR) and ranking explanation</p></details> |
-| **[OSCAR: Optimization-Steered Agentic Planning for Composed Image Retrieval](https://arxiv.org/abs/2602.08603v1)** | 2026-02-09 |  |
-| **[A Sketch+Text Composed Image Retrieval Dataset for Thangka](https://arxiv.org/abs/2602.08411v1)** | 2026-02-09 | 9 pages |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
