@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 06, 2026
+title: Latest 15 Papers - April 07, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Xumengcen/DailyArXiv) page for a better reading experience and more papers.**
@@ -41,6 +41,7 @@ labels: documentation
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Mixture-of-Retrieval Experts for Reasoning-Guided Multimodal Knowledge Exploitation](https://arxiv.org/abs/2505.22095v2)** | 2026-04-06 |  |
 | **[FusionBERT: Multi-View Image-3D Retrieval via Cross-Attention Visual Fusion and Normal-Aware 3D Encoder](https://arxiv.org/abs/2604.02583v1)** | 2026-04-02 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, 2 tables</p></details> |
 | **[CiQi-Agent: Aligning Vision, Tools and Aesthetics in Multimodal Agent for Cultural Reasoning on Chinese Porcelains](https://arxiv.org/abs/2603.28474v1)** | 2026-03-30 |  |
 | **[Towards Hyper-Efficient RAG Systems in VecDBs: Distributed Parallel Multi-Resolution Vector Search](https://arxiv.org/abs/2511.16681v2)** | 2026-03-28 |  |
@@ -55,5 +56,4 @@ labels: documentation
 | **[LITTA: Late-Interaction and Test-Time Alignment for Visually-Grounded Multimodal Retrieval](https://arxiv.org/abs/2603.26683v1)** | 2026-03-10 |  |
 | **[DEO: Training-Free Direct Embedding Optimization for Negation-Aware Retrieval](https://arxiv.org/abs/2603.09185v1)** | 2026-03-10 |  |
 | **[BRIDGE: Benchmark for multi-hop Reasoning In long multimodal Documents with Grounded Evidence](https://arxiv.org/abs/2603.07931v1)** | 2026-03-09 |  |
-| **[Beyond Rows to Reasoning: Agentic Retrieval for Multimodal Spreadsheet Understanding and Editing](https://arxiv.org/abs/2603.06503v1)** | 2026-03-06 |  |
 
