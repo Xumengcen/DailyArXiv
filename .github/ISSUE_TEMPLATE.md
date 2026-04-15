@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 14, 2026
+title: Latest 15 Papers - April 15, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Xumengcen/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Composed Video Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ViLL-E: Video LLM Embeddings for Retrieval](https://arxiv.org/abs/2604.12148v1)** | 2026-04-13 | <details><summary>Accep...</summary><p>Accepted at ACL 2026 Main conference</p></details> |
 | **[VIRTUE: Versatile Video Retrieval Through Unified Embeddings](https://arxiv.org/abs/2601.12193v2)** | 2026-03-23 |  |
 | **[CoVR-R:Reason-Aware Composed Video Retrieval](https://arxiv.org/abs/2603.20190v1)** | 2026-03-20 | CVPR 2026 (findings) |
 | **[CoVA: Text-Guided Composed Video Retrieval for Audio-Visual Content](https://arxiv.org/abs/2601.22508v1)** | 2026-01-30 | <details><summary>Pleas...</summary><p>Please visit our project page at https://perceptualai-lab.github.io/CoVA/</p></details> |
@@ -22,6 +23,7 @@ labels: documentation
 ## Composed Image Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Sanity Check on Composed Image Retrieval](https://arxiv.org/abs/2604.12904v1)** | 2026-04-14 |  |
 | **[FashionMV: Product-Level Composed Image Retrieval with Multi-View Fashion Data](https://arxiv.org/abs/2604.10297v1)** | 2026-04-11 |  |
 | **[FIRE-CIR: Fine-grained Reasoning for Composed Fashion Image Retrieval](https://arxiv.org/abs/2604.09114v1)** | 2026-04-10 |  |
 | **[Stealthy and Adjustable Text-Guided Backdoor Attacks on Multimodal Pretrained Models](https://arxiv.org/abs/2604.05809v1)** | 2026-04-07 |  |
@@ -36,24 +38,23 @@ labels: documentation
 | **[Retrieving Counterfactuals Improves Visual In-Context Learning](https://arxiv.org/abs/2603.16737v1)** | 2026-03-17 | CVPR 2026 |
 | **[Generating a Paracosm for Training-Free Zero-Shot Composed Image Retrieval](https://arxiv.org/abs/2602.00813v4)** | 2026-03-12 |  |
 | **[FBCIR: Balancing Cross-Modal Focuses in Composed Image Retrieval](https://arxiv.org/abs/2603.11520v1)** | 2026-03-12 | <details><summary>20 pa...</summary><p>20 pages, 5 figures, 15 tables</p></details> |
-| **[PinPoint: Evaluation of Composed Image Retrieval with Explicit Negatives, Multi-Image Queries, and Paraphrase Testing](https://arxiv.org/abs/2603.04598v1)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted for CVPR 2026</p></details> |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Relevance: On the Relationship Between Retrieval and RAG Information Coverage](https://arxiv.org/abs/2603.08819v3)** | 2026-04-14 | 11 pages |
+| **[WikiSeeker: Rethinking the Role of Vision-Language Models in Knowledge-Based Visual Question Answering](https://arxiv.org/abs/2604.05818v2)** | 2026-04-14 | <details><summary>Accep...</summary><p>Accepted by ACL 2026 Findings</p></details> |
+| **[Human-Inspired Context-Selective Multimodal Memory for Social Robots](https://arxiv.org/abs/2604.12081v1)** | 2026-04-13 | <details><summary>Proc....</summary><p>Proc. of the 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2026)</p></details> |
+| **[Benchmarking Deflection and Hallucination in Large Vision-Language Models](https://arxiv.org/abs/2604.12033v1)** | 2026-04-13 | Accepted to ACL 2026 |
 | **[Bottleneck Tokens for Unified Multimodal Retrieval](https://arxiv.org/abs/2604.11095v1)** | 2026-04-13 |  |
 | **[MAB-DQA: Addressing Query Aspect Importance in Document Question Answering with Multi-Armed Bandits](https://arxiv.org/abs/2604.08952v1)** | 2026-04-10 | <details><summary>Accep...</summary><p>Accepted by ACL 2026. 19 pages, 9 figures, 6 tables</p></details> |
 | **[Progressive Multimodal Search and Reasoning for Knowledge-Intensive Visual Question Answering](https://arxiv.org/abs/2509.00798v6)** | 2026-04-09 |  |
 | **[HIVE: Query, Hypothesize, Verify An LLM Framework for Multimodal Reasoning-Intensive Retrieval](https://arxiv.org/abs/2604.07220v1)** | 2026-04-08 | <details><summary>accep...</summary><p>accepted at CVPR 2026 Workshop GRAIL-V</p></details> |
 | **[BRIDGE: Multimodal-to-Text Retrieval via Reinforcement-Learned Query Alignment](https://arxiv.org/abs/2604.07201v1)** | 2026-04-08 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026 Workshop GRAIL-V</p></details> |
 | **[MARVEL: Multimodal Adaptive Reasoning-intensiVe Expand-rerank and retrievaL](https://arxiv.org/abs/2604.07079v1)** | 2026-04-08 |  |
-| **[WikiSeeker: Rethinking the Role of Vision-Language Models in Knowledge-Based Visual Question Answering](https://arxiv.org/abs/2604.05818v1)** | 2026-04-07 | <details><summary>Accep...</summary><p>Accepted by ACL 2026 Findings</p></details> |
 | **[Guided Query Refinement: Multimodal Hybrid Retrieval with Test-Time Optimization](https://arxiv.org/abs/2510.05038v3)** | 2026-04-06 | ICLR 2026 |
 | **[MetaEmbed: Scaling Multimodal Retrieval at Test-Time with Flexible Late Interaction](https://arxiv.org/abs/2509.18095v2)** | 2026-04-06 | ICLR 2026 Oral |
 | **[Mixture-of-Retrieval Experts for Reasoning-Guided Multimodal Knowledge Exploitation](https://arxiv.org/abs/2505.22095v2)** | 2026-04-06 |  |
 | **[MG$^2$-RAG: Multi-Granularity Graph for Multimodal Retrieval-Augmented Generation](https://arxiv.org/abs/2604.04969v1)** | 2026-04-04 |  |
 | **[FusionBERT: Multi-View Image-3D Retrieval via Cross-Attention Visual Fusion and Normal-Aware 3D Encoder](https://arxiv.org/abs/2604.02583v1)** | 2026-04-02 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, 2 tables</p></details> |
-| **[CiQi-Agent: Aligning Vision, Tools and Aesthetics in Multimodal Agent for Cultural Reasoning on Chinese Porcelains](https://arxiv.org/abs/2603.28474v1)** | 2026-03-30 |  |
-| **[Towards Hyper-Efficient RAG Systems in VecDBs: Distributed Parallel Multi-Resolution Vector Search](https://arxiv.org/abs/2511.16681v2)** | 2026-03-28 |  |
-| **[CrisiSense-RAG: Crisis Sensing Multimodal Retrieval-Augmented Generation for Rapid Disaster Impact Assessment](https://arxiv.org/abs/2602.13239v2)** | 2026-03-26 | 27 pages, 4 figures |
 
