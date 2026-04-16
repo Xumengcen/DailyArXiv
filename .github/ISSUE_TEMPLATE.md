@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 15, 2026
+title: Latest 15 Papers - April 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Xumengcen/DailyArXiv) page for a better reading experience and more papers.**
@@ -42,6 +42,7 @@ labels: documentation
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RadAgents: Multimodal Agentic Reasoning for Chest X-ray Interpretation with Radiologist-like Workflows](https://arxiv.org/abs/2509.20490v4)** | 2026-04-15 | MIDL 2026 |
 | **[Beyond Relevance: On the Relationship Between Retrieval and RAG Information Coverage](https://arxiv.org/abs/2603.08819v3)** | 2026-04-14 | 11 pages |
 | **[WikiSeeker: Rethinking the Role of Vision-Language Models in Knowledge-Based Visual Question Answering](https://arxiv.org/abs/2604.05818v2)** | 2026-04-14 | <details><summary>Accep...</summary><p>Accepted by ACL 2026 Findings</p></details> |
 | **[Human-Inspired Context-Selective Multimodal Memory for Social Robots](https://arxiv.org/abs/2604.12081v1)** | 2026-04-13 | <details><summary>Proc....</summary><p>Proc. of the 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2026)</p></details> |
@@ -56,5 +57,4 @@ labels: documentation
 | **[MetaEmbed: Scaling Multimodal Retrieval at Test-Time with Flexible Late Interaction](https://arxiv.org/abs/2509.18095v2)** | 2026-04-06 | ICLR 2026 Oral |
 | **[Mixture-of-Retrieval Experts for Reasoning-Guided Multimodal Knowledge Exploitation](https://arxiv.org/abs/2505.22095v2)** | 2026-04-06 |  |
 | **[MG$^2$-RAG: Multi-Granularity Graph for Multimodal Retrieval-Augmented Generation](https://arxiv.org/abs/2604.04969v1)** | 2026-04-04 |  |
-| **[FusionBERT: Multi-View Image-3D Retrieval via Cross-Attention Visual Fusion and Normal-Aware 3D Encoder](https://arxiv.org/abs/2604.02583v1)** | 2026-04-02 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, 2 tables</p></details> |
 
