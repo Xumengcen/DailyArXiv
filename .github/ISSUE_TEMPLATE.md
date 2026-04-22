@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 21, 2026
+title: Latest 15 Papers - April 22, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Xumengcen/DailyArXiv) page for a better reading experience and more papers.**
@@ -24,6 +24,7 @@ labels: documentation
 ## Composed Image Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Air-Know: Arbiter-Calibrated Knowledge-Internalizing Robust Network for Composed Image Retrieval](https://arxiv.org/abs/2604.19386v1)** | 2026-04-21 |  |
 | **[INTENT: Invariance and Discrimination-aware Noise Mitigation for Robust Composed Image Retrieval](https://arxiv.org/abs/2604.18051v1)** | 2026-04-20 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
 | **[HABIT: Chrono-Synergia Robust Progressive Learning Framework for Composed Image Retrieval](https://arxiv.org/abs/2604.18037v1)** | 2026-04-20 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
 | **[ReTrack: Evidence-Driven Dual-Stream Directional Anchor Calibration Network for Composed Video Retrieval](https://arxiv.org/abs/2604.17898v1)** | 2026-04-20 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
@@ -38,11 +39,11 @@ labels: documentation
 | **[ReCALL: Recalibrating Capability Degradation for MLLM-based Composed Image Retrieval](https://arxiv.org/abs/2602.01639v2)** | 2026-03-31 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
 | **[MELT: Improve Composed Image Retrieval via the Modification Frequentation-Rarity Balance Network](https://arxiv.org/abs/2603.29291v1)** | 2026-03-31 | <details><summary>Accep...</summary><p>Accepted by ICASSP 2026</p></details> |
 | **[HINT: Composed Image Retrieval with Dual-path Compositional Contextualized Network](https://arxiv.org/abs/2603.26341v1)** | 2026-03-27 | <details><summary>Accep...</summary><p>Accepted by ICASSP 2026</p></details> |
-| **[OFFSET: Segmentation-based Focus Shift Revision for Composed Image Retrieval](https://arxiv.org/abs/2507.05631v2)** | 2026-03-26 |  |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[VimRAG: Navigating Massive Visual Context in Retrieval-Augmented Generation via Multimodal Memory Graph](https://arxiv.org/abs/2602.12735v2)** | 2026-04-21 |  |
 | **[Scaling Beyond Context: A Survey of Multimodal Retrieval-Augmented Generation for Document Understanding](https://arxiv.org/abs/2510.15253v3)** | 2026-04-20 | <details><summary>Accep...</summary><p>Accepted by ACL2026 Main Conference; Project is available at https://github.com/SensenGao/Multimodal-RAG-Survey-For-Document</p></details> |
 | **[AeroRAG: Structured Multimodal Retrieval-Augmented LLM for Fine-Grained Aerial Visual Reasoning](https://arxiv.org/abs/2604.17889v1)** | 2026-04-20 |  |
 | **[Sculpting the Vector Space: Towards Efficient Multi-Vector Visual Document Retrieval via Prune-then-Merge Framework](https://arxiv.org/abs/2602.19549v2)** | 2026-04-20 | <details><summary>Accep...</summary><p>Accepted by The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026, Findings)</p></details> |
@@ -57,5 +58,4 @@ labels: documentation
 | **[WikiSeeker: Rethinking the Role of Vision-Language Models in Knowledge-Based Visual Question Answering](https://arxiv.org/abs/2604.05818v2)** | 2026-04-14 | <details><summary>Accep...</summary><p>Accepted by ACL 2026 Findings</p></details> |
 | **[Human-Inspired Context-Selective Multimodal Memory for Social Robots](https://arxiv.org/abs/2604.12081v1)** | 2026-04-13 | <details><summary>Proc....</summary><p>Proc. of the 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2026)</p></details> |
 | **[Benchmarking Deflection and Hallucination in Large Vision-Language Models](https://arxiv.org/abs/2604.12033v1)** | 2026-04-13 | Accepted to ACL 2026 |
-| **[Bottleneck Tokens for Unified Multimodal Retrieval](https://arxiv.org/abs/2604.11095v1)** | 2026-04-13 |  |
 
