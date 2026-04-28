@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 27, 2026
+title: Latest 15 Papers - April 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Xumengcen/DailyArXiv) page for a better reading experience and more papers.**
@@ -44,6 +44,10 @@ labels: documentation
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MEG-RAG: Quantifying Multi-modal Evidence Grounding for Evidence Selection in RAG](https://arxiv.org/abs/2604.24564v1)** | 2026-04-27 |  |
+| **[mKG-RAG: Leveraging Multimodal Knowledge Graphs in Retrieval-Augmented Generation for Knowledge-intensive VQA](https://arxiv.org/abs/2508.05318v2)** | 2026-04-27 | <details><summary>In Pr...</summary><p>In Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR'26), July 20-24, 2026, Melbourne, VIC, Australia</p></details> |
+| **[Robust Audio-Text Retrieval via Cross-Modal Attention and Hybrid Loss](https://arxiv.org/abs/2604.23323v1)** | 2026-04-25 |  |
+| **[Lightweight and Production-Ready PDF Visual Element Parsing](https://arxiv.org/abs/2604.23276v1)** | 2026-04-25 |  |
 | **[MiMIC: Mitigating Visual Modality Collapse in Universal Multimodal Retrieval While Avoiding Semantic Misalignment](https://arxiv.org/abs/2604.21326v1)** | 2026-04-23 |  |
 | **[Progressive Multimodal Search and Reasoning for Knowledge-Intensive Visual Question Answering](https://arxiv.org/abs/2509.00798v7)** | 2026-04-22 |  |
 | **[VimRAG: Navigating Massive Visual Context in Retrieval-Augmented Generation via Multimodal Memory Graph](https://arxiv.org/abs/2602.12735v2)** | 2026-04-21 |  |
@@ -55,8 +59,4 @@ labels: documentation
 | **[A Sketch+Text Composed Image Retrieval Dataset for Thangka](https://arxiv.org/abs/2602.08411v2)** | 2026-04-18 | 9 pages |
 | **[RA-RRG: Multimodal Retrieval-Augmented Radiology Report Generation with Key Phrase Extraction](https://arxiv.org/abs/2504.07415v2)** | 2026-04-18 | <details><summary>ACL 2...</summary><p>ACL 2026, Findings of the Association for Computational Linguistics</p></details> |
 | **[CodeMMR: Bridging Natural Language, Code, and Image for Unified Retrieval](https://arxiv.org/abs/2604.15663v1)** | 2026-04-17 |  |
-| **[MAB-DQA: Addressing Query Aspect Importance in Document Question Answering with Multi-Armed Bandits](https://arxiv.org/abs/2604.08952v2)** | 2026-04-16 | <details><summary>Accep...</summary><p>Accepted by ACL 2026. 20 pages, 9 figures, 6 tables</p></details> |
-| **[RadAgents: Multimodal Agentic Reasoning for Chest X-ray Interpretation with Radiologist-like Workflows](https://arxiv.org/abs/2509.20490v4)** | 2026-04-15 | MIDL 2026 |
-| **[Beyond Relevance: On the Relationship Between Retrieval and RAG Information Coverage](https://arxiv.org/abs/2603.08819v3)** | 2026-04-14 | 11 pages |
-| **[WikiSeeker: Rethinking the Role of Vision-Language Models in Knowledge-Based Visual Question Answering](https://arxiv.org/abs/2604.05818v2)** | 2026-04-14 | <details><summary>Accep...</summary><p>Accepted by ACL 2026 Findings</p></details> |
 
