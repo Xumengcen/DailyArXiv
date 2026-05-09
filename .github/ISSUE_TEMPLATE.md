@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 07, 2026
+title: Latest 15 Papers - May 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Xumengcen/DailyArXiv) page for a better reading experience and more papers.**
@@ -25,6 +25,7 @@ labels: documentation
 ## Composed Image Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CSMCIR: CoT-Enhanced Symmetric Alignment with Memory Bank for Composed Image Retrieval](https://arxiv.org/abs/2601.03728v2)** | 2026-05-07 |  |
 | **[AlbumFill: Album-Guided Reasoning and Retrieval for Personalized Image Completion](https://arxiv.org/abs/2605.02892v1)** | 2026-05-04 | <details><summary>Proje...</summary><p>Project Page: https://liagm.github.io/AlbumFill/</p></details> |
 | **[TEMA: Anchor the Image, Follow the Text for Multi-Modification Composed Image Retrieval](https://arxiv.org/abs/2604.21806v2)** | 2026-04-24 | Accepted by ACL 2026 |
 | **[ConeSep: Cone-based Robust Noise-Unlearning Compositional Network for Composed Image Retrieval](https://arxiv.org/abs/2604.20358v1)** | 2026-04-22 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
@@ -39,11 +40,12 @@ labels: documentation
 | **[FashionMV: Product-Level Composed Image Retrieval with Multi-View Fashion Data](https://arxiv.org/abs/2604.10297v1)** | 2026-04-11 |  |
 | **[FIRE-CIR: Fine-grained Reasoning for Composed Fashion Image Retrieval](https://arxiv.org/abs/2604.09114v1)** | 2026-04-10 |  |
 | **[Stealthy and Adjustable Text-Guided Backdoor Attacks on Multimodal Pretrained Models](https://arxiv.org/abs/2604.05809v1)** | 2026-04-07 |  |
-| **[WRF4CIR: Weight-Regularized Fine-Tuning Network for Composed Image Retrieval](https://arxiv.org/abs/2604.05583v1)** | 2026-04-07 |  |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[JARVIS: An Evidence-Grounded Retrieval System for Interpretable Deceptive Reviews Adjudication](https://arxiv.org/abs/2602.12941v2)** | 2026-05-07 |  |
+| **[The Cost of Context: Mitigating Textual Bias in Multimodal Retrieval-Augmented Generation](https://arxiv.org/abs/2605.05594v1)** | 2026-05-07 |  |
 | **[Do Multimodal RAG Systems Leak Data? A Comprehensive Evaluation of Membership Inference and Image Caption Retrieval Attacks](https://arxiv.org/abs/2601.17644v3)** | 2026-05-05 | <details><summary>Accep...</summary><p>Accepted for publication at ACL 2026 (Findings)</p></details> |
 | **[From Experimental Limits to Physical Insight: A Retrieval-Augmented Multi-Agent Framework for Interpreting Searches Beyond the Standard Model](https://arxiv.org/abs/2605.02491v1)** | 2026-05-04 | 18 pages, 13 figures |
 | **[CustomDancer: Customized Dance Recommendation by Text-Dance Retrieval](https://arxiv.org/abs/2605.00824v1)** | 2026-05-01 |  |
@@ -57,6 +59,4 @@ labels: documentation
 | **[Lightweight and Production-Ready PDF Visual Element Parsing](https://arxiv.org/abs/2604.23276v1)** | 2026-04-25 |  |
 | **[MiMIC: Mitigating Visual Modality Collapse in Universal Multimodal Retrieval While Avoiding Semantic Misalignment](https://arxiv.org/abs/2604.21326v1)** | 2026-04-23 |  |
 | **[Progressive Multimodal Search and Reasoning for Knowledge-Intensive Visual Question Answering](https://arxiv.org/abs/2509.00798v7)** | 2026-04-22 |  |
-| **[VimRAG: Navigating Massive Visual Context in Retrieval-Augmented Generation via Multimodal Memory Graph](https://arxiv.org/abs/2602.12735v2)** | 2026-04-21 |  |
-| **[Scaling Beyond Context: A Survey of Multimodal Retrieval-Augmented Generation for Document Understanding](https://arxiv.org/abs/2510.15253v3)** | 2026-04-20 | <details><summary>Accep...</summary><p>Accepted by ACL2026 Main Conference; Project is available at https://github.com/SensenGao/Multimodal-RAG-Survey-For-Document</p></details> |
 
