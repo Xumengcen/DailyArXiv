@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 25, 2026
+title: Latest 15 Papers - May 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Xumengcen/DailyArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,9 @@ labels: documentation
 ## Composed Image Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Resolving Ambiguity in Composed Image Retrieval via Calibrated Interaction](https://arxiv.org/abs/2605.24634v1)** | 2026-05-23 |  |
+| **[Benchmarking Composed Image Retrieval for Applied Earth Observation](https://arxiv.org/abs/2605.24442v1)** | 2026-05-23 |  |
+| **[DeliCIR: Deliberative Test-Time Evolutionary Hierarchical Multi-Agents for Composed Image Retrieval](https://arxiv.org/abs/2605.22478v2)** | 2026-05-23 | <details><summary>10 pa...</summary><p>10 pages, 5 figures,4 tables</p></details> |
 | **[Decoupling Endpoint and Semantic Transition Learning for Zero-Shot Composed Image Retrieval](https://arxiv.org/abs/2605.08389v2)** | 2026-05-21 |  |
 | **[STiTch: Semantic Transition and Transportation in Collaboration for Training-Free Zero-Shot Composed Image Retrieval](https://arxiv.org/abs/2605.21261v1)** | 2026-05-20 |  |
 | **[Do Composed Image Retrieval Benchmarks Require Multimodal Composition?](https://arxiv.org/abs/2605.14787v2)** | 2026-05-15 |  |
@@ -38,13 +41,11 @@ labels: documentation
 | **[INTENT: Invariance and Discrimination-aware Noise Mitigation for Robust Composed Image Retrieval](https://arxiv.org/abs/2604.18051v1)** | 2026-04-20 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
 | **[HABIT: Chrono-Synergia Robust Progressive Learning Framework for Composed Image Retrieval](https://arxiv.org/abs/2604.18037v1)** | 2026-04-20 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
 | **[ReTrack: Evidence-Driven Dual-Stream Directional Anchor Calibration Network for Composed Video Retrieval](https://arxiv.org/abs/2604.17898v1)** | 2026-04-20 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
-| **[A Sketch+Text Composed Image Retrieval Dataset for Thangka](https://arxiv.org/abs/2602.08411v2)** | 2026-04-18 | 9 pages |
-| **[G-MIXER: Geodesic Mixup-based Implicit Semantic Expansion and Explicit Semantic Re-ranking for Zero-Shot Composed Image Retrieval](https://arxiv.org/abs/2604.14710v1)** | 2026-04-16 | CVPR 2026 Accepted |
-| **[A Sanity Check on Composed Image Retrieval](https://arxiv.org/abs/2604.12904v1)** | 2026-04-14 |  |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Your Embedding Model is SMARTer Than You Think](https://arxiv.org/abs/2605.24938v1)** | 2026-05-24 |  |
 | **[STiTch: Semantic Transition and Transportation in Collaboration for Training-Free Zero-Shot Composed Image Retrieval](https://arxiv.org/abs/2605.21261v1)** | 2026-05-20 |  |
 | **[SVFSearch: A Multimodal Knowledge-Intensive Benchmark for Short-Video Frame Search in the Gaming Vertical Domain](https://arxiv.org/abs/2605.17946v2)** | 2026-05-20 |  |
 | **[TIGER-FG: Text-Guided Implicit Fine-Grained Grounding for E-commerce Retrieval](https://arxiv.org/abs/2605.18434v1)** | 2026-05-18 |  |
@@ -59,5 +60,4 @@ labels: documentation
 | **[JARVIS: An Evidence-Grounded Retrieval System for Interpretable Deceptive Reviews Adjudication](https://arxiv.org/abs/2602.12941v2)** | 2026-05-07 |  |
 | **[The Cost of Context: Mitigating Textual Bias in Multimodal Retrieval-Augmented Generation](https://arxiv.org/abs/2605.05594v1)** | 2026-05-07 |  |
 | **[Do Multimodal RAG Systems Leak Data? A Comprehensive Evaluation of Membership Inference and Image Caption Retrieval Attacks](https://arxiv.org/abs/2601.17644v3)** | 2026-05-05 | <details><summary>Accep...</summary><p>Accepted for publication at ACL 2026 (Findings)</p></details> |
-| **[From Experimental Limits to Physical Insight: A Retrieval-Augmented Multi-Agent Framework for Interpreting Searches Beyond the Standard Model](https://arxiv.org/abs/2605.02491v1)** | 2026-05-04 | 18 pages, 13 figures |
 
