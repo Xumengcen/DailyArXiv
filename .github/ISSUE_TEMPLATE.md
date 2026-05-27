@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 26, 2026
+title: Latest 15 Papers - May 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Xumengcen/DailyArXiv) page for a better reading experience and more papers.**
@@ -26,7 +26,8 @@ labels: documentation
 ## Composed Image Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Resolving Ambiguity in Composed Image Retrieval via Calibrated Interaction](https://arxiv.org/abs/2605.24634v1)** | 2026-05-23 |  |
+| **[CIRCLED: A Multi-turn CIR Dataset with Consistent Dialogues across Domains](https://arxiv.org/abs/2605.26734v1)** | 2026-05-26 |  |
+| **[Resolving Ambiguity in Composed Image Retrieval via Calibrated Interaction](https://arxiv.org/abs/2605.24634v2)** | 2026-05-26 |  |
 | **[Benchmarking Composed Image Retrieval for Applied Earth Observation](https://arxiv.org/abs/2605.24442v1)** | 2026-05-23 |  |
 | **[DeliCIR: Deliberative Test-Time Evolutionary Hierarchical Multi-Agents for Composed Image Retrieval](https://arxiv.org/abs/2605.22478v2)** | 2026-05-23 | <details><summary>10 pa...</summary><p>10 pages, 5 figures,4 tables</p></details> |
 | **[Decoupling Endpoint and Semantic Transition Learning for Zero-Shot Composed Image Retrieval](https://arxiv.org/abs/2605.08389v2)** | 2026-05-21 |  |
@@ -40,11 +41,12 @@ labels: documentation
 | **[UniCVR: From Alignment to Reranking for Unified Zero-Shot Composed Visual Retrieval](https://arxiv.org/abs/2604.20318v1)** | 2026-04-22 |  |
 | **[INTENT: Invariance and Discrimination-aware Noise Mitigation for Robust Composed Image Retrieval](https://arxiv.org/abs/2604.18051v1)** | 2026-04-20 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
 | **[HABIT: Chrono-Synergia Robust Progressive Learning Framework for Composed Image Retrieval](https://arxiv.org/abs/2604.18037v1)** | 2026-04-20 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
-| **[ReTrack: Evidence-Driven Dual-Stream Directional Anchor Calibration Network for Composed Video Retrieval](https://arxiv.org/abs/2604.17898v1)** | 2026-04-20 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Gemini Embedding 2: A Native Multimodal Embedding Model from Gemini](https://arxiv.org/abs/2605.27295v1)** | 2026-05-26 |  |
+| **[Can Retrieval Heads See Images? Multimodal Retrieval Heads in Long-Context Vision-Language Models](https://arxiv.org/abs/2605.27243v1)** | 2026-05-26 | Work in Progress |
 | **[Your Embedding Model is SMARTer Than You Think](https://arxiv.org/abs/2605.24938v1)** | 2026-05-24 |  |
 | **[STiTch: Semantic Transition and Transportation in Collaboration for Training-Free Zero-Shot Composed Image Retrieval](https://arxiv.org/abs/2605.21261v1)** | 2026-05-20 |  |
 | **[SVFSearch: A Multimodal Knowledge-Intensive Benchmark for Short-Video Frame Search in the Gaming Vertical Domain](https://arxiv.org/abs/2605.17946v2)** | 2026-05-20 |  |
@@ -58,6 +60,4 @@ labels: documentation
 | **[Very Efficient Listwise Multimodal Reranking for Long Documents](https://arxiv.org/abs/2605.11864v1)** | 2026-05-12 | <details><summary>To ap...</summary><p>To appear in ICML 2026</p></details> |
 | **[Generative Giants, Retrieval Weaklings: Why do Multimodal Large Language Models Fail at Multimodal Retrieval?](https://arxiv.org/abs/2512.19115v2)** | 2026-05-09 |  |
 | **[JARVIS: An Evidence-Grounded Retrieval System for Interpretable Deceptive Reviews Adjudication](https://arxiv.org/abs/2602.12941v2)** | 2026-05-07 |  |
-| **[The Cost of Context: Mitigating Textual Bias in Multimodal Retrieval-Augmented Generation](https://arxiv.org/abs/2605.05594v1)** | 2026-05-07 |  |
-| **[Do Multimodal RAG Systems Leak Data? A Comprehensive Evaluation of Membership Inference and Image Caption Retrieval Attacks](https://arxiv.org/abs/2601.17644v3)** | 2026-05-05 | <details><summary>Accep...</summary><p>Accepted for publication at ACL 2026 (Findings)</p></details> |
 
