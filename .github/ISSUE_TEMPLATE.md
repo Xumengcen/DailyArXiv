@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 27, 2026
+title: Latest 15 Papers - May 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Xumengcen/DailyArXiv) page for a better reading experience and more papers.**
@@ -45,8 +45,10 @@ labels: documentation
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[VeriTrip: A Verifiable Benchmark for Travel Planning Agents over Unstructured Web Corpora](https://arxiv.org/abs/2605.28683v1)** | 2026-05-27 | 10 pages, 4 figures |
 | **[Gemini Embedding 2: A Native Multimodal Embedding Model from Gemini](https://arxiv.org/abs/2605.27295v1)** | 2026-05-26 |  |
 | **[Can Retrieval Heads See Images? Multimodal Retrieval Heads in Long-Context Vision-Language Models](https://arxiv.org/abs/2605.27243v1)** | 2026-05-26 | Work in Progress |
+| **[Checking Fact with Better Retrieval: Dynamic Contrastive Learning for Evidence Retrieval](https://arxiv.org/abs/2605.27449v1)** | 2026-05-24 |  |
 | **[Your Embedding Model is SMARTer Than You Think](https://arxiv.org/abs/2605.24938v1)** | 2026-05-24 |  |
 | **[STiTch: Semantic Transition and Transportation in Collaboration for Training-Free Zero-Shot Composed Image Retrieval](https://arxiv.org/abs/2605.21261v1)** | 2026-05-20 |  |
 | **[SVFSearch: A Multimodal Knowledge-Intensive Benchmark for Short-Video Frame Search in the Gaming Vertical Domain](https://arxiv.org/abs/2605.17946v2)** | 2026-05-20 |  |
@@ -58,6 +60,4 @@ labels: documentation
 | **[MemLens: Benchmarking Multimodal Long-Term Memory in Large Vision-Language Models](https://arxiv.org/abs/2605.14906v1)** | 2026-05-14 | Work in progress |
 | **[Utility-Oriented Visual Evidence Selection for Multimodal Retrieval-Augmented Generation](https://arxiv.org/abs/2605.13277v1)** | 2026-05-13 | Accepted to ACL 2026 |
 | **[Very Efficient Listwise Multimodal Reranking for Long Documents](https://arxiv.org/abs/2605.11864v1)** | 2026-05-12 | <details><summary>To ap...</summary><p>To appear in ICML 2026</p></details> |
-| **[Generative Giants, Retrieval Weaklings: Why do Multimodal Large Language Models Fail at Multimodal Retrieval?](https://arxiv.org/abs/2512.19115v2)** | 2026-05-09 |  |
-| **[JARVIS: An Evidence-Grounded Retrieval System for Interpretable Deceptive Reviews Adjudication](https://arxiv.org/abs/2602.12941v2)** | 2026-05-07 |  |
 
