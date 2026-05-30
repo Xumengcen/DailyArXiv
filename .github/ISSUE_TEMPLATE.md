@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 28, 2026
+title: Latest 15 Papers - May 30, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Xumengcen/DailyArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,8 @@ labels: documentation
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Uncertainty Quantification for Multimodal Retrieval Augmented Generation](https://arxiv.org/abs/2605.29956v1)** | 2026-05-28 |  |
+| **[HiKEY: Hierarchical Multimodal Retrieval for Open-Domain Document Question Answering](https://arxiv.org/abs/2605.29606v1)** | 2026-05-28 | <details><summary>Accep...</summary><p>Accepted to ACL2026 Main</p></details> |
 | **[VeriTrip: A Verifiable Benchmark for Travel Planning Agents over Unstructured Web Corpora](https://arxiv.org/abs/2605.28683v1)** | 2026-05-27 | 10 pages, 4 figures |
 | **[Gemini Embedding 2: A Native Multimodal Embedding Model from Gemini](https://arxiv.org/abs/2605.27295v1)** | 2026-05-26 |  |
 | **[Can Retrieval Heads See Images? Multimodal Retrieval Heads in Long-Context Vision-Language Models](https://arxiv.org/abs/2605.27243v1)** | 2026-05-26 | Work in Progress |
@@ -58,6 +60,4 @@ labels: documentation
 | **[SOLAR: Self-supervised Joint Learning for Symmetric Multimodal Retrieval](https://arxiv.org/abs/2605.15868v1)** | 2026-05-15 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
 | **[From Scenes to Elements: Multi-Granularity Evidence Retrieval for Verifiable Multimodal RAG](https://arxiv.org/abs/2605.15019v1)** | 2026-05-14 |  |
 | **[MemLens: Benchmarking Multimodal Long-Term Memory in Large Vision-Language Models](https://arxiv.org/abs/2605.14906v1)** | 2026-05-14 | Work in progress |
-| **[Utility-Oriented Visual Evidence Selection for Multimodal Retrieval-Augmented Generation](https://arxiv.org/abs/2605.13277v1)** | 2026-05-13 | Accepted to ACL 2026 |
-| **[Very Efficient Listwise Multimodal Reranking for Long Documents](https://arxiv.org/abs/2605.11864v1)** | 2026-05-12 | <details><summary>To ap...</summary><p>To appear in ICML 2026</p></details> |
 
