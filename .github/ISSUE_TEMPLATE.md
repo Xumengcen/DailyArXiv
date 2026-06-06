@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 04, 2026
+title: Latest 15 Papers - June 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Xumengcen/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,9 +7,9 @@ labels: documentation
 ## Composed Video Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[R^3: Composed Video Retrieval via Reasoning-Guided Recalling and Re-ranking](https://arxiv.org/abs/2606.01113v2)** | 2026-06-04 |  |
 | **[Reason-Then-Retrieve for CoVR-R with Structured Edit Prompts and Dense-Sparse Fusion](https://arxiv.org/abs/2606.02450v1)** | 2026-06-01 |  |
 | **[Training-Free Composed Video Retrieval via Visual Representation-Guided Video-LLM Reasoning](https://arxiv.org/abs/2606.02321v1)** | 2026-06-01 | <details><summary>CVPR ...</summary><p>CVPR 2026, VidLLMs workshop</p></details> |
-| **[R^3: Composed Video Retrieval via Reasoning-Guided Recalling and Re-ranking](https://arxiv.org/abs/2606.01113v1)** | 2026-05-31 |  |
 | **[Dual-Route Top-K Retrieval with 1v1 VLM Reranking for the CoVR-R](https://arxiv.org/abs/2606.01097v1)** | 2026-05-31 |  |
 | **[Reason, Retrieve, Re-rank: A Zero-Shot Reasoning-Aware Framework for Composed Video Retrieval](https://arxiv.org/abs/2606.00910v1)** | 2026-05-30 |  |
 | **[ReCoVR: Closing the Loop in Interactive Composed Video Retrieval](https://arxiv.org/abs/2605.09836v1)** | 2026-05-11 |  |
@@ -45,6 +45,7 @@ labels: documentation
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MARDoc: A Memory-Aware Refinement Agent Framework for Multimodal Long Document QA](https://arxiv.org/abs/2606.05749v1)** | 2026-06-04 |  |
 | **[Overview of the EReL@MIR 2025 Multimodal Document Retrieval Challenge (Track 1)](https://arxiv.org/abs/2606.04240v1)** | 2026-06-02 | <details><summary>MDR C...</summary><p>MDR Challenge Report at WWW2025</p></details> |
 | **[MM-BizRAG: Rethinking Multimodal Retrieval-Augmented Generation for General Purpose Enterprise Q&A](https://arxiv.org/abs/2606.04231v1)** | 2026-06-02 | <details><summary>Accep...</summary><p>Accepted at ACL 2026 (Industry Track)</p></details> |
 | **[Seeing Through the MiRAGE: Evaluating Multimodal Retrieval Augmented Generation](https://arxiv.org/abs/2510.24870v2)** | 2026-06-01 | <details><summary>https...</summary><p>https://github.com/alexmartin1722/mirage</p></details> |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Gemini Embedding 2: A Native Multimodal Embedding Model from Gemini](https://arxiv.org/abs/2605.27295v1)** | 2026-05-26 |  |
 | **[Can Retrieval Heads See Images? Multimodal Retrieval Heads in Long-Context Vision-Language Models](https://arxiv.org/abs/2605.27243v1)** | 2026-05-26 | Work in Progress |
 | **[Checking Fact with Better Retrieval: Dynamic Contrastive Learning for Evidence Retrieval](https://arxiv.org/abs/2605.27449v1)** | 2026-05-24 |  |
-| **[Your Embedding Model is SMARTer Than You Think](https://arxiv.org/abs/2605.24938v1)** | 2026-05-24 |  |
 
