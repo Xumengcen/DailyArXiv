@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 11, 2026
+title: Latest 15 Papers - June 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Xumengcen/DailyArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Composed Image Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[VietFashion: Benchmarking Sketch-Text Composed Image Retrieval for Cultural Outfits](https://arxiv.org/abs/2606.13427v1)** | 2026-06-11 | <details><summary>ICMR ...</summary><p>ICMR 2026. Project page: https://hng0303.github.io/VietFashion</p></details> |
 | **[RankVR: Low-Rank Structure Perception and Value Recalibration for Robust Composed Image Retrieval](https://arxiv.org/abs/2606.11689v1)** | 2026-06-10 | <details><summary>Accep...</summary><p>Accepted by ICMR 2026</p></details> |
 | **[IMAGINE: Adaptive Schema-Imagery Enhanced Composition for Composed Video Retrieval](https://arxiv.org/abs/2606.08144v1)** | 2026-06-06 | <details><summary>Accep...</summary><p>Accepted by ICMR 2026</p></details> |
 | **[Never Seen Before: Benchmarking Genuine Zero-Shot Composed Image Retrieval with Consistent Video-Sourced Datasets](https://arxiv.org/abs/2606.07032v1)** | 2026-06-05 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[CSMCIR: CoT-Enhanced Symmetric Alignment with Memory Bank for Composed Image Retrieval](https://arxiv.org/abs/2601.03728v3)** | 2026-05-08 |  |
 | **[AlbumFill: Album-Guided Reasoning and Retrieval for Personalized Image Completion](https://arxiv.org/abs/2605.02892v1)** | 2026-05-04 | <details><summary>Proje...</summary><p>Project Page: https://liagm.github.io/AlbumFill/</p></details> |
 | **[TEMA: Anchor the Image, Follow the Text for Multi-Modification Composed Image Retrieval](https://arxiv.org/abs/2604.21806v2)** | 2026-04-24 | Accepted by ACL 2026 |
-| **[ConeSep: Cone-based Robust Noise-Unlearning Compositional Network for Composed Image Retrieval](https://arxiv.org/abs/2604.20358v1)** | 2026-04-22 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
