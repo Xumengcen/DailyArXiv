@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 15, 2026
+title: Latest 15 Papers - June 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Xumengcen/DailyArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,9 @@ labels: documentation
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Lost at the End: Primacy Bias in Multimodal Retrieval-Augmented Question Answering](https://arxiv.org/abs/2606.16494v1)** | 2026-06-15 | <details><summary>15 pa...</summary><p>15 pages, 9 figures. Under review at EMNLP 2026</p></details> |
+| **[Intelligent Multimodal Retrieval and Reasoning for Geospatial Knowledge Discovery on the I-GUIDE Platform](https://arxiv.org/abs/2606.15838v1)** | 2026-06-14 |  |
+| **[TechRAG: Evidence-Gated Multimodal Agentic RAG for Technical Literature Reasoning](https://arxiv.org/abs/2606.01613v2)** | 2026-06-13 |  |
 | **[Findings of the MAGMaR 2026 Shared Task](https://arxiv.org/abs/2606.12295v1)** | 2026-06-10 | <details><summary>Findi...</summary><p>Findings of the 2nd workshop on Multimodal Augmented Generation via Multimodal Retrieval (MAGMaR); Resources at this url: https://github.com/rekriz11/MAGMAR_2026</p></details> |
 | **[Bridging the Modality Gap in Forensic Image Retrieval](https://arxiv.org/abs/2606.12294v1)** | 2026-06-10 | <details><summary>23 pa...</summary><p>23 pages, 5 figures, paper submitted to Elsevier journal</p></details> |
 | **[Closing the Indexing-Decoding Gap in Multimodal Generative Retrieval via Prefix Retention Optimization](https://arxiv.org/abs/2606.09241v2)** | 2026-06-09 | <details><summary>29 pa...</summary><p>29 pages, 5 figures; code: https://github.com/layingfish/MGR_PRO</p></details> |
@@ -57,7 +60,4 @@ labels: documentation
 | **[MARDoc: A Memory-Aware Refinement Agent Framework for Multimodal Long Document QA](https://arxiv.org/abs/2606.05749v1)** | 2026-06-04 |  |
 | **[MM-Matryoshka: Towards Budget-Elastic Visual Document Retrieval via a 2D Multimodal Matryoshka Training Framework](https://arxiv.org/abs/2606.07654v1)** | 2026-06-03 |  |
 | **[Overview of the EReL@MIR 2025 Multimodal Document Retrieval Challenge (Track 1)](https://arxiv.org/abs/2606.04240v1)** | 2026-06-02 | <details><summary>MDR C...</summary><p>MDR Challenge Report at WWW2025</p></details> |
-| **[MM-BizRAG: Rethinking Multimodal Retrieval-Augmented Generation for General Purpose Enterprise Q&A](https://arxiv.org/abs/2606.04231v1)** | 2026-06-02 | <details><summary>Accep...</summary><p>Accepted at ACL 2026 (Industry Track)</p></details> |
-| **[Seeing Through the MiRAGE: Evaluating Multimodal Retrieval Augmented Generation](https://arxiv.org/abs/2510.24870v2)** | 2026-06-01 | <details><summary>https...</summary><p>https://github.com/alexmartin1722/mirage</p></details> |
-| **[WISE: A Multimodal Search Engine for Visual Scenes, Audio, Objects, Faces, Speech, and Metadata](https://arxiv.org/abs/2602.12819v2)** | 2026-06-01 | <details><summary>Softw...</summary><p>Software: https://www.robots.ox.ac.uk/~vgg/software/wise/ , Online demos: https://www.robots.ox.ac.uk/~vgg/software/wise/demo/ , Example Queries: https://www.robots.ox.ac.uk/~vgg/software/wise/examples/</p></details> |
 
