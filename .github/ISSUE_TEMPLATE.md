@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 18, 2026
+title: Latest 15 Papers - June 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Xumengcen/DailyArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Composed Image Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Composed Object Retrieval: Object-level Retrieval via Composed Expressions](https://arxiv.org/abs/2508.04424v3)** | 2026-06-18 |  |
+| **[Exploring Multi-Modal Large Language Models and Two-Stage Fine-Tuning for Fashion Image Retrieval](https://arxiv.org/abs/2606.19684v1)** | 2026-06-18 | SOICT 2025 |
 | **[Show, Don't Ask: Generative Visual Disambiguation for Composed Image Retrieval with Turn-Valid Coverage](https://arxiv.org/abs/2606.18992v1)** | 2026-06-17 |  |
 | **[VietFashion: Benchmarking Sketch-Text Composed Image Retrieval for Cultural Outfits](https://arxiv.org/abs/2606.13427v1)** | 2026-06-11 | <details><summary>ICMR ...</summary><p>ICMR 2026. Project page: https://hng0303.github.io/VietFashion</p></details> |
 | **[RankVR: Low-Rank Structure Perception and Value Recalibration for Robust Composed Image Retrieval](https://arxiv.org/abs/2606.11689v1)** | 2026-06-10 | <details><summary>Accep...</summary><p>Accepted by ICMR 2026</p></details> |
@@ -39,12 +41,13 @@ labels: documentation
 | **[Decoupling Endpoint and Semantic Transition Learning for Zero-Shot Composed Image Retrieval](https://arxiv.org/abs/2605.08389v2)** | 2026-05-21 |  |
 | **[STiTch: Semantic Transition and Transportation in Collaboration for Training-Free Zero-Shot Composed Image Retrieval](https://arxiv.org/abs/2605.21261v1)** | 2026-05-20 |  |
 | **[Do Composed Image Retrieval Benchmarks Require Multimodal Composition?](https://arxiv.org/abs/2605.14787v2)** | 2026-05-15 |  |
-| **[CSMCIR: CoT-Enhanced Symmetric Alignment with Memory Bank for Composed Image Retrieval](https://arxiv.org/abs/2601.03728v3)** | 2026-05-08 |  |
-| **[AlbumFill: Album-Guided Reasoning and Retrieval for Personalized Image Completion](https://arxiv.org/abs/2605.02892v1)** | 2026-05-04 | <details><summary>Proje...</summary><p>Project Page: https://liagm.github.io/AlbumFill/</p></details> |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ELVA: Exploring Ranking-Driven Universal Multimodal Retrieval](https://arxiv.org/abs/2606.20280v1)** | 2026-06-18 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026</p></details> |
+| **[Composed Object Retrieval: Object-level Retrieval via Composed Expressions](https://arxiv.org/abs/2508.04424v3)** | 2026-06-18 |  |
+| **[VCG: A Multimodal Retrieval Framework for E-Commerce Video Feeds under Extreme Cold-Start Conditions](https://arxiv.org/abs/2606.19627v1)** | 2026-06-17 |  |
 | **[MODE-RAG: Manifold Outlier Diagnosis and Energy-based Retrieval-Augmented Generation Evaluation](https://arxiv.org/abs/2606.17449v1)** | 2026-06-16 | <details><summary>To be...</summary><p>To be presented at ACL 2026</p></details> |
 | **[Lost at the End: Primacy Bias in Multimodal Retrieval-Augmented Question Answering](https://arxiv.org/abs/2606.16494v1)** | 2026-06-15 | <details><summary>15 pa...</summary><p>15 pages, 9 figures. Under review at EMNLP 2026</p></details> |
 | **[Intelligent Multimodal Retrieval and Reasoning for Geospatial Knowledge Discovery on the I-GUIDE Platform](https://arxiv.org/abs/2606.15838v1)** | 2026-06-14 |  |
@@ -57,7 +60,4 @@ labels: documentation
 | **[PUMA: Layer-Pruned Language Model for Efficient Unified Multimodal Retrieval with Modality-Adaptive Learning](https://arxiv.org/abs/2507.08064v4)** | 2026-06-06 |  |
 | **[Decoupling Semantics and Logic: A Training-Free Coarse-to-Fine Pipeline for Video Retrieval-Augmented Generation](https://arxiv.org/abs/2606.07924v1)** | 2026-06-06 | <details><summary>To be...</summary><p>To be presented at ACL 2026 MAGMAR Workshop (Oral; Retrieval leaderboard No.1)</p></details> |
 | **[MCERF: Advancing Multimodal LLM Evaluation of Engineering Documentation with Enhanced Retrieval](https://arxiv.org/abs/2604.09552v2)** | 2026-06-05 |  |
-| **[Caption Injection for Optimization in Generative Search Engine](https://arxiv.org/abs/2511.04080v3)** | 2026-06-05 | <details><summary>24 pa...</summary><p>24 pages, 4 figures, ECML PKDD 2026 Accepted</p></details> |
-| **[MARDoc: A Memory-Aware Refinement Agent Framework for Multimodal Long Document QA](https://arxiv.org/abs/2606.05749v1)** | 2026-06-04 |  |
-| **[MM-Matryoshka: Towards Budget-Elastic Visual Document Retrieval via a 2D Multimodal Matryoshka Training Framework](https://arxiv.org/abs/2606.07654v1)** | 2026-06-03 |  |
 
