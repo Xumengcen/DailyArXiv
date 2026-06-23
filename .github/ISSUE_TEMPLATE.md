@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 22, 2026
+title: Latest 15 Papers - June 23, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Xumengcen/DailyArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Relevance: On the Relationship Between Retrieval and RAG Information Coverage](https://arxiv.org/abs/2603.08819v4)** | 2026-06-20 | 12 pages, ICTIR 2026 |
 | **[ELVA: Exploring Ranking-Driven Universal Multimodal Retrieval](https://arxiv.org/abs/2606.20280v1)** | 2026-06-18 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026</p></details> |
 | **[Composed Object Retrieval: Object-level Retrieval via Composed Expressions](https://arxiv.org/abs/2508.04424v3)** | 2026-06-18 |  |
 | **[VCG: A Multimodal Retrieval Framework for E-Commerce Video Feeds under Extreme Cold-Start Conditions](https://arxiv.org/abs/2606.19627v1)** | 2026-06-17 |  |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Multimodal Generative Engine Optimization: Rank Manipulation for Vision-Language Model Rankers](https://arxiv.org/abs/2601.12263v2)** | 2026-06-07 | <details><summary>Proce...</summary><p>Proceedings of the 4th Workshop on Towards Knowledgeable Foundation Models (KnowFM) at ACL 2026</p></details> |
 | **[PUMA: Layer-Pruned Language Model for Efficient Unified Multimodal Retrieval with Modality-Adaptive Learning](https://arxiv.org/abs/2507.08064v4)** | 2026-06-06 |  |
 | **[Decoupling Semantics and Logic: A Training-Free Coarse-to-Fine Pipeline for Video Retrieval-Augmented Generation](https://arxiv.org/abs/2606.07924v1)** | 2026-06-06 | <details><summary>To be...</summary><p>To be presented at ACL 2026 MAGMAR Workshop (Oral; Retrieval leaderboard No.1)</p></details> |
-| **[MCERF: Advancing Multimodal LLM Evaluation of Engineering Documentation with Enhanced Retrieval](https://arxiv.org/abs/2604.09552v2)** | 2026-06-05 |  |
 
