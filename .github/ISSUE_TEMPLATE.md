@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 25, 2026
+title: Latest 15 Papers - June 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Xumengcen/DailyArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Composed Image Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Generating a Paracosm for Training-Free Zero-Shot Composed Image Retrieval](https://arxiv.org/abs/2602.00813v5)** | 2026-06-25 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026. Website and code: https://leowangtong.github.io/Paracosm/</p></details> |
 | **[Composed Object Retrieval: Object-level Retrieval via Composed Expressions](https://arxiv.org/abs/2508.04424v3)** | 2026-06-18 |  |
 | **[Exploring Multi-Modal Large Language Models and Two-Stage Fine-Tuning for Fashion Image Retrieval](https://arxiv.org/abs/2606.19684v1)** | 2026-06-18 | SOICT 2025 |
 | **[Show, Don't Ask: Generative Visual Disambiguation for Composed Image Retrieval with Turn-Valid Coverage](https://arxiv.org/abs/2606.18992v1)** | 2026-06-17 |  |
@@ -40,11 +41,11 @@ labels: documentation
 | **[Benchmarking Composed Image Retrieval for Applied Earth Observation](https://arxiv.org/abs/2605.24442v1)** | 2026-05-23 |  |
 | **[Decoupling Endpoint and Semantic Transition Learning for Zero-Shot Composed Image Retrieval](https://arxiv.org/abs/2605.08389v2)** | 2026-05-21 |  |
 | **[STiTch: Semantic Transition and Transportation in Collaboration for Training-Free Zero-Shot Composed Image Retrieval](https://arxiv.org/abs/2605.21261v1)** | 2026-05-20 |  |
-| **[Do Composed Image Retrieval Benchmarks Require Multimodal Composition?](https://arxiv.org/abs/2605.14787v2)** | 2026-05-15 |  |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MKG-RAG-Bench: Benchmarking Retrieval in Multimodal Knowledge Graph-Augmented Generation](https://arxiv.org/abs/2606.26458v1)** | 2026-06-24 | Accepted by KDD'26 |
 | **[Beyond Relevance: On the Relationship Between Retrieval and RAG Information Coverage](https://arxiv.org/abs/2603.08819v4)** | 2026-06-20 | 12 pages, ICTIR 2026 |
 | **[ELVA: Exploring Ranking-Driven Universal Multimodal Retrieval](https://arxiv.org/abs/2606.20280v1)** | 2026-06-18 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026</p></details> |
 | **[Composed Object Retrieval: Object-level Retrieval via Composed Expressions](https://arxiv.org/abs/2508.04424v3)** | 2026-06-18 |  |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Constrained Dominant Sets for Multimodal Document Question Answering](https://arxiv.org/abs/2606.07252v2)** | 2026-06-08 |  |
 | **[Multimodal Generative Engine Optimization: Rank Manipulation for Vision-Language Model Rankers](https://arxiv.org/abs/2601.12263v2)** | 2026-06-07 | <details><summary>Proce...</summary><p>Proceedings of the 4th Workshop on Towards Knowledgeable Foundation Models (KnowFM) at ACL 2026</p></details> |
 | **[PUMA: Layer-Pruned Language Model for Efficient Unified Multimodal Retrieval with Modality-Adaptive Learning](https://arxiv.org/abs/2507.08064v4)** | 2026-06-06 |  |
-| **[Decoupling Semantics and Logic: A Training-Free Coarse-to-Fine Pipeline for Video Retrieval-Augmented Generation](https://arxiv.org/abs/2606.07924v1)** | 2026-06-06 | <details><summary>To be...</summary><p>To be presented at ACL 2026 MAGMAR Workshop (Oral; Retrieval leaderboard No.1)</p></details> |
 
