@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 29, 2026
+title: Latest 15 Papers - June 30, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Xumengcen/DailyArXiv) page for a better reading experience and more papers.**
@@ -45,8 +45,13 @@ labels: documentation
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Caption Injection for Optimization in Generative Search Engine](https://arxiv.org/abs/2511.04080v4)** | 2026-06-29 | <details><summary>24 pa...</summary><p>24 pages, 4 figures, ECML PKDD 2026 Accepted</p></details> |
+| **[CLIP: Lightweight Cosine-Law-Based Inverted-List Pruning for IVF-Based Vector Search](https://arxiv.org/abs/2606.29968v1)** | 2026-06-29 |  |
+| **[Multimodal Representation Alignment for Cross-modal Information Retrieval](https://arxiv.org/abs/2506.08774v2)** | 2026-06-28 |  |
+| **[Multimodal Graph RAG for Long-range Visually Rich Document Understanding](https://arxiv.org/abs/2606.28780v1)** | 2026-06-27 |  |
 | **[Lost at the End: Primacy Bias in Multimodal Retrieval-Augmented Question Answering](https://arxiv.org/abs/2606.16494v2)** | 2026-06-26 | 15 pages, 9 figures |
 | **[MKG-RAG-Bench: Benchmarking Retrieval in Multimodal Knowledge Graph-Augmented Generation](https://arxiv.org/abs/2606.26458v1)** | 2026-06-24 | Accepted by KDD'26 |
+| **[CLOSER-VLN: Closed-Loop Self-Verified Retrieval-Augmented Reasoning for Aerial Vision-Language Navigation](https://arxiv.org/abs/2606.28397v1)** | 2026-06-24 |  |
 | **[Beyond Relevance: On the Relationship Between Retrieval and RAG Information Coverage](https://arxiv.org/abs/2603.08819v4)** | 2026-06-20 | 12 pages, ICTIR 2026 |
 | **[ELVA: Exploring Ranking-Driven Universal Multimodal Retrieval](https://arxiv.org/abs/2606.20280v1)** | 2026-06-18 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026</p></details> |
 | **[Composed Object Retrieval: Object-level Retrieval via Composed Expressions](https://arxiv.org/abs/2508.04424v3)** | 2026-06-18 |  |
@@ -55,9 +60,4 @@ labels: documentation
 | **[Intelligent Multimodal Retrieval and Reasoning for Geospatial Knowledge Discovery on the I-GUIDE Platform](https://arxiv.org/abs/2606.15838v1)** | 2026-06-14 |  |
 | **[TechRAG: Evidence-Gated Multimodal Agentic RAG for Technical Literature Reasoning](https://arxiv.org/abs/2606.01613v2)** | 2026-06-13 |  |
 | **[Findings of the MAGMaR 2026 Shared Task](https://arxiv.org/abs/2606.12295v1)** | 2026-06-10 | <details><summary>Findi...</summary><p>Findings of the 2nd workshop on Multimodal Augmented Generation via Multimodal Retrieval (MAGMaR); Resources at this url: https://github.com/rekriz11/MAGMAR_2026</p></details> |
-| **[Bridging the Modality Gap in Forensic Image Retrieval](https://arxiv.org/abs/2606.12294v1)** | 2026-06-10 | <details><summary>23 pa...</summary><p>23 pages, 5 figures, paper submitted to Elsevier journal</p></details> |
-| **[Closing the Indexing-Decoding Gap in Multimodal Generative Retrieval via Prefix Retention Optimization](https://arxiv.org/abs/2606.09241v2)** | 2026-06-09 | <details><summary>29 pa...</summary><p>29 pages, 5 figures; code: https://github.com/layingfish/MGR_PRO</p></details> |
-| **[Constrained Dominant Sets for Multimodal Document Question Answering](https://arxiv.org/abs/2606.07252v2)** | 2026-06-08 |  |
-| **[Multimodal Generative Engine Optimization: Rank Manipulation for Vision-Language Model Rankers](https://arxiv.org/abs/2601.12263v2)** | 2026-06-07 | <details><summary>Proce...</summary><p>Proceedings of the 4th Workshop on Towards Knowledgeable Foundation Models (KnowFM) at ACL 2026</p></details> |
-| **[PUMA: Layer-Pruned Language Model for Efficient Unified Multimodal Retrieval with Modality-Adaptive Learning](https://arxiv.org/abs/2507.08064v4)** | 2026-06-06 |  |
 
