@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 01, 2026
+title: Latest 15 Papers - July 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Xumengcen/DailyArXiv) page for a better reading experience and more papers.**
@@ -26,8 +26,9 @@ labels: documentation
 ## Composed Image Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Generating a Paracosm for Training-Free Zero-Shot Composed Image Retrieval](https://arxiv.org/abs/2602.00813v6)** | 2026-07-01 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026. Website and code: https://leowangtong.github.io/Paracosm/</p></details> |
+| **[Learning to Compose: Revisiting Proxy Task Design for Zero-Shot Composed Image Retrieval](https://arxiv.org/abs/2607.00374v1)** | 2026-07-01 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026</p></details> |
 | **[Thinking Before Retrieving: Robust Zero-Shot Composed Image Retrieval via Strategic Planning and Self-Criticism](https://arxiv.org/abs/2606.31222v1)** | 2026-06-30 |  |
-| **[Generating a Paracosm for Training-Free Zero-Shot Composed Image Retrieval](https://arxiv.org/abs/2602.00813v5)** | 2026-06-25 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026. Website and code: https://leowangtong.github.io/Paracosm/</p></details> |
 | **[Composed Object Retrieval: Object-level Retrieval via Composed Expressions](https://arxiv.org/abs/2508.04424v3)** | 2026-06-18 |  |
 | **[Exploring Multi-Modal Large Language Models and Two-Stage Fine-Tuning for Fashion Image Retrieval](https://arxiv.org/abs/2606.19684v1)** | 2026-06-18 | SOICT 2025 |
 | **[Show, Don't Ask: Generative Visual Disambiguation for Composed Image Retrieval with Turn-Valid Coverage](https://arxiv.org/abs/2606.18992v1)** | 2026-06-17 |  |
@@ -40,11 +41,13 @@ labels: documentation
 | **[DeliCIR: Deliberative Test-Time Evolutionary Hierarchical Multi-Agents for Composed Image Retrieval](https://arxiv.org/abs/2605.22478v3)** | 2026-05-29 | <details><summary>10 pa...</summary><p>10 pages, 5 figures,4 tables</p></details> |
 | **[CIRCLED: A Multi-turn CIR Dataset with Consistent Dialogues across Domains](https://arxiv.org/abs/2605.26734v1)** | 2026-05-26 |  |
 | **[Benchmarking Composed Image Retrieval for Applied Earth Observation](https://arxiv.org/abs/2605.24442v1)** | 2026-05-23 |  |
-| **[Decoupling Endpoint and Semantic Transition Learning for Zero-Shot Composed Image Retrieval](https://arxiv.org/abs/2605.08389v2)** | 2026-05-21 |  |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Magic-MM-Embedding: Towards Visual-Token-Efficient Universal Multimodal Embedding with MLLMs](https://arxiv.org/abs/2602.05275v2)** | 2026-07-01 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026</p></details> |
+| **[M2Note: Continual Evolution of Vision Language Models via Mistake Notebook Learning](https://arxiv.org/abs/2607.00685v1)** | 2026-07-01 |  |
+| **[Retrieved Images as Visual Thought: Training-Free Multimodal In-Context Learning for the Open-vs-Closed Gap](https://arxiv.org/abs/2607.00606v1)** | 2026-07-01 | <details><summary>12 pa...</summary><p>12 pages, 6 figures. Includes appendix. Introduces the MAAC-Bench benchmark</p></details> |
 | **[Caption Injection for Optimization in Generative Search Engine](https://arxiv.org/abs/2511.04080v4)** | 2026-06-29 | <details><summary>24 pa...</summary><p>24 pages, 4 figures, ECML PKDD 2026 Accepted</p></details> |
 | **[CLIP: Lightweight Cosine-Law-Based Inverted-List Pruning for IVF-Based Vector Search](https://arxiv.org/abs/2606.29968v1)** | 2026-06-29 |  |
 | **[Multimodal Representation Alignment for Cross-modal Information Retrieval](https://arxiv.org/abs/2506.08774v2)** | 2026-06-28 |  |
@@ -57,7 +60,4 @@ labels: documentation
 | **[Composed Object Retrieval: Object-level Retrieval via Composed Expressions](https://arxiv.org/abs/2508.04424v3)** | 2026-06-18 |  |
 | **[VCG: A Multimodal Retrieval Framework for E-Commerce Video Feeds under Extreme Cold-Start Conditions](https://arxiv.org/abs/2606.19627v1)** | 2026-06-17 |  |
 | **[MODE-RAG: Manifold Outlier Diagnosis and Energy-based Retrieval-Augmented Generation Evaluation](https://arxiv.org/abs/2606.17449v1)** | 2026-06-16 | <details><summary>To be...</summary><p>To be presented at ACL 2026</p></details> |
-| **[Intelligent Multimodal Retrieval and Reasoning for Geospatial Knowledge Discovery on the I-GUIDE Platform](https://arxiv.org/abs/2606.15838v1)** | 2026-06-14 |  |
-| **[TechRAG: Evidence-Gated Multimodal Agentic RAG for Technical Literature Reasoning](https://arxiv.org/abs/2606.01613v2)** | 2026-06-13 |  |
-| **[Findings of the MAGMaR 2026 Shared Task](https://arxiv.org/abs/2606.12295v1)** | 2026-06-10 | <details><summary>Findi...</summary><p>Findings of the 2nd workshop on Multimodal Augmented Generation via Multimodal Retrieval (MAGMaR); Resources at this url: https://github.com/rekriz11/MAGMAR_2026</p></details> |
 
