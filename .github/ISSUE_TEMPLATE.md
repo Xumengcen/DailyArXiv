@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 06, 2026
+title: Latest 15 Papers - July 07, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Xumengcen/DailyArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Composed Image Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DiCE-CIR: Direct Composition Learning for Efficient Zero-Shot Composed Image Retrieval](https://arxiv.org/abs/2607.04665v1)** | 2026-07-06 |  |
 | **[FlowCIR: Semantic Transport via Flow Matching for Zero-Shot Composed Image Retrieval](https://arxiv.org/abs/2607.02284v1)** | 2026-07-02 | Accept to ECCV2026 |
 | **[Generating a Paracosm for Training-Free Zero-Shot Composed Image Retrieval](https://arxiv.org/abs/2602.00813v6)** | 2026-07-01 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026. Website and code: https://leowangtong.github.io/Paracosm/</p></details> |
 | **[Learning to Compose: Revisiting Proxy Task Design for Zero-Shot Composed Image Retrieval](https://arxiv.org/abs/2607.00374v1)** | 2026-07-01 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026</p></details> |
@@ -40,11 +41,16 @@ labels: documentation
 | **[COMBINER: Composed Image Retrieval Guided by Attribute-based Neighbor Relations](https://arxiv.org/abs/2606.04604v1)** | 2026-06-03 | <details><summary>Accep...</summary><p>Accepted by IEEE TIP 2026</p></details> |
 | **[Resolving Ambiguity in Composed Image Retrieval via Calibrated Interaction](https://arxiv.org/abs/2605.24634v3)** | 2026-05-31 |  |
 | **[DeliCIR: Deliberative Test-Time Evolutionary Hierarchical Multi-Agents for Composed Image Retrieval](https://arxiv.org/abs/2605.22478v3)** | 2026-05-29 | <details><summary>10 pa...</summary><p>10 pages, 5 figures,4 tables</p></details> |
-| **[CIRCLED: A Multi-turn CIR Dataset with Consistent Dialogues across Domains](https://arxiv.org/abs/2605.26734v1)** | 2026-05-26 |  |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Can Retrieval Heads See Images? Multimodal Retrieval Heads in Long-Context Vision-Language Models](https://arxiv.org/abs/2605.27243v2)** | 2026-07-06 | Work in Progress |
+| **[Hierarchical Evidence-Driven Reasoning for Long Document Understanding](https://arxiv.org/abs/2607.04625v1)** | 2026-07-06 |  |
+| **[Beyond Text: Aligning Vision and Language for Multimodal E-Commerce Retrieval](https://arxiv.org/abs/2603.04836v2)** | 2026-07-06 |  |
+| **[QSVideo: Query-Conditioned Semantic Temporal Retrieval for Video Understanding](https://arxiv.org/abs/2607.04559v1)** | 2026-07-06 | ECCV 2026 |
+| **[ELVA: Exploring Ranking-Driven Universal Multimodal Retrieval](https://arxiv.org/abs/2606.20280v2)** | 2026-07-04 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026</p></details> |
+| **[Lost at the End: Primacy Bias in Multimodal Retrieval-Augmented Question Answering](https://arxiv.org/abs/2606.16494v3)** | 2026-07-04 | 15 pages, 9 figures |
 | **[Magic-MM-Embedding: Towards Visual-Token-Efficient Universal Multimodal Embedding with MLLMs](https://arxiv.org/abs/2602.05275v2)** | 2026-07-01 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026</p></details> |
 | **[M2Note: Continual Evolution of Vision Language Models via Mistake Notebook Learning](https://arxiv.org/abs/2607.00685v1)** | 2026-07-01 |  |
 | **[Retrieved Images as Visual Thought: Training-Free Multimodal In-Context Learning for the Open-vs-Closed Gap](https://arxiv.org/abs/2607.00606v1)** | 2026-07-01 | <details><summary>12 pa...</summary><p>12 pages, 6 figures. Includes appendix. Introduces the MAAC-Bench benchmark</p></details> |
@@ -52,12 +58,6 @@ labels: documentation
 | **[CLIP: Lightweight Cosine-Law-Based Inverted-List Pruning for IVF-Based Vector Search](https://arxiv.org/abs/2606.29968v1)** | 2026-06-29 |  |
 | **[Multimodal Representation Alignment for Cross-modal Information Retrieval](https://arxiv.org/abs/2506.08774v2)** | 2026-06-28 |  |
 | **[Multimodal Graph RAG for Long-range Visually Rich Document Understanding](https://arxiv.org/abs/2606.28780v1)** | 2026-06-27 |  |
-| **[Lost at the End: Primacy Bias in Multimodal Retrieval-Augmented Question Answering](https://arxiv.org/abs/2606.16494v2)** | 2026-06-26 | 15 pages, 9 figures |
 | **[MKG-RAG-Bench: Benchmarking Retrieval in Multimodal Knowledge Graph-Augmented Generation](https://arxiv.org/abs/2606.26458v1)** | 2026-06-24 | Accepted by KDD'26 |
 | **[CLOSER-VLN: Closed-Loop Self-Verified Retrieval-Augmented Reasoning for Aerial Vision-Language Navigation](https://arxiv.org/abs/2606.28397v1)** | 2026-06-24 |  |
-| **[Beyond Relevance: On the Relationship Between Retrieval and RAG Information Coverage](https://arxiv.org/abs/2603.08819v4)** | 2026-06-20 | 12 pages, ICTIR 2026 |
-| **[ELVA: Exploring Ranking-Driven Universal Multimodal Retrieval](https://arxiv.org/abs/2606.20280v1)** | 2026-06-18 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026</p></details> |
-| **[Composed Object Retrieval: Object-level Retrieval via Composed Expressions](https://arxiv.org/abs/2508.04424v3)** | 2026-06-18 |  |
-| **[VCG: A Multimodal Retrieval Framework for E-Commerce Video Feeds under Extreme Cold-Start Conditions](https://arxiv.org/abs/2606.19627v1)** | 2026-06-17 |  |
-| **[MODE-RAG: Manifold Outlier Diagnosis and Energy-based Retrieval-Augmented Generation Evaluation](https://arxiv.org/abs/2606.17449v1)** | 2026-06-16 | <details><summary>To be...</summary><p>To be presented at ACL 2026</p></details> |
 
