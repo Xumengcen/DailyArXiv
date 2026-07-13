@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 12, 2026
+title: Latest 15 Papers - July 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Xumengcen/DailyArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Multimodal Scenario Similarity Search for Autonomous Driving](https://arxiv.org/abs/2607.09428v1)** | 2026-07-10 |  |
 | **[MMAgent-R$^2$: Learning to Rerank and Reject for Agentic mRAG](https://arxiv.org/abs/2607.07383v1)** | 2026-07-08 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026</p></details> |
 | **[Multimodal Video-to-Music Recommendation via Semantic Retrieval and Temporal Reranking](https://arxiv.org/abs/2607.05971v1)** | 2026-07-07 | <details><summary>Accep...</summary><p>Accepted for publication at The Machine Learning for Audio workshop at ICML 2026</p></details> |
 | **[Can Retrieval Heads See Images? Multimodal Retrieval Heads in Long-Context Vision-Language Models](https://arxiv.org/abs/2605.27243v2)** | 2026-07-06 | Work in Progress |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Retrieved Images as Visual Thought: Training-Free Multimodal In-Context Learning for the Open-vs-Closed Gap](https://arxiv.org/abs/2607.00606v1)** | 2026-07-01 | <details><summary>12 pa...</summary><p>12 pages, 6 figures. Includes appendix. Introduces the MAAC-Bench benchmark</p></details> |
 | **[Caption Injection for Optimization in Generative Search Engine](https://arxiv.org/abs/2511.04080v4)** | 2026-06-29 | <details><summary>24 pa...</summary><p>24 pages, 4 figures, ECML PKDD 2026 Accepted</p></details> |
 | **[CLIP: Lightweight Cosine-Law-Based Inverted-List Pruning for IVF-Based Vector Search](https://arxiv.org/abs/2606.29968v1)** | 2026-06-29 |  |
-| **[Multimodal Representation Alignment for Cross-modal Information Retrieval](https://arxiv.org/abs/2506.08774v2)** | 2026-06-28 |  |
 
