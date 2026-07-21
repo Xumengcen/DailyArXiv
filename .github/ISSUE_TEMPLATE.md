@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 20, 2026
+title: Latest 15 Papers - July 21, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Xumengcen/DailyArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Composed Image Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DeliCIR: Memory-Guided Test-Time Deliberation via Multi-Agent Collaboration for Composed Image Retrieval](https://arxiv.org/abs/2605.22478v4)** | 2026-07-18 | <details><summary>10 pa...</summary><p>10 pages, 3 figures,4 tables</p></details> |
 | **[Towards Vision-Free CIR: Attribute-Augmented Scoring and LLM-Based Reranking for Zero-Shot Composed Image Retrieval](https://arxiv.org/abs/2607.12621v1)** | 2026-07-14 |  |
 | **[DiCE-CIR: Direct Composition Learning for Efficient Zero-Shot Composed Image Retrieval](https://arxiv.org/abs/2607.04665v1)** | 2026-07-06 |  |
 | **[FlowCIR: Semantic Transport via Flow Matching for Zero-Shot Composed Image Retrieval](https://arxiv.org/abs/2607.02284v1)** | 2026-07-02 | Accept to ECCV2026 |
@@ -40,12 +41,13 @@ labels: documentation
 | **[IMAGINE: Adaptive Schema-Imagery Enhanced Composition for Composed Video Retrieval](https://arxiv.org/abs/2606.08144v1)** | 2026-06-06 | <details><summary>Accep...</summary><p>Accepted by ICMR 2026</p></details> |
 | **[Never Seen Before: Benchmarking Genuine Zero-Shot Composed Image Retrieval with Consistent Video-Sourced Datasets](https://arxiv.org/abs/2606.07032v1)** | 2026-06-05 |  |
 | **[COMBINER: Composed Image Retrieval Guided by Attribute-based Neighbor Relations](https://arxiv.org/abs/2606.04604v1)** | 2026-06-03 | <details><summary>Accep...</summary><p>Accepted by IEEE TIP 2026</p></details> |
-| **[Resolving Ambiguity in Composed Image Retrieval via Calibrated Interaction](https://arxiv.org/abs/2605.24634v3)** | 2026-05-31 |  |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[MM-IssueLoc: A Controlled Benchmark for Evaluating Visual Evidence in Multimodal Repository-Level Issue Localization](https://arxiv.org/abs/2607.15205v1)** | 2026-07-16 |  |
+| **[Art Beyond Semantics: Sheaf-Informed Contrastive Learning for Multi-Relational Representations](https://arxiv.org/abs/2607.16321v1)** | 2026-07-15 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026</p></details> |
+| **[Eddy-VL 1.9B: Structural Pruning and Layered Distillation for Edge-Deployable Multimodal Embedding](https://arxiv.org/abs/2607.16316v1)** | 2026-07-15 | <details><summary>11pag...</summary><p>11pages,4figures,Model weights and inference code are available on Hugging Face</p></details> |
 | **[SOLAR: Self-supervised Joint Learning for Symmetric Multimodal Retrieval](https://arxiv.org/abs/2605.15868v2)** | 2026-07-13 | <details><summary>Accep...</summary><p>Accepted by ICML 2026. Code, model and benchmark are available at https://github.com/codefuse-ai/SOLAR</p></details> |
 | **[Trust Before Fusion: QIMG-7 and Source-Aware Resolution for Polluted Multimodal RAG](https://arxiv.org/abs/2607.10798v1)** | 2026-07-12 | <details><summary>23 pa...</summary><p>23 pages, 6 figures, 23 tables. Preprint under review</p></details> |
 | **[AeroRAG: Structured Multimodal Retrieval-Augmented LLM for Fine-Grained Aerial Visual Reasoning](https://arxiv.org/abs/2604.17889v2)** | 2026-07-12 |  |
@@ -58,6 +60,4 @@ labels: documentation
 | **[Beyond Text: Aligning Vision and Language for Multimodal E-Commerce Retrieval](https://arxiv.org/abs/2603.04836v2)** | 2026-07-06 |  |
 | **[QSVideo: Query-Conditioned Semantic Temporal Retrieval for Video Understanding](https://arxiv.org/abs/2607.04559v1)** | 2026-07-06 | ECCV 2026 |
 | **[ELVA: Exploring Ranking-Driven Universal Multimodal Retrieval](https://arxiv.org/abs/2606.20280v2)** | 2026-07-04 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026</p></details> |
-| **[Lost at the End: Primacy Bias in Multimodal Retrieval-Augmented Question Answering](https://arxiv.org/abs/2606.16494v3)** | 2026-07-04 | 15 pages, 9 figures |
-| **[Modality Relevance is not Modality Utility: Post-hoc Selective Modality Escalation for Cost-Aware Multimodal RAG](https://arxiv.org/abs/2607.05438v1)** | 2026-07-03 |  |
 
