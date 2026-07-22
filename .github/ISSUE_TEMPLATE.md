@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 21, 2026
+title: Latest 15 Papers - July 22, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Xumengcen/DailyArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Composed Image Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CR-Refiner: An Object-Centric Optimal Transport Reranker for Edit-Conditioned 3D Scene Retrieval](https://arxiv.org/abs/2607.19115v1)** | 2026-07-21 |  |
 | **[DeliCIR: Memory-Guided Test-Time Deliberation via Multi-Agent Collaboration for Composed Image Retrieval](https://arxiv.org/abs/2605.22478v4)** | 2026-07-18 | <details><summary>10 pa...</summary><p>10 pages, 3 figures,4 tables</p></details> |
 | **[Towards Vision-Free CIR: Attribute-Augmented Scoring and LLM-Based Reranking for Zero-Shot Composed Image Retrieval](https://arxiv.org/abs/2607.12621v1)** | 2026-07-14 |  |
 | **[DiCE-CIR: Direct Composition Learning for Efficient Zero-Shot Composed Image Retrieval](https://arxiv.org/abs/2607.04665v1)** | 2026-07-06 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[RankVR: Low-Rank Structure Perception and Value Recalibration for Robust Composed Image Retrieval](https://arxiv.org/abs/2606.11689v1)** | 2026-06-10 | <details><summary>Accep...</summary><p>Accepted by ICMR 2026</p></details> |
 | **[IMAGINE: Adaptive Schema-Imagery Enhanced Composition for Composed Video Retrieval](https://arxiv.org/abs/2606.08144v1)** | 2026-06-06 | <details><summary>Accep...</summary><p>Accepted by ICMR 2026</p></details> |
 | **[Never Seen Before: Benchmarking Genuine Zero-Shot Composed Image Retrieval with Consistent Video-Sourced Datasets](https://arxiv.org/abs/2606.07032v1)** | 2026-06-05 |  |
-| **[COMBINER: Composed Image Retrieval Guided by Attribute-based Neighbor Relations](https://arxiv.org/abs/2606.04604v1)** | 2026-06-03 | <details><summary>Accep...</summary><p>Accepted by IEEE TIP 2026</p></details> |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
