@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 23, 2026
+title: Latest 15 Papers - July 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Xumengcen/DailyArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Fast Approximate Vector Joins via Offline-Online Co-Design](https://arxiv.org/abs/2603.16360v2)** | 2026-07-23 |  |
 | **[MM-IssueLoc: A Controlled Benchmark for Evaluating Visual Evidence in Multimodal Repository-Level Issue Localization](https://arxiv.org/abs/2607.15205v1)** | 2026-07-16 |  |
 | **[Art Beyond Semantics: Sheaf-Informed Contrastive Learning for Multi-Relational Representations](https://arxiv.org/abs/2607.16321v1)** | 2026-07-15 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026</p></details> |
 | **[Eddy-VL 1.9B: Structural Pruning and Layered Distillation for Edge-Deployable Multimodal Embedding](https://arxiv.org/abs/2607.16316v1)** | 2026-07-15 | <details><summary>11pag...</summary><p>11pages,4figures,Model weights and inference code are available on Hugging Face</p></details> |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Hierarchical Evidence-Driven Reasoning for Long Document Understanding](https://arxiv.org/abs/2607.04625v1)** | 2026-07-06 |  |
 | **[Beyond Text: Aligning Vision and Language for Multimodal E-Commerce Retrieval](https://arxiv.org/abs/2603.04836v2)** | 2026-07-06 |  |
 | **[QSVideo: Query-Conditioned Semantic Temporal Retrieval for Video Understanding](https://arxiv.org/abs/2607.04559v1)** | 2026-07-06 | ECCV 2026 |
-| **[ELVA: Exploring Ranking-Driven Universal Multimodal Retrieval](https://arxiv.org/abs/2606.20280v2)** | 2026-07-04 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026</p></details> |
 
