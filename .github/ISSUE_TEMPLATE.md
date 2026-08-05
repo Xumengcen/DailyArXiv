@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 04, 2026
+title: Latest 15 Papers - August 05, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Xumengcen/DailyArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,8 @@ labels: documentation
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[VIBE: Vector Index Benchmark for Embeddings](https://arxiv.org/abs/2505.17810v2)** | 2026-08-04 | <details><summary>The 2...</summary><p>The 2nd Workshop on Vector Databases (VecDB@VLDB2026)</p></details> |
+| **[Bayesian Data Reweighting Improves Multimodal Retrieval for Knowledge-Based Visual Question Answering](https://arxiv.org/abs/2608.02907v1)** | 2026-08-03 |  |
 | **[MRAFnd: Multimodal Retrieval-Augmented Framework for Zero-Shot Fake News Detection](https://arxiv.org/abs/2608.01430v1)** | 2026-08-02 | <details><summary>14 pa...</summary><p>14 pages, 6 figures, 2 tables, Presented at the MMM 2026</p></details> |
 | **[DualG-MRAG: Decoupling Macro-Reasoning and Micro-Matching for Multimodal Retrieval-Augmented Generation](https://arxiv.org/abs/2607.28580v1)** | 2026-07-30 | <details><summary>Accep...</summary><p>Accepted to the 34th ACM International Conference on Multimedia (ACM MM 2026). 12 pages</p></details> |
 | **[Evidence Attribution in Visual Document Understanding without Coordinates or Region Labels](https://arxiv.org/abs/2607.24651v1)** | 2026-07-27 |  |
@@ -58,6 +60,4 @@ labels: documentation
 | **[SOLAR: Self-supervised Joint Learning for Symmetric Multimodal Retrieval](https://arxiv.org/abs/2605.15868v2)** | 2026-07-13 | <details><summary>Accep...</summary><p>Accepted by ICML 2026. Code, model and benchmark are available at https://github.com/codefuse-ai/SOLAR</p></details> |
 | **[Trust Before Fusion: QIMG-7 and Source-Aware Resolution for Polluted Multimodal RAG](https://arxiv.org/abs/2607.10798v1)** | 2026-07-12 | <details><summary>23 pa...</summary><p>23 pages, 6 figures, 23 tables. Preprint under review</p></details> |
 | **[AeroRAG: Structured Multimodal Retrieval-Augmented LLM for Fine-Grained Aerial Visual Reasoning](https://arxiv.org/abs/2604.17889v2)** | 2026-07-12 |  |
-| **[MG$^2$-RAG: Multi-Granularity Graph for Multimodal Retrieval-Augmented Generation](https://arxiv.org/abs/2604.04969v2)** | 2026-07-12 |  |
-| **[Multimodal Scenario Similarity Search for Autonomous Driving](https://arxiv.org/abs/2607.09428v1)** | 2026-07-10 |  |
 
