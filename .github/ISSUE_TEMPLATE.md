@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 17, 2026
+title: Latest 15 Papers - August 18, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Xumengcen/DailyArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,14 @@ labels: documentation
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SMA: Who Said That? Auditing Membership Leakage in Semi-Black-box RAG Controlling](https://arxiv.org/abs/2508.09105v3)** | 2026-08-17 |  |
+| **[Hypergraph-based Multimodal Retrieval-Augmented Generation with Incremental Refinement](https://arxiv.org/abs/2608.16628v1)** | 2026-08-17 | <details><summary>Accep...</summary><p>Accepted to the 34th ACM International Conference on Multimedia (ACM MM 2026)</p></details> |
+| **[DSPrompt: Dynamic Soft Prompt Defense Against M-RAG Corruption](https://arxiv.org/abs/2608.16536v1)** | 2026-08-17 |  |
+| **[mR$^2$AG: Multimodal Retrieval-Reflection-Augmented Generation for Knowledge-Based VQA](https://arxiv.org/abs/2411.15041v2)** | 2026-08-17 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Transactions on Multimedia (TMM)</p></details> |
+| **[ConceptFormer: Learning Adaptive Latent Concepts for Query-Document Alignment in Visual Document Retrieval](https://arxiv.org/abs/2608.15698v1)** | 2026-08-16 |  |
+| **[FusionBERT: Multi-View Image--3D Retrieval via Cross-Attention Visual Fusion and Normal-Aware 3D Encoder](https://arxiv.org/abs/2604.02583v2)** | 2026-08-16 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 3 tables</p></details> |
+| **[Can Retrievers Find the Same Paper from Different Aspects? A Multi-Aspect Full-Paper Scientific Retrieval Benchmark](https://arxiv.org/abs/2608.15624v1)** | 2026-08-16 |  |
+| **[GraphLoom: Reliability-Calibrated Graph Evidence Routing for Multimodal KG-RAG](https://arxiv.org/abs/2608.15056v1)** | 2026-08-15 |  |
 | **[S2Dialog: Multimodal Dialogue Retrieval with Semantic and Acoustic-Style Modeling](https://arxiv.org/abs/2608.14029v1)** | 2026-08-14 |  |
 | **[Generative Universal Multimodal Retrieval with Dual-role Identifiers](https://arxiv.org/abs/2608.12987v1)** | 2026-08-13 | <details><summary>This ...</summary><p>This paper is under review</p></details> |
 | **[Can Frontier LLMs Match Natively Multimodal Embeddings? A Comparison on Hard-Negative Text-to-Image Retrieval](https://arxiv.org/abs/2608.11343v1)** | 2026-08-11 |  |
@@ -52,12 +60,4 @@ labels: documentation
 | **[Learning from Failures: Retrieval-Centric CoT via Hard Negatives for Unified Multimodal Retrieval](https://arxiv.org/abs/2608.06060v1)** | 2026-08-06 | <details><summary>26 pa...</summary><p>26 pages,10 figures,14 Tables</p></details> |
 | **[Closing the Indexing-Decoding Gap in Multimodal Generative Retrieval via Prefix Retention Optimization](https://arxiv.org/abs/2606.09241v3)** | 2026-08-05 | <details><summary>29 pa...</summary><p>29 pages, 5 figures; code: https://github.com/layingfish/MGR_PRO</p></details> |
 | **[Multimodal Alignment Through Joint Kernel Entropic Gromov--Wasserstein Optimal Transport](https://arxiv.org/abs/2608.04234v1)** | 2026-08-04 |  |
-| **[VIBE: Vector Index Benchmark for Embeddings](https://arxiv.org/abs/2505.17810v2)** | 2026-08-04 | <details><summary>The 2...</summary><p>The 2nd Workshop on Vector Databases (VecDB@VLDB2026)</p></details> |
-| **[Bayesian Data Reweighting Improves Multimodal Retrieval for Knowledge-Based Visual Question Answering](https://arxiv.org/abs/2608.02907v1)** | 2026-08-03 |  |
-| **[MRAFnd: Multimodal Retrieval-Augmented Framework for Zero-Shot Fake News Detection](https://arxiv.org/abs/2608.01430v1)** | 2026-08-02 | <details><summary>14 pa...</summary><p>14 pages, 6 figures, 2 tables, Presented at the MMM 2026</p></details> |
-| **[DualG-MRAG: Decoupling Macro-Reasoning and Micro-Matching for Multimodal Retrieval-Augmented Generation](https://arxiv.org/abs/2607.28580v1)** | 2026-07-30 | <details><summary>Accep...</summary><p>Accepted to the 34th ACM International Conference on Multimedia (ACM MM 2026). 12 pages</p></details> |
-| **[Evidence Attribution in Visual Document Understanding without Coordinates or Region Labels](https://arxiv.org/abs/2607.24651v1)** | 2026-07-27 |  |
-| **[DeCoRAG: Cognitive Decoupling and Semantic-Aware Cropping for Complex Document Understanding](https://arxiv.org/abs/2607.24554v1)** | 2026-07-27 | <details><summary>11 pa...</summary><p>11 pages, 4 figures, 8 tables</p></details> |
-| **[FinAbstain: Uncertainty-Calibrated Multimodal RAG for Selective Financial Forecasting](https://arxiv.org/abs/2607.24875v1)** | 2026-07-27 |  |
-| **[CLIP: Lightweight Cosine-Law-Based Inverted-List Pruning for IVF-Based Vector Search](https://arxiv.org/abs/2606.29968v2)** | 2026-07-24 |  |
 
