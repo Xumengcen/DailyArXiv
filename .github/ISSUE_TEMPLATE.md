@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 19, 2026
+title: Latest 15 Papers - August 20, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Xumengcen/DailyArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Composed Image Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Composed Historical Image Retrieval by Modeling Temporal Representations](https://arxiv.org/abs/2608.18694v1)** | 2026-08-19 | Accepted at BMVC2026 |
 | **[Thinking Before Retrieving: Robust Zero-Shot Composed Image Retrieval via Strategic Planning and Self-Criticism](https://arxiv.org/abs/2606.31222v2)** | 2026-08-18 |  |
 | **[Adjustable Text-Guided Backdoor Attacks with Natural-Word Triggers on Multimodal Pretrained Models](https://arxiv.org/abs/2604.05809v2)** | 2026-08-13 |  |
 | **[CoCo-IR: Contextual Composed Image Retrieval](https://arxiv.org/abs/2608.05149v1)** | 2026-08-05 | ECCV 2026 |
@@ -40,11 +41,12 @@ labels: documentation
 | **[Learning to Compose: Revisiting Proxy Task Design for Zero-Shot Composed Image Retrieval](https://arxiv.org/abs/2607.00374v1)** | 2026-07-01 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026</p></details> |
 | **[Composed Object Retrieval: Object-level Retrieval via Composed Expressions](https://arxiv.org/abs/2508.04424v3)** | 2026-06-18 |  |
 | **[Exploring Multi-Modal Large Language Models and Two-Stage Fine-Tuning for Fashion Image Retrieval](https://arxiv.org/abs/2606.19684v1)** | 2026-06-18 | SOICT 2025 |
-| **[Show, Don't Ask: Generative Visual Disambiguation for Composed Image Retrieval with Turn-Valid Coverage](https://arxiv.org/abs/2606.18992v1)** | 2026-06-17 |  |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CustomDance: Customized 3D Dance Generation with Coarse-to-Fine Human-Centered Interactive Control](https://arxiv.org/abs/2608.06722v2)** | 2026-08-19 | <details><summary>Accep...</summary><p>Accepted to SIGGRAPH Asia 2026</p></details> |
+| **[UMER: Unifying Embedding and Ranking via Pair-Aware Discriminative Reasoning for Universal Multimodal Retrieval](https://arxiv.org/abs/2608.18504v1)** | 2026-08-19 |  |
 | **[SMA: Who Said That? Auditing Membership Leakage in Semi-Black-box RAG Controlling](https://arxiv.org/abs/2508.09105v3)** | 2026-08-17 |  |
 | **[Hypergraph-based Multimodal Retrieval-Augmented Generation with Incremental Refinement](https://arxiv.org/abs/2608.16628v1)** | 2026-08-17 | <details><summary>Accep...</summary><p>Accepted to the 34th ACM International Conference on Multimedia (ACM MM 2026)</p></details> |
 | **[DSPrompt: Dynamic Soft Prompt Defense Against M-RAG Corruption](https://arxiv.org/abs/2608.16536v1)** | 2026-08-17 |  |
@@ -56,8 +58,6 @@ labels: documentation
 | **[S2Dialog: Multimodal Dialogue Retrieval with Semantic and Acoustic-Style Modeling](https://arxiv.org/abs/2608.14029v1)** | 2026-08-14 |  |
 | **[Generative Universal Multimodal Retrieval with Dual-role Identifiers](https://arxiv.org/abs/2608.12987v1)** | 2026-08-13 | <details><summary>This ...</summary><p>This paper is under review</p></details> |
 | **[Can Frontier LLMs Match Natively Multimodal Embeddings? A Comparison on Hard-Negative Text-to-Image Retrieval](https://arxiv.org/abs/2608.11343v1)** | 2026-08-11 |  |
-| **[CustomDance: Customized 3D Dance Generation with Coarse-to-Fine Human-Centered Interactive Control](https://arxiv.org/abs/2608.06722v1)** | 2026-08-07 |  |
 | **[Learning from Failures: Retrieval-Centric CoT via Hard Negatives for Unified Multimodal Retrieval](https://arxiv.org/abs/2608.06060v1)** | 2026-08-06 | <details><summary>26 pa...</summary><p>26 pages,10 figures,14 Tables</p></details> |
 | **[Closing the Indexing-Decoding Gap in Multimodal Generative Retrieval via Prefix Retention Optimization](https://arxiv.org/abs/2606.09241v3)** | 2026-08-05 | <details><summary>29 pa...</summary><p>29 pages, 5 figures; code: https://github.com/layingfish/MGR_PRO</p></details> |
-| **[Multimodal Alignment Through Joint Kernel Entropic Gromov--Wasserstein Optimal Transport](https://arxiv.org/abs/2608.04234v1)** | 2026-08-04 |  |
 
