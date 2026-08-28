@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 27, 2026
+title: Latest 15 Papers - August 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Xumengcen/DailyArXiv) page for a better reading experience and more papers.**
@@ -45,9 +45,10 @@ labels: documentation
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Recurrence Meets Transformers for Universal Multimodal Retrieval](https://arxiv.org/abs/2509.08897v3)** | 2026-08-27 | TPAMI 2026 |
+| **[Case2Flow: Bridging Patient Cases and Guideline Flowcharts through Multimodal Retrieval](https://arxiv.org/abs/2608.26414v1)** | 2026-08-26 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2026 Main</p></details> |
 | **[PlanSightRAG: A Visual-First Multimodal RAG for Automating Question Answering and Compliance Checking for Civil Standard Plans](https://arxiv.org/abs/2608.26091v1)** | 2026-08-26 | <details><summary>32 pa...</summary><p>32 pages, 9 figures, 25 tables. Preprint submitted to Automation in Construction</p></details> |
 | **[PUMA: Post-Hoc Sparsification of Universal Multimodal Embeddings for Efficient Retrieval](https://arxiv.org/abs/2608.25780v1)** | 2026-08-26 |  |
-| **[Recurrence Meets Transformers for Universal Multimodal Retrieval](https://arxiv.org/abs/2509.08897v2)** | 2026-08-26 | TPAMI 2026 |
 | **[UMER: Unifying Embedding and Ranking via Pair-Aware Discriminative Reasoning for Universal Multimodal Retrieval](https://arxiv.org/abs/2608.18504v2)** | 2026-08-26 |  |
 | **[AdaptiveEmbed: Sample-Adaptive Multi-Vector Representation for Multimodal Retrieval](https://arxiv.org/abs/2608.25412v1)** | 2026-08-26 |  |
 | **[VIBE: Vector Index Benchmark for Embeddings](https://arxiv.org/abs/2505.17810v3)** | 2026-08-23 | <details><summary>Journ...</summary><p>Journal of Data-centric Machine Learning Research (2026)</p></details> |
@@ -59,5 +60,4 @@ labels: documentation
 | **[PhotoBench: Beyond Visual Matching Towards Personalized Intent-Driven Photo Retrieval](https://arxiv.org/abs/2603.01493v2)** | 2026-08-21 | <details><summary>Accep...</summary><p>Accepted by KDD'26 Benchmark track</p></details> |
 | **[Vis-Poison: Poisoning Visual Knowledge in Multimodal Retrieval-Augmented Generation](https://arxiv.org/abs/2608.20756v1)** | 2026-08-21 | <details><summary>Findi...</summary><p>Findings of EMNLP, 2026</p></details> |
 | **[CustomDance: Customized 3D Dance Generation with Coarse-to-Fine Human-Centered Interactive Control](https://arxiv.org/abs/2608.06722v2)** | 2026-08-19 | <details><summary>Accep...</summary><p>Accepted to SIGGRAPH Asia 2026</p></details> |
-| **[SMA: Who Said That? Auditing Membership Leakage in Semi-Black-box RAG Controlling](https://arxiv.org/abs/2508.09105v3)** | 2026-08-17 |  |
 
