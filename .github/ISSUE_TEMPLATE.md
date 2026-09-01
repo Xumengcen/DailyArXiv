@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 31, 2026
+title: Latest 15 Papers - September 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Xumengcen/DailyArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,11 @@ labels: documentation
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MULTI3IR: A Benchmark for Multi-perspective Multi-domain Multi-modal Information Retrieval](https://arxiv.org/abs/2608.30949v1)** | 2026-08-31 | <details><summary>EMNLP...</summary><p>EMNLP 2026; code is available at https://github.com/seokwon99/Multi3IR</p></details> |
+| **[MM-BrowseComp: A Comprehensive Benchmark for Multimodal Browsing Agents](https://arxiv.org/abs/2508.13186v2)** | 2026-08-31 | <details><summary>EMNLP...</summary><p>EMNLP 2026. The first two authors contribute equally, 20 pages, repo at https://github.com/MMBrowseComp/MM-BrowseComp</p></details> |
+| **[Can Retrieval Heads See Images? Multimodal Retrieval Heads in Long-Context Vision-Language Models](https://arxiv.org/abs/2605.27243v3)** | 2026-08-30 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026</p></details> |
+| **[Evaluating Perspectival Biases in Cross-Modal Retrieval](https://arxiv.org/abs/2510.26861v4)** | 2026-08-30 |  |
+| **[SnapBench: Benchmarking Snap-and-Ask Multimodal Retrieval for Mobile Interactions](https://arxiv.org/abs/2608.29607v1)** | 2026-08-30 | <details><summary>37 pa...</summary><p>37 pages. Yuanbao Technical Report. Accepted to Findings of EMNLP 2026</p></details> |
 | **[Vis-Poison: Poisoning Visual Knowledge in Multimodal Retrieval-Augmented Generation](https://arxiv.org/abs/2608.20756v2)** | 2026-08-28 | <details><summary>Findi...</summary><p>Findings of EMNLP, 2026</p></details> |
 | **[Recurrence Meets Transformers for Universal Multimodal Retrieval](https://arxiv.org/abs/2509.08897v3)** | 2026-08-27 | TPAMI 2026 |
 | **[Case2Flow: Bridging Patient Cases and Guideline Flowcharts through Multimodal Retrieval](https://arxiv.org/abs/2608.26414v1)** | 2026-08-26 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2026 Main</p></details> |
@@ -55,9 +60,4 @@ labels: documentation
 | **[VIBE: Vector Index Benchmark for Embeddings](https://arxiv.org/abs/2505.17810v3)** | 2026-08-23 | <details><summary>Journ...</summary><p>Journal of Data-centric Machine Learning Research (2026)</p></details> |
 | **[Entity-Constrained CBCT Retrieval for Low-Resource Dental Record Completion](https://arxiv.org/abs/2608.21913v1)** | 2026-08-22 | <details><summary>Accep...</summary><p>Accepted at the ODIN 2026 Workshop, MICCAI 2026</p></details> |
 | **[MCite-RL: Towards Reliable Multimodal RAG via Citation-enhanced Agentic Reinforcement Learning](https://arxiv.org/abs/2608.21808v1)** | 2026-08-22 |  |
-| **[LëtzCross: A Cross-Lingual Page-Level Benchmark for Multimodal Retrieval over Luxembourgish Documents](https://arxiv.org/abs/2608.21714v1)** | 2026-08-22 |  |
-| **[ConceptFormer: Learning Adaptive Latent Concepts for Query-Document Alignment in Visual Document Retrieval](https://arxiv.org/abs/2608.15698v2)** | 2026-08-21 |  |
-| **[KoViDoRe: Korean Visual Document Retrieval](https://arxiv.org/abs/2608.20840v1)** | 2026-08-21 |  |
-| **[PhotoBench: Beyond Visual Matching Towards Personalized Intent-Driven Photo Retrieval](https://arxiv.org/abs/2603.01493v2)** | 2026-08-21 | <details><summary>Accep...</summary><p>Accepted by KDD'26 Benchmark track</p></details> |
-| **[CustomDance: Customized 3D Dance Generation with Coarse-to-Fine Human-Centered Interactive Control](https://arxiv.org/abs/2608.06722v2)** | 2026-08-19 | <details><summary>Accep...</summary><p>Accepted to SIGGRAPH Asia 2026</p></details> |
 
