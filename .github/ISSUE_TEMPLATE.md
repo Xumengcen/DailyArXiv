@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 01, 2026
+title: Latest 15 Papers - September 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Xumengcen/DailyArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Composed Image Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AutoConcept: Training-Free Concept-Guided Reranking for Metadata-Available Composed Image Retrieval](https://arxiv.org/abs/2609.01456v1)** | 2026-09-01 | <details><summary>Accep...</summary><p>Accepted regular paper at PRICAI 2026. 16 pages, 4 figures</p></details> |
 | **[OSCAR: Optimization-Steered Agentic Planning for Composed Image Retrieval](https://arxiv.org/abs/2602.08603v2)** | 2026-08-26 | <details><summary>EMNLP...</summary><p>EMNLP 2026 Main Conference</p></details> |
 | **[PUMA: Post-Hoc Sparsification of Universal Multimodal Embeddings for Efficient Retrieval](https://arxiv.org/abs/2608.25780v1)** | 2026-08-26 |  |
 | **[MulVec: Fine-Grained Role-Aware Matching for Training-Free Zero-Shot Composed Image Retrieval](https://arxiv.org/abs/2608.25305v1)** | 2026-08-26 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[UniCVR: From Alignment to Reranking for Unified Zero-Shot Composed Visual Retrieval](https://arxiv.org/abs/2604.20318v2)** | 2026-08-03 |  |
 | **[FiRE: Enhancing MLLMs with Fine-Grained Context Learning for Complex Image Retrieval](https://arxiv.org/abs/2607.27959v1)** | 2026-07-30 |  |
 | **[CR-Refiner: An Object-Centric Optimal Transport Reranker for Edit-Conditioned 3D Scene Retrieval](https://arxiv.org/abs/2607.19115v1)** | 2026-07-21 |  |
-| **[DeliCIR: Memory-Guided Test-Time Deliberation via Multi-Agent Collaboration for Composed Image Retrieval](https://arxiv.org/abs/2605.22478v4)** | 2026-07-18 | <details><summary>10 pa...</summary><p>10 pages, 3 figures,4 tables</p></details> |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
