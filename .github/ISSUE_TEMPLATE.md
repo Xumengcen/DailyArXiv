@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 09, 2026
+title: Latest 15 Papers - September 10, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Xumengcen/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Composed Video Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Similarity: Foundation Models as an Efficient Backbone for Training-Free Composed Video Retrieval](https://arxiv.org/abs/2609.10008v1)** | 2026-09-09 |  |
 | **[Learning Sample-wise Rank-aware Interpolation Weights for Composed Visual Data Retrieval](https://arxiv.org/abs/2608.22500v1)** | 2026-08-23 | ECCV 2026 |
 | **[Reason-Then-Retrieve for CoVR-R with Structured Edit Prompts and Dense-Sparse Fusion](https://arxiv.org/abs/2606.02450v3)** | 2026-08-21 |  |
 | **[UniCVR: From Alignment to Reranking for Unified Zero-Shot Composed Visual Retrieval](https://arxiv.org/abs/2604.20318v2)** | 2026-08-03 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[VeRVE: Versatile Retrieval for Videos via Unified Embeddings](https://arxiv.org/abs/2601.12193v3)** | 2026-04-17 |  |
 | **[ViLL-E: Video LLM Embeddings for Retrieval](https://arxiv.org/abs/2604.12148v1)** | 2026-04-13 | <details><summary>Accep...</summary><p>Accepted at ACL 2026 Main conference</p></details> |
 | **[CoVA: Text-Guided Composed Video Retrieval for Audio-Visual Content](https://arxiv.org/abs/2601.22508v1)** | 2026-01-30 | <details><summary>Pleas...</summary><p>Please visit our project page at https://perceptualai-lab.github.io/CoVA/</p></details> |
-| **[X-Aligner: Composed Visual Retrieval without the Bells and Whistles](https://arxiv.org/abs/2601.16582v1)** | 2026-01-23 | 8 pages |
 
 ## Composed Image Retrieval
 | **Title** | **Date** | **Comment** |
