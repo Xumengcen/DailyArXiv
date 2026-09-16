@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 12, 2026
+title: Latest 15 Papers - September 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Xumengcen/DailyArXiv) page for a better reading experience and more papers.**
@@ -45,7 +45,14 @@ labels: documentation
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[V-Retrver: Evidence-Driven Agentic Reasoning for Universal Multimodal Retrieval](https://arxiv.org/abs/2602.06034v3)** | 2026-09-10 | <details><summary>Proje...</summary><p>Project page: https://github.com/chendy25/V-Retrver, Accepted By EMNLP 2026 Main</p></details> |
+| **[RegRet: Enhancing Region-Level Retrieval in Large Multimodal Models](https://arxiv.org/abs/2609.16847v1)** | 2026-09-15 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026. 22 pages, including references and appendix</p></details> |
+| **[Lost at the End: Primacy Bias in Multimodal Retrieval-Augmented Question Answering](https://arxiv.org/abs/2606.16494v4)** | 2026-09-15 | <details><summary>20 pa...</summary><p>20 pages, 8 figures. Accepted to EMNLP 2026 Main Conference; camera-ready version</p></details> |
+| **[Iterative Multimodal Retrieval-Augmented Generation for Medical Question Answering](https://arxiv.org/abs/2604.27724v2)** | 2026-09-14 |  |
+| **[Query-Conditioned Spherical Centroid Aggregation for Multimodal Retrieval](https://arxiv.org/abs/2609.15335v1)** | 2026-09-14 |  |
+| **[Hypergraph-Regularized Gramian Volumes for Multimodal Retrieval](https://arxiv.org/abs/2609.15320v1)** | 2026-09-14 |  |
+| **[Accurate and Scalable Multimodal Pathology Retrieval via Attentive Vision-Language Alignment](https://arxiv.org/abs/2510.23224v2)** | 2026-09-14 |  |
+| **[V-Retrver: Evidence-Driven Agentic Reasoning for Universal Multimodal Retrieval](https://arxiv.org/abs/2602.06034v4)** | 2026-09-13 | <details><summary>Proje...</summary><p>Project page: https://github.com/chendy25/V-Retrver, Accepted By EMNLP 2026 Main</p></details> |
+| **[Retrieved Images as Visual Thought: Training-Free Multimodal In-Context Learning for the Open-vs-Closed Gap](https://arxiv.org/abs/2607.00606v2)** | 2026-09-11 | <details><summary>12 pa...</summary><p>12 pages, 6 figures. Includes appendix. Introduces the MAAC-Bench benchmark</p></details> |
 | **[Beyond Maintenance Manual Multimodal RAG: Suggesting What Tool](https://arxiv.org/abs/2609.05116v1)** | 2026-09-04 |  |
 | **[CustomDance: Customized 3D Dance Generation with Coarse-to-Fine Human-Centered Interactive Control](https://arxiv.org/abs/2608.06722v3)** | 2026-09-04 | <details><summary>Accep...</summary><p>Accepted to SIGGRAPH Asia 2026</p></details> |
 | **[CrossModalQA: A Cross-modal and Multi-hop Benchmark for Multimodal Retrieval-augmented Generation](https://arxiv.org/abs/2609.05518v1)** | 2026-08-31 | 20 pages, 7 figures |
@@ -53,11 +60,4 @@ labels: documentation
 | **[MM-BrowseComp: A Comprehensive Benchmark for Multimodal Browsing Agents](https://arxiv.org/abs/2508.13186v2)** | 2026-08-31 | <details><summary>EMNLP...</summary><p>EMNLP 2026. The first two authors contribute equally, 20 pages, repo at https://github.com/MMBrowseComp/MM-BrowseComp</p></details> |
 | **[Can Retrieval Heads See Images? Multimodal Retrieval Heads in Long-Context Vision-Language Models](https://arxiv.org/abs/2605.27243v3)** | 2026-08-30 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026</p></details> |
 | **[Evaluating Perspectival Biases in Cross-Modal Retrieval](https://arxiv.org/abs/2510.26861v4)** | 2026-08-30 |  |
-| **[SnapBench: Benchmarking Snap-and-Ask Multimodal Retrieval for Mobile Interactions](https://arxiv.org/abs/2608.29607v1)** | 2026-08-30 | <details><summary>37 pa...</summary><p>37 pages. Yuanbao Technical Report. Accepted to Findings of EMNLP 2026</p></details> |
-| **[Vis-Poison: Poisoning Visual Knowledge in Multimodal Retrieval-Augmented Generation](https://arxiv.org/abs/2608.20756v2)** | 2026-08-28 | <details><summary>Findi...</summary><p>Findings of EMNLP, 2026</p></details> |
-| **[Recurrence Meets Transformers for Universal Multimodal Retrieval](https://arxiv.org/abs/2509.08897v3)** | 2026-08-27 | TPAMI 2026 |
-| **[Case2Flow: Bridging Patient Cases and Guideline Flowcharts through Multimodal Retrieval](https://arxiv.org/abs/2608.26414v1)** | 2026-08-26 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2026 Main</p></details> |
-| **[PlanSightRAG: A Visual-First Multimodal RAG for Automating Question Answering and Compliance Checking for Civil Standard Plans](https://arxiv.org/abs/2608.26091v1)** | 2026-08-26 | <details><summary>32 pa...</summary><p>32 pages, 9 figures, 25 tables. Preprint submitted to Automation in Construction</p></details> |
-| **[PUMA: Post-Hoc Sparsification of Universal Multimodal Embeddings for Efficient Retrieval](https://arxiv.org/abs/2608.25780v1)** | 2026-08-26 |  |
-| **[UMER: Unifying Embedding and Ranking via Pair-Aware Discriminative Reasoning for Universal Multimodal Retrieval](https://arxiv.org/abs/2608.18504v2)** | 2026-08-26 |  |
 
