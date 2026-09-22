@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 21, 2026
+title: Latest 15 Papers - September 22, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Xumengcen/DailyArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Composed Image Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Graded-Relevance Composed Multimodal Retrieval for E-commerce Visual Search at Scale](https://arxiv.org/abs/2609.24152v1)** | 2026-09-21 |  |
 | **[MulVec: Fine-Grained Role-Aware Matching for Training-Free Zero-Shot Composed Image Retrieval](https://arxiv.org/abs/2608.25305v2)** | 2026-09-04 |  |
 | **[AutoConcept: Training-Free Concept-Guided Reranking for Metadata-Available Composed Image Retrieval](https://arxiv.org/abs/2609.01456v1)** | 2026-09-01 | <details><summary>Accep...</summary><p>Accepted regular paper at PRICAI 2026. 16 pages, 4 figures</p></details> |
 | **[OSCAR: Optimization-Steered Agentic Planning for Composed Image Retrieval](https://arxiv.org/abs/2602.08603v2)** | 2026-08-26 | <details><summary>EMNLP...</summary><p>EMNLP 2026 Main Conference</p></details> |
@@ -40,11 +41,11 @@ labels: documentation
 | **[CoCo-IR: Contextual Composed Image Retrieval](https://arxiv.org/abs/2608.05149v1)** | 2026-08-05 | ECCV 2026 |
 | **[UniCVR: From Alignment to Reranking for Unified Zero-Shot Composed Visual Retrieval](https://arxiv.org/abs/2604.20318v2)** | 2026-08-03 |  |
 | **[FiRE: Enhancing MLLMs with Fine-Grained Context Learning for Complex Image Retrieval](https://arxiv.org/abs/2607.27959v1)** | 2026-07-30 |  |
-| **[CR-Refiner: An Object-Centric Optimal Transport Reranker for Edit-Conditioned 3D Scene Retrieval](https://arxiv.org/abs/2607.19115v1)** | 2026-07-21 |  |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Graded-Relevance Composed Multimodal Retrieval for E-commerce Visual Search at Scale](https://arxiv.org/abs/2609.24152v1)** | 2026-09-21 |  |
 | **[Seeing Through the MiRAGE: Evaluating Multimodal Retrieval Augmented Generation](https://arxiv.org/abs/2510.24870v3)** | 2026-09-16 | <details><summary>EMNLP...</summary><p>EMNLP Main, Code here: https://github.com/alexmartin1722/mirage</p></details> |
 | **[RegRet: Enhancing Region-Level Retrieval in Large Multimodal Models](https://arxiv.org/abs/2609.16847v1)** | 2026-09-15 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026. 22 pages, including references and appendix</p></details> |
 | **[Lost at the End: Primacy Bias in Multimodal Retrieval-Augmented Question Answering](https://arxiv.org/abs/2606.16494v4)** | 2026-09-15 | <details><summary>20 pa...</summary><p>20 pages, 8 figures. Accepted to EMNLP 2026 Main Conference; camera-ready version</p></details> |
@@ -59,5 +60,4 @@ labels: documentation
 | **[CrossModalQA: A Cross-modal and Multi-hop Benchmark for Multimodal Retrieval-augmented Generation](https://arxiv.org/abs/2609.05518v1)** | 2026-08-31 | 20 pages, 7 figures |
 | **[MULTI3IR: A Benchmark for Multi-perspective Multi-domain Multi-modal Information Retrieval](https://arxiv.org/abs/2608.30949v1)** | 2026-08-31 | <details><summary>EMNLP...</summary><p>EMNLP 2026; code is available at https://github.com/seokwon99/Multi3IR</p></details> |
 | **[MM-BrowseComp: A Comprehensive Benchmark for Multimodal Browsing Agents](https://arxiv.org/abs/2508.13186v2)** | 2026-08-31 | <details><summary>EMNLP...</summary><p>EMNLP 2026. The first two authors contribute equally, 20 pages, repo at https://github.com/MMBrowseComp/MM-BrowseComp</p></details> |
-| **[Can Retrieval Heads See Images? Multimodal Retrieval Heads in Long-Context Vision-Language Models](https://arxiv.org/abs/2605.27243v3)** | 2026-08-30 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026</p></details> |
 
