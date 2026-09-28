@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 27, 2026
+title: Latest 15 Papers - September 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Xumengcen/DailyArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Composed Image Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Preserve-and-Compose Training for Composed Image Retrieval](https://arxiv.org/abs/2609.31202v1)** | 2026-09-25 |  |
 | **[Graded-Relevance Composed Multimodal Retrieval for E-commerce Visual Search at Scale](https://arxiv.org/abs/2609.24152v1)** | 2026-09-21 |  |
 | **[MulVec: Fine-Grained Role-Aware Matching for Training-Free Zero-Shot Composed Image Retrieval](https://arxiv.org/abs/2608.25305v2)** | 2026-09-04 |  |
 | **[AutoConcept: Training-Free Concept-Guided Reranking for Metadata-Available Composed Image Retrieval](https://arxiv.org/abs/2609.01456v1)** | 2026-09-01 | <details><summary>Accep...</summary><p>Accepted regular paper at PRICAI 2026. 16 pages, 4 figures</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Adjustable Text-Guided Backdoor Attacks with Natural-Word Triggers on Multimodal Pretrained Models](https://arxiv.org/abs/2604.05809v2)** | 2026-08-13 |  |
 | **[CoCo-IR: Contextual Composed Image Retrieval](https://arxiv.org/abs/2608.05149v1)** | 2026-08-05 | ECCV 2026 |
 | **[UniCVR: From Alignment to Reranking for Unified Zero-Shot Composed Visual Retrieval](https://arxiv.org/abs/2604.20318v2)** | 2026-08-03 |  |
-| **[FiRE: Enhancing MLLMs with Fine-Grained Context Learning for Complex Image Retrieval](https://arxiv.org/abs/2607.27959v1)** | 2026-07-30 |  |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
