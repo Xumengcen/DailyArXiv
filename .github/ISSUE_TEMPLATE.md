@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 28, 2026
+title: Latest 15 Papers - September 29, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Xumengcen/DailyArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,9 @@ labels: documentation
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[QiYao-M: Multimodal Time Series Foundation Model with Role-Aware Modeling of Endogenous and Exogenous Modalities](https://arxiv.org/abs/2609.34842v1)** | 2026-09-28 |  |
+| **[VaME: Exploring Variational Latent Reasoning for Multimodal Embeddings](https://arxiv.org/abs/2609.33402v1)** | 2026-09-27 |  |
+| **[Reason What Matters: Retrieval-Grounded Reasoning for Universal Multimodal Embeddings](https://arxiv.org/abs/2609.15296v2)** | 2026-09-27 |  |
 | **[GOMA: Toward Structure-Driven Multimodal Alignment from a Graph Signal Smoothing Perspective](https://arxiv.org/abs/2605.15723v2)** | 2026-09-24 |  |
 | **[MM-BRIGHT: A Multi-Task Multimodal Benchmark for Reasoning-Intensive Retrieval](https://arxiv.org/abs/2601.09562v3)** | 2026-09-23 | <details><summary>v3: F...</summary><p>v3: Fixes a Biology evaluation bug in Table 6 (Task 4). The parser could not read chunked passage IDs, so no positive image matched a gold passage, reducing Biology Task 4 to text-only retrieval. Corrected nDCG@10: BGE-VL 3.2, CLIP 9.2, GME-2B 10.9, GME-7B 5.7, SigLIP 16.0. Task 4 averages change by at most 0.3; rankings and conclusions are unchanged</p></details> |
 | **[Potential for Enhanced Learning in Machine Learning Classes by Using Wiki LLM Indexing](https://arxiv.org/abs/2609.25303v1)** | 2026-09-21 |  |
@@ -57,7 +60,4 @@ labels: documentation
 | **[Hypergraph-Regularized Gramian Volumes for Multimodal Retrieval](https://arxiv.org/abs/2609.15320v1)** | 2026-09-14 |  |
 | **[Accurate and Scalable Multimodal Pathology Retrieval via Attentive Vision-Language Alignment](https://arxiv.org/abs/2510.23224v2)** | 2026-09-14 |  |
 | **[V-Retrver: Evidence-Driven Agentic Reasoning for Universal Multimodal Retrieval](https://arxiv.org/abs/2602.06034v4)** | 2026-09-13 | <details><summary>Proje...</summary><p>Project page: https://github.com/chendy25/V-Retrver, Accepted By EMNLP 2026 Main</p></details> |
-| **[Retrieved Images as Visual Thought: Training-Free Multimodal In-Context Learning for the Open-vs-Closed Gap](https://arxiv.org/abs/2607.00606v2)** | 2026-09-11 | <details><summary>12 pa...</summary><p>12 pages, 6 figures. Includes appendix. Introduces the MAAC-Bench benchmark</p></details> |
-| **[Beyond Maintenance Manual Multimodal RAG: Suggesting What Tool](https://arxiv.org/abs/2609.05116v1)** | 2026-09-04 |  |
-| **[CustomDance: Customized 3D Dance Generation with Coarse-to-Fine Human-Centered Interactive Control](https://arxiv.org/abs/2608.06722v3)** | 2026-09-04 | <details><summary>Accep...</summary><p>Accepted to SIGGRAPH Asia 2026</p></details> |
 
