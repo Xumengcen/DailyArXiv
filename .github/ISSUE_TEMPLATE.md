@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 29, 2026
+title: Latest 15 Papers - September 30, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Xumengcen/DailyArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Composed Image Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Optimizing VLP-aligned Multimodal Intent Representation with Correct Visual Instantiation for Zero-Shot Composed Image Retrieval](https://arxiv.org/abs/2609.36946v1)** | 2026-09-29 |  |
 | **[Preserve-and-Compose Training for Composed Image Retrieval](https://arxiv.org/abs/2609.31202v1)** | 2026-09-25 |  |
 | **[Graded-Relevance Composed Multimodal Retrieval for E-commerce Visual Search at Scale](https://arxiv.org/abs/2609.24152v1)** | 2026-09-21 |  |
 | **[MulVec: Fine-Grained Role-Aware Matching for Training-Free Zero-Shot Composed Image Retrieval](https://arxiv.org/abs/2608.25305v2)** | 2026-09-04 |  |
@@ -40,11 +41,14 @@ labels: documentation
 | **[Thinking Before Retrieving: Robust Zero-Shot Composed Image Retrieval via Strategic Planning and Self-Criticism](https://arxiv.org/abs/2606.31222v2)** | 2026-08-18 |  |
 | **[Adjustable Text-Guided Backdoor Attacks with Natural-Word Triggers on Multimodal Pretrained Models](https://arxiv.org/abs/2604.05809v2)** | 2026-08-13 |  |
 | **[CoCo-IR: Contextual Composed Image Retrieval](https://arxiv.org/abs/2608.05149v1)** | 2026-08-05 | ECCV 2026 |
-| **[UniCVR: From Alignment to Reranking for Unified Zero-Shot Composed Visual Retrieval](https://arxiv.org/abs/2604.20318v2)** | 2026-08-03 |  |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[M2Note: Continual Evolution of Vision Language Models via Mistake Notebook Learning](https://arxiv.org/abs/2607.00685v2)** | 2026-09-29 |  |
+| **[LazySloth: Bounded LLM-based Lazy Tree Search for Fast Long Video Comprehension](https://arxiv.org/abs/2609.37426v1)** | 2026-09-29 | <details><summary>Under...</summary><p>Under review at conference. Preprints allowed when under review</p></details> |
+| **[ARK: A Dual-Axis Multimodal Retrieval Benchmark along Reasoning and Knowledge](https://arxiv.org/abs/2602.09839v2)** | 2026-09-29 | 59 pages |
+| **[FusionBERT: Multi-View Image--3D Retrieval via Cross-Attention Visual Fusion and Normal-Aware 3D Encoder](https://arxiv.org/abs/2604.02583v3)** | 2026-09-29 | An immature work |
 | **[QiYao-M: Multimodal Time Series Foundation Model with Role-Aware Modeling of Endogenous and Exogenous Modalities](https://arxiv.org/abs/2609.34842v1)** | 2026-09-28 |  |
 | **[VaME: Exploring Variational Latent Reasoning for Multimodal Embeddings](https://arxiv.org/abs/2609.33402v1)** | 2026-09-27 |  |
 | **[Reason What Matters: Retrieval-Grounded Reasoning for Universal Multimodal Embeddings](https://arxiv.org/abs/2609.15296v2)** | 2026-09-27 |  |
@@ -56,8 +60,4 @@ labels: documentation
 | **[RegRet: Enhancing Region-Level Retrieval in Large Multimodal Models](https://arxiv.org/abs/2609.16847v1)** | 2026-09-15 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026. 22 pages, including references and appendix</p></details> |
 | **[Lost at the End: Primacy Bias in Multimodal Retrieval-Augmented Question Answering](https://arxiv.org/abs/2606.16494v4)** | 2026-09-15 | <details><summary>20 pa...</summary><p>20 pages, 8 figures. Accepted to EMNLP 2026 Main Conference; camera-ready version</p></details> |
 | **[Iterative Multimodal Retrieval-Augmented Generation for Medical Question Answering](https://arxiv.org/abs/2604.27724v2)** | 2026-09-14 |  |
-| **[Query-Conditioned Spherical Centroid Aggregation for Multimodal Retrieval](https://arxiv.org/abs/2609.15335v1)** | 2026-09-14 |  |
-| **[Hypergraph-Regularized Gramian Volumes for Multimodal Retrieval](https://arxiv.org/abs/2609.15320v1)** | 2026-09-14 |  |
-| **[Accurate and Scalable Multimodal Pathology Retrieval via Attentive Vision-Language Alignment](https://arxiv.org/abs/2510.23224v2)** | 2026-09-14 |  |
-| **[V-Retrver: Evidence-Driven Agentic Reasoning for Universal Multimodal Retrieval](https://arxiv.org/abs/2602.06034v4)** | 2026-09-13 | <details><summary>Proje...</summary><p>Project page: https://github.com/chendy25/V-Retrver, Accepted By EMNLP 2026 Main</p></details> |
 
