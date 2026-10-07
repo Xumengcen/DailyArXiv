@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 05, 2026
+title: Latest 15 Papers - October 07, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Xumengcen/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Composed Video Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ReCoVR: Closing the Loop in Interactive Composed Video Retrieval](https://arxiv.org/abs/2605.09836v2)** | 2026-10-05 |  |
 | **[Beyond Similarity: Foundation Models as an Efficient Backbone for Training-Free Composed Video Retrieval](https://arxiv.org/abs/2609.10008v1)** | 2026-09-09 |  |
 | **[Learning Sample-wise Rank-aware Interpolation Weights for Composed Visual Data Retrieval](https://arxiv.org/abs/2608.22500v1)** | 2026-08-23 | ECCV 2026 |
 | **[Reason-Then-Retrieve for CoVR-R with Structured Edit Prompts and Dense-Sparse Fusion](https://arxiv.org/abs/2606.02450v3)** | 2026-08-21 |  |
@@ -17,7 +18,6 @@ labels: documentation
 | **[Training-Free Composed Video Retrieval via Visual Representation-Guided Video-LLM Reasoning](https://arxiv.org/abs/2606.02321v1)** | 2026-06-01 | <details><summary>CVPR ...</summary><p>CVPR 2026, VidLLMs workshop</p></details> |
 | **[Dual-Route Top-K Retrieval with 1v1 VLM Reranking for the CoVR-R](https://arxiv.org/abs/2606.01097v1)** | 2026-05-31 |  |
 | **[Reason, Retrieve, Re-rank: A Zero-Shot Reasoning-Aware Framework for Composed Video Retrieval](https://arxiv.org/abs/2606.00910v1)** | 2026-05-30 |  |
-| **[ReCoVR: Closing the Loop in Interactive Composed Video Retrieval](https://arxiv.org/abs/2605.09836v1)** | 2026-05-11 |  |
 | **[ReTrack: Evidence-Driven Dual-Stream Directional Anchor Calibration Network for Composed Video Retrieval](https://arxiv.org/abs/2604.17898v1)** | 2026-04-20 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
 | **[VeRVE: Versatile Retrieval for Videos via Unified Embeddings](https://arxiv.org/abs/2601.12193v3)** | 2026-04-17 |  |
 | **[ViLL-E: Video LLM Embeddings for Retrieval](https://arxiv.org/abs/2604.12148v1)** | 2026-04-13 | <details><summary>Accep...</summary><p>Accepted at ACL 2026 Main conference</p></details> |
@@ -26,6 +26,7 @@ labels: documentation
 ## Composed Image Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[From Transformation to Target State: Rethinking Query Representation for Zero-Shot Composed Image Retrieval](https://arxiv.org/abs/2610.05993v1)** | 2026-10-05 | <details><summary>24 pa...</summary><p>24 pages, 8 figures, including appendices</p></details> |
 | **[Optimizing VLP-aligned Multimodal Intent Representation with Correct Visual Instantiation for Zero-Shot Composed Image Retrieval](https://arxiv.org/abs/2609.36946v1)** | 2026-09-29 |  |
 | **[Preserve-and-Compose Training for Composed Image Retrieval](https://arxiv.org/abs/2609.31202v1)** | 2026-09-25 |  |
 | **[Graded-Relevance Composed Multimodal Retrieval for E-commerce Visual Search at Scale](https://arxiv.org/abs/2609.24152v1)** | 2026-09-21 |  |
@@ -40,11 +41,12 @@ labels: documentation
 | **[Composed Historical Image Retrieval by Modeling Temporal Representations](https://arxiv.org/abs/2608.18694v1)** | 2026-08-19 | Accepted at BMVC2026 |
 | **[Thinking Before Retrieving: Robust Zero-Shot Composed Image Retrieval via Strategic Planning and Self-Criticism](https://arxiv.org/abs/2606.31222v2)** | 2026-08-18 |  |
 | **[Adjustable Text-Guided Backdoor Attacks with Natural-Word Triggers on Multimodal Pretrained Models](https://arxiv.org/abs/2604.05809v2)** | 2026-08-13 |  |
-| **[CoCo-IR: Contextual Composed Image Retrieval](https://arxiv.org/abs/2608.05149v1)** | 2026-08-05 | ECCV 2026 |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MCA: Modality Composition Awareness for Robust Composed Multimodal Retrieval](https://arxiv.org/abs/2510.15543v2)** | 2026-10-05 | <details><summary>EMNLP...</summary><p>EMNLP 2026 Main Conference</p></details> |
+| **[Multimodal Dual-Encoder Retrieval for Automated ICD Coding](https://arxiv.org/abs/2610.04263v1)** | 2026-10-03 | <details><summary>6 pag...</summary><p>6 pages, 2 figures, 1 table</p></details> |
 | **[CLIMB: Confidence-Guided Complementary Evidence for Multimodal Retrieval-Augmented Generation](https://arxiv.org/abs/2610.03421v1)** | 2026-10-02 | EMNLP 2026 Findings |
 | **[AMBER: Multi-View Adaptive Budget Allocation for Listwise Vision-Language Reranking](https://arxiv.org/abs/2610.02831v1)** | 2026-10-02 |  |
 | **[Walking the Embedding Space: Datastore Extraction from Multimodal RAG](https://arxiv.org/abs/2610.01871v1)** | 2026-10-01 |  |
@@ -58,6 +60,4 @@ labels: documentation
 | **[Reason What Matters: Retrieval-Grounded Reasoning for Universal Multimodal Embeddings](https://arxiv.org/abs/2609.15296v2)** | 2026-09-27 |  |
 | **[GOMA: Toward Structure-Driven Multimodal Alignment from a Graph Signal Smoothing Perspective](https://arxiv.org/abs/2605.15723v2)** | 2026-09-24 |  |
 | **[MM-BRIGHT: A Multi-Task Multimodal Benchmark for Reasoning-Intensive Retrieval](https://arxiv.org/abs/2601.09562v3)** | 2026-09-23 | <details><summary>v3: F...</summary><p>v3: Fixes a Biology evaluation bug in Table 6 (Task 4). The parser could not read chunked passage IDs, so no positive image matched a gold passage, reducing Biology Task 4 to text-only retrieval. Corrected nDCG@10: BGE-VL 3.2, CLIP 9.2, GME-2B 10.9, GME-7B 5.7, SigLIP 16.0. Task 4 averages change by at most 0.3; rankings and conclusions are unchanged</p></details> |
-| **[Potential for Enhanced Learning in Machine Learning Classes by Using Wiki LLM Indexing](https://arxiv.org/abs/2609.25303v1)** | 2026-09-21 |  |
-| **[Graded-Relevance Composed Multimodal Retrieval for E-commerce Visual Search at Scale](https://arxiv.org/abs/2609.24152v1)** | 2026-09-21 |  |
 
