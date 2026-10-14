@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 13, 2026
+title: Latest 15 Papers - October 14, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Xumengcen/DailyArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PixSearch: Region-Grounded Retrieval for Knowledgeable Large Multimodal Models](https://arxiv.org/abs/2601.19060v2)** | 2026-10-13 | <details><summary>NeurI...</summary><p>NeurIPS 2026 VLM4RWD (Oral)</p></details> |
 | **[VaME: Exploring Variational Latent Reasoning for Multimodal Embeddings](https://arxiv.org/abs/2609.33402v2)** | 2026-10-09 |  |
 | **[Autoregressive Retriever: Improving Query Understanding from Item Feedback for Universal Multimodal Retrieval](https://arxiv.org/abs/2610.11666v1)** | 2026-10-08 | Under Review |
 | **[Personalization Matters: Long-Horizon Conversation Agent with User-Centric Information in Online Shopping Interactions](https://arxiv.org/abs/2610.11375v1)** | 2026-10-08 | <details><summary>accep...</summary><p>accepted by AACL-IJCNLP 2026</p></details> |
@@ -59,5 +60,4 @@ labels: documentation
 | **[LazySloth: Bounded LLM-based Lazy Tree Search for Fast Long Video Comprehension](https://arxiv.org/abs/2609.37426v1)** | 2026-09-29 | <details><summary>Under...</summary><p>Under review at conference. Preprints allowed when under review</p></details> |
 | **[ARK: A Dual-Axis Multimodal Retrieval Benchmark along Reasoning and Knowledge](https://arxiv.org/abs/2602.09839v2)** | 2026-09-29 | 59 pages |
 | **[FusionBERT: Multi-View Image--3D Retrieval via Cross-Attention Visual Fusion and Normal-Aware 3D Encoder](https://arxiv.org/abs/2604.02583v3)** | 2026-09-29 | An immature work |
-| **[QiYao-M: Multimodal Time Series Foundation Model with Role-Aware Modeling of Endogenous and Exogenous Modalities](https://arxiv.org/abs/2609.34842v1)** | 2026-09-28 |  |
 
