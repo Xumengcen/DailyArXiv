@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 19, 2026
+title: Latest 15 Papers - October 20, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Xumengcen/DailyArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Composed Image Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CaptionFuse: Training-Free Composed Product Retrieval Via VLM Intent Captioning and Weighted Embedding Fusion](https://arxiv.org/abs/2610.26661v1)** | 2026-10-19 |  |
+| **[DCR-TSF: Dual-Level Compositional Reasoning with Triadic Spherical Fusion for Training-Free Zero-Shot Composed Image Retrieval](https://arxiv.org/abs/2610.26078v1)** | 2026-10-19 | <details><summary>Accep...</summary><p>Accepted to ACCV 2026. 14 pages, 6 figures, 6 tables</p></details> |
 | **[From Transformation to Target State: Rethinking Query Representation for Zero-Shot Composed Image Retrieval](https://arxiv.org/abs/2610.05993v1)** | 2026-10-05 | <details><summary>24 pa...</summary><p>24 pages, 8 figures, including appendices</p></details> |
 | **[Optimizing VLP-aligned Multimodal Intent Representation with Correct Visual Instantiation for Zero-Shot Composed Image Retrieval](https://arxiv.org/abs/2609.36946v1)** | 2026-09-29 |  |
 | **[Preserve-and-Compose Training for Composed Image Retrieval](https://arxiv.org/abs/2609.31202v1)** | 2026-09-25 |  |
@@ -39,12 +41,16 @@ labels: documentation
 | **[EviRank: Structured Relevance Evidence for Multimodal Image Re-ranking](https://arxiv.org/abs/2608.20886v1)** | 2026-08-21 |  |
 | **[CIRCLED: A Multi-turn CIR Dataset with Consistent Dialogues across Domains](https://arxiv.org/abs/2605.26734v2)** | 2026-08-21 | <details><summary>Accep...</summary><p>Accepted at DMLR (Journal of Data-centric Machine Learning Research). Published 19 August 2026</p></details> |
 | **[Composed Historical Image Retrieval by Modeling Temporal Representations](https://arxiv.org/abs/2608.18694v1)** | 2026-08-19 | Accepted at BMVC2026 |
-| **[Thinking Before Retrieving: Robust Zero-Shot Composed Image Retrieval via Strategic Planning and Self-Criticism](https://arxiv.org/abs/2606.31222v2)** | 2026-08-18 |  |
-| **[Adjustable Text-Guided Backdoor Attacks with Natural-Word Triggers on Multimodal Pretrained Models](https://arxiv.org/abs/2604.05809v2)** | 2026-08-13 |  |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Compute Allocation in Bilinear Contrastive Representation Learning via Scaling Laws](https://arxiv.org/abs/2606.26617v3)** | 2026-10-18 | <details><summary>50 pa...</summary><p>50 pages, 5 figures. OpenReview: https://openreview.net/forum?id=VTTkooh2Mu</p></details> |
+| **[Trust Before Fusion: QIMG-7 and Source-Aware Resolution for Polluted Multimodal RAG](https://arxiv.org/abs/2607.10798v2)** | 2026-10-18 | <details><summary>23 pa...</summary><p>23 pages, 6 figures, 23 tables. Preprint under review</p></details> |
+| **[WILSON - Multi-magnification composites as a foundation for patient-level pathology analysis and diagnostic text generation](https://arxiv.org/abs/2609.25123v2)** | 2026-10-18 | <details><summary>61 pa...</summary><p>61 pages, 6 main figures, with 11 additional figures and 29 tables in the appendices</p></details> |
+| **[VisR-RAG-Fin: Benchmarking Multimodal RAG over Visually Rich Financial Documents](https://arxiv.org/abs/2610.24822v1)** | 2026-10-17 | <details><summary>Accep...</summary><p>Accepted at the main research track of ACM SIGIR-AP 2026, Singapore, December 13-15, 2026</p></details> |
+| **[VeriGRAG: Enhancing LLM-Based Verilog Code Generation with Structure-Aware Soft Prompts](https://arxiv.org/abs/2510.15914v2)** | 2026-10-17 | <details><summary>8 pag...</summary><p>8 pages, 6 figures. Accepted at ASP-DAC 2027; updated to the camera-ready version</p></details> |
+| **[Your Embedding Model is SMARTer Than You Think](https://arxiv.org/abs/2605.24938v2)** | 2026-10-16 | NeurIPS 2026 |
 | **[UniFGVC: Universal Training-Free Few-Shot Fine-Grained Vision Classification via Attribute-Aware Multimodal Retrieval](https://arxiv.org/abs/2508.04136v4)** | 2026-10-15 | Accepted by IEEE TMM |
 | **[KoViDoRe: A Benchmark for Korean Visual Document Retrieval](https://arxiv.org/abs/2608.20840v2)** | 2026-10-15 | v2: title updated |
 | **[PixSearch: Region-Grounded Retrieval for Knowledgeable Large Multimodal Models](https://arxiv.org/abs/2601.19060v2)** | 2026-10-13 | <details><summary>NeurI...</summary><p>NeurIPS 2026 VLM4RWD (Oral)</p></details> |
@@ -54,10 +60,4 @@ labels: documentation
 | **[RFChipAgent: Multi-Agentic AI Flow for Analog/RF Chip Design](https://arxiv.org/abs/2610.10858v1)** | 2026-10-07 | <details><summary>6 pag...</summary><p>6 pages, 4 figures. Submitted to ACM/IEEE for possible publication</p></details> |
 | **[MCA: Modality Composition Awareness for Robust Composed Multimodal Retrieval](https://arxiv.org/abs/2510.15543v2)** | 2026-10-05 | <details><summary>EMNLP...</summary><p>EMNLP 2026 Main Conference</p></details> |
 | **[Multimodal Dual-Encoder Retrieval for Automated ICD Coding](https://arxiv.org/abs/2610.04263v1)** | 2026-10-03 | <details><summary>6 pag...</summary><p>6 pages, 2 figures, 1 table</p></details> |
-| **[CLIMB: Confidence-Guided Complementary Evidence for Multimodal Retrieval-Augmented Generation](https://arxiv.org/abs/2610.03421v1)** | 2026-10-02 | EMNLP 2026 Findings |
-| **[AMBER: Multi-View Adaptive Budget Allocation for Listwise Vision-Language Reranking](https://arxiv.org/abs/2610.02831v1)** | 2026-10-02 |  |
-| **[Walking the Embedding Space: Datastore Extraction from Multimodal RAG](https://arxiv.org/abs/2610.01871v1)** | 2026-10-01 |  |
-| **[AiSearch: Interactive Multi-Modal Search with VLMs](https://arxiv.org/abs/2610.01389v1)** | 2026-10-01 | <details><summary>The d...</summary><p>The demo paper with 1 page main paper, 7 pages supplementary material accepted and presented in ECCV 2026</p></details> |
-| **[M2Note: Continual Evolution of Vision Language Models via Mistake Notebook Learning](https://arxiv.org/abs/2607.00685v2)** | 2026-09-29 |  |
-| **[LazySloth: Bounded LLM-based Lazy Tree Search for Fast Long Video Comprehension](https://arxiv.org/abs/2609.37426v1)** | 2026-09-29 | <details><summary>Under...</summary><p>Under review at conference. Preprints allowed when under review</p></details> |
 
