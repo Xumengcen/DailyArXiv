@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 25, 2026
+title: Latest 15 Papers - October 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Xumengcen/DailyArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Closing the Modality Gap via Simplex-Constrained Representations](https://arxiv.org/abs/2610.32890v1)** | 2026-10-23 |  |
 | **[ArtSeek: Deep artwork understanding via multimodal in-context reasoning and late interaction retrieval](https://arxiv.org/abs/2507.21917v3)** | 2026-10-22 | <details><summary>Accep...</summary><p>Accepted at WACV 2027. 28 pages (10 main + 18 supplementary)</p></details> |
 | **[GARRET: Generative Feedback for Region Retrieval in Visual Documents](https://arxiv.org/abs/2610.27829v1)** | 2026-10-20 | <details><summary>28 pa...</summary><p>28 pages, 7 figures, including appendices</p></details> |
 | **[Compute Allocation in Bilinear Contrastive Representation Learning via Scaling Laws](https://arxiv.org/abs/2606.26617v3)** | 2026-10-18 | <details><summary>50 pa...</summary><p>50 pages, 5 figures. OpenReview: https://openreview.net/forum?id=VTTkooh2Mu</p></details> |
@@ -59,5 +60,4 @@ labels: documentation
 | **[VaME: Exploring Variational Latent Reasoning for Multimodal Embeddings](https://arxiv.org/abs/2609.33402v2)** | 2026-10-09 |  |
 | **[Autoregressive Retriever: Improving Query Understanding from Item Feedback for Universal Multimodal Retrieval](https://arxiv.org/abs/2610.11666v1)** | 2026-10-08 | Under Review |
 | **[Personalization Matters: Long-Horizon Conversation Agent with User-Centric Information in Online Shopping Interactions](https://arxiv.org/abs/2610.11375v1)** | 2026-10-08 | <details><summary>accep...</summary><p>accepted by AACL-IJCNLP 2026</p></details> |
-| **[RFChipAgent: Multi-Agentic AI Flow for Analog/RF Chip Design](https://arxiv.org/abs/2610.10858v1)** | 2026-10-07 | <details><summary>6 pag...</summary><p>6 pages, 4 figures. Submitted to ACM/IEEE for possible publication</p></details> |
 
