@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 02, 2026
+title: Latest 15 Papers - November 03, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Xumengcen/DailyArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,11 @@ labels: documentation
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Fuse To Align: Multimodal Representation Learning for Retrieval via Hypergraph Regularization](https://arxiv.org/abs/2611.03370v1)** | 2026-11-02 | 24 pages, 7 figures |
+| **[MultiInpaintCOCO: Fine-Grained Visual Understanding in Multiple Languages](https://arxiv.org/abs/2611.03309v1)** | 2026-11-02 |  |
+| **[Bridging Low-Level Image Fusion and High-Level Semantic Understanding](https://arxiv.org/abs/2611.02896v1)** | 2026-11-02 |  |
+| **[EduExplain: A Benchmark for Explanation-Set Retrieval and Storyboard Construction in Educational Explanation](https://arxiv.org/abs/2611.00802v1)** | 2026-10-31 |  |
+| **[ConstraintMatch: Compositional Image-Text Matching through Constrained Regional Evidence Selection](https://arxiv.org/abs/2611.00784v1)** | 2026-10-31 |  |
 | **[GEMS-RAG: Graph-grounded Engineering Multimodal Standards Retrieval-Augmented Generation](https://arxiv.org/abs/2610.33277v1)** | 2026-10-23 |  |
 | **[Closing the Modality Gap via Simplex-Constrained Representations](https://arxiv.org/abs/2610.32890v1)** | 2026-10-23 |  |
 | **[ArtSeek: Deep artwork understanding via multimodal in-context reasoning and late interaction retrieval](https://arxiv.org/abs/2507.21917v3)** | 2026-10-22 | <details><summary>Accep...</summary><p>Accepted at WACV 2027. 28 pages (10 main + 18 supplementary)</p></details> |
@@ -55,9 +60,4 @@ labels: documentation
 | **[VisR-RAG-Fin: Benchmarking Multimodal RAG over Visually Rich Financial Documents](https://arxiv.org/abs/2610.24822v1)** | 2026-10-17 | <details><summary>Accep...</summary><p>Accepted at the main research track of ACM SIGIR-AP 2026, Singapore, December 13-15, 2026</p></details> |
 | **[VeriGRAG: Enhancing LLM-Based Verilog Code Generation with Structure-Aware Soft Prompts](https://arxiv.org/abs/2510.15914v2)** | 2026-10-17 | <details><summary>8 pag...</summary><p>8 pages, 6 figures. Accepted at ASP-DAC 2027; updated to the camera-ready version</p></details> |
 | **[Your Embedding Model is SMARTer Than You Think](https://arxiv.org/abs/2605.24938v2)** | 2026-10-16 | NeurIPS 2026 |
-| **[UniFGVC: Universal Training-Free Few-Shot Fine-Grained Vision Classification via Attribute-Aware Multimodal Retrieval](https://arxiv.org/abs/2508.04136v4)** | 2026-10-15 | Accepted by IEEE TMM |
-| **[KoViDoRe: A Benchmark for Korean Visual Document Retrieval](https://arxiv.org/abs/2608.20840v2)** | 2026-10-15 | v2: title updated |
-| **[PixSearch: Region-Grounded Retrieval for Knowledgeable Large Multimodal Models](https://arxiv.org/abs/2601.19060v2)** | 2026-10-13 | <details><summary>NeurI...</summary><p>NeurIPS 2026 VLM4RWD (Oral)</p></details> |
-| **[VaME: Exploring Variational Latent Reasoning for Multimodal Embeddings](https://arxiv.org/abs/2609.33402v2)** | 2026-10-09 |  |
-| **[Autoregressive Retriever: Improving Query Understanding from Item Feedback for Universal Multimodal Retrieval](https://arxiv.org/abs/2610.11666v1)** | 2026-10-08 | Under Review |
 
