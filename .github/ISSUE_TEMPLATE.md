@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 03, 2026
+title: Latest 15 Papers - November 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Xumengcen/DailyArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Composed Image Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Factorized MLLM Embeddings for Composed Image Retrieval](https://arxiv.org/abs/2611.05193v1)** | 2026-11-03 | <details><summary>Proje...</summary><p>Project page: https://cvlab-kaist.github.io/FactEmbed/, Code: https://github.com/cvlab-kaist/FactEmbed</p></details> |
 | **[Less is More: Concise Retrieval and Critic-based Re-ranking for Composed Image Retrieval](https://arxiv.org/abs/2610.27538v1)** | 2026-10-20 | <details><summary>Accep...</summary><p>Accepted at CIKM 2026</p></details> |
 | **[CaptionFuse: Training-Free Composed Product Retrieval Via VLM Intent Captioning and Weighted Embedding Fusion](https://arxiv.org/abs/2610.26661v1)** | 2026-10-19 |  |
 | **[DCR-TSF: Dual-Level Compositional Reasoning with Triadic Spherical Fusion for Training-Free Zero-Shot Composed Image Retrieval](https://arxiv.org/abs/2610.26078v1)** | 2026-10-19 | <details><summary>Accep...</summary><p>Accepted to ACCV 2026. 14 pages, 6 figures, 6 tables</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Training-Free Pseudo-Fusion for Composed Image Retrieval with Diffusion Models and Multimodal Large Language Models](https://arxiv.org/abs/2608.23102v1)** | 2026-08-24 |  |
 | **[Learning Sample-wise Rank-aware Interpolation Weights for Composed Visual Data Retrieval](https://arxiv.org/abs/2608.22500v1)** | 2026-08-23 | ECCV 2026 |
 | **[EviRank: Structured Relevance Evidence for Multimodal Image Re-ranking](https://arxiv.org/abs/2608.20886v1)** | 2026-08-21 |  |
-| **[CIRCLED: A Multi-turn CIR Dataset with Consistent Dialogues across Domains](https://arxiv.org/abs/2605.26734v2)** | 2026-08-21 | <details><summary>Accep...</summary><p>Accepted at DMLR (Journal of Data-centric Machine Learning Research). Published 19 August 2026</p></details> |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
