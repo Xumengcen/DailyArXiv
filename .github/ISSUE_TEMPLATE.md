@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 04, 2026
+title: Latest 15 Papers - November 05, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Xumengcen/DailyArXiv) page for a better reading experience and more papers.**
@@ -26,7 +26,7 @@ labels: documentation
 ## Composed Image Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Factorized MLLM Embeddings for Composed Image Retrieval](https://arxiv.org/abs/2611.05193v1)** | 2026-11-03 | <details><summary>Proje...</summary><p>Project page: https://cvlab-kaist.github.io/FactEmbed/, Code: https://github.com/cvlab-kaist/FactEmbed</p></details> |
+| **[Factorized MLLM Embeddings for Composed Image Retrieval](https://arxiv.org/abs/2611.05193v2)** | 2026-11-04 | <details><summary>Proje...</summary><p>Project page: https://cvlab-kaist.github.io/FactEmbed/, Code: https://github.com/cvlab-kaist/FactEmbed</p></details> |
 | **[Less is More: Concise Retrieval and Critic-based Re-ranking for Composed Image Retrieval](https://arxiv.org/abs/2610.27538v1)** | 2026-10-20 | <details><summary>Accep...</summary><p>Accepted at CIKM 2026</p></details> |
 | **[CaptionFuse: Training-Free Composed Product Retrieval Via VLM Intent Captioning and Weighted Embedding Fusion](https://arxiv.org/abs/2610.26661v1)** | 2026-10-19 |  |
 | **[DCR-TSF: Dual-Level Compositional Reasoning with Triadic Spherical Fusion for Training-Free Zero-Shot Composed Image Retrieval](https://arxiv.org/abs/2610.26078v1)** | 2026-10-19 | <details><summary>Accep...</summary><p>Accepted to ACCV 2026. 14 pages, 6 figures, 6 tables</p></details> |
@@ -45,6 +45,8 @@ labels: documentation
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[STARE: Scene Text-Aware multimodal Retrieval for Everyday objects](https://arxiv.org/abs/2611.06089v1)** | 2026-11-04 | <details><summary>ACCV ...</summary><p>ACCV 2026 MM4SciReal Workshop</p></details> |
+| **[Clips2Story: Training-Free Video Storyboarding and Editing Using Multimodal Retrieval-Embedded Generation](https://arxiv.org/abs/2611.05992v1)** | 2026-11-04 |  |
 | **[Fuse To Align: Multimodal Representation Learning for Retrieval via Hypergraph Regularization](https://arxiv.org/abs/2611.03370v1)** | 2026-11-02 | 24 pages, 7 figures |
 | **[MultiInpaintCOCO: Fine-Grained Visual Understanding in Multiple Languages](https://arxiv.org/abs/2611.03309v1)** | 2026-11-02 |  |
 | **[Bridging Low-Level Image Fusion and High-Level Semantic Understanding](https://arxiv.org/abs/2611.02896v1)** | 2026-11-02 |  |
@@ -58,6 +60,4 @@ labels: documentation
 | **[Trust Before Fusion: QIMG-7 and Source-Aware Resolution for Polluted Multimodal RAG](https://arxiv.org/abs/2607.10798v2)** | 2026-10-18 | <details><summary>23 pa...</summary><p>23 pages, 6 figures, 23 tables. Preprint under review</p></details> |
 | **[WILSON - Multi-magnification composites as a foundation for patient-level pathology analysis and diagnostic text generation](https://arxiv.org/abs/2609.25123v2)** | 2026-10-18 | <details><summary>61 pa...</summary><p>61 pages, 6 main figures, with 11 additional figures and 29 tables in the appendices</p></details> |
 | **[VisR-RAG-Fin: Benchmarking Multimodal RAG over Visually Rich Financial Documents](https://arxiv.org/abs/2610.24822v1)** | 2026-10-17 | <details><summary>Accep...</summary><p>Accepted at the main research track of ACM SIGIR-AP 2026, Singapore, December 13-15, 2026</p></details> |
-| **[VeriGRAG: Enhancing LLM-Based Verilog Code Generation with Structure-Aware Soft Prompts](https://arxiv.org/abs/2510.15914v2)** | 2026-10-17 | <details><summary>8 pag...</summary><p>8 pages, 6 figures. Accepted at ASP-DAC 2027; updated to the camera-ready version</p></details> |
-| **[Your Embedding Model is SMARTer Than You Think](https://arxiv.org/abs/2605.24938v2)** | 2026-10-16 | NeurIPS 2026 |
 
